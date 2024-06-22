@@ -1,61 +1,64 @@
 .title {
   font-size: 300%;
+  margin-bottom: 2cm;
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
-  text-align: center;
-}
-
-.particle {
-  font-size: 95%;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 13cm;
+  margin-top: 3cm;
+  max-width: 15cm;
   text-align: center;
 }
 
 .subtitle {
   font-size: 150%;
+  margin-bottom: 3cm;
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
   text-align: center;
 }
 
 .author {
-  font-size: 150%;
+  font-size: 130%;
   font-weight: bold;
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  margin-top: 2cm;
+  max-width: 15cm;
   text-align: center;
 }
 
-.titles {
+.titles > p {
   font-size: 80%;
   font-weight: bold;
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  max-width: 13cm;
+  max-width: 15cm;
   text-align: center;
 }
 
 .edition {
-  font-size: 80%;
+  font-size: 90%;
   font-weight: bold;
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  margin-top: 2cm;
+  max-width: 15cm;
   text-align: center;
 }
 
 .publisher {
+  margin-top: 2cm;
+  margin-left: auto;
+  margin-bottom: 8cm;
+}
+
+.publisher > p {
   font-weight: bold;
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
   text-align: center;
 }
 
@@ -70,17 +73,21 @@ hr {
   margin-top: 1cm;
 }
 
+h1 {
+  font-size: 1.7em;
+}
+
 h1, h2, h3, h4 {
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
   text-align: center;
 }
 
 .sm {
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
 }
 
 .sm > p {
@@ -96,14 +103,14 @@ h1, h2, h3, h4 {
   font-size: small;
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
   text-align: center;
 }
 
 .pr, ul {
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
   text-align: justify;
 }
 
@@ -115,7 +122,7 @@ a {
 .rf {
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
 }
 
 .rf > ol > li {
@@ -128,7 +135,7 @@ a {
   margin-top: 1em;
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
   overflow-x: auto;
 }
 
@@ -145,7 +152,7 @@ th, td {
 figure, .mt {
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
   text-align: center;
 }
 
@@ -153,11 +160,15 @@ img {
   max-width: 100%;
 }
 
+math {
+  font-family: serif;
+}
+
 .sg {
   font-style: italic;
   margin-left: auto;
   margin-right: auto;
-  max-width: 13cm;
+  max-width: 15cm;
   text-align: right;
 }
 
