@@ -1,5 +1,5 @@
 * {
-  font-family: serif;
+  font-family: "Noto Serif", serif;
 }
 
 .title {
@@ -191,6 +191,27 @@ img {
 
 u.o {
   text-decoration: overline;
+}
+
+.st {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: fit-content;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 13cm;
+}
+
+.row {
+  display: flex;
+  gap: 1em;
+}
+
+.column {
+  flex: 50%;
 }
 
 .fg {
