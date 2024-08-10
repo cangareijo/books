@@ -57,7 +57,7 @@ Formando o ceo, o mar, a terra, os rios,
 Até o mesmo sol, tambem produzem
 As messes, arvoredos, e animaes:
 Bem como nestes versos, qu'ides lendo,
-???tas por vario modo as mesmas letras,
+---tas por vario modo as mesmas letras,
 No vario som, e no sentido vario,
 Palavras bem distinctas vaõ formando.
 Eis quanto os mesmos elementos geraõ
@@ -897,7 +897,7 @@ entre sí.
 
 [a] E. 1.ª Com o enxofre.
 
-(aa) Percabureto d'enxofre.
+(aa) Percarbureto d'enxofre.
 
 § 87 Genero 3.º Do Phosphoro. Phosphuretos.
 
@@ -1050,29 +1050,45 @@ constitue a agua:
 
 § 108 (A) Acidos naturaes e artificiaes.
 
-E. 1.ª Acido acetico. E. 2.ª A. malico.
+E. 1.ª Acido acetico.
+
+E. 2.ª A. malico.
 
 E. 3.ª A. oxalico.
 
 § 109 (B) Acidos naturaes.
 
-E. 4.ª A. bensoico. E. 5.ª A. boletico.
+E. 4.ª A. bensoico.
 
-E. 6.ª A. citrico. E. 7.ª A. ellagico.
+E. 5.ª A. boletico.
 
-E. 8.ª A. fungico. E. 9.ª A. galhico.
+E. 6.ª A. citrico.
 
-E. 10.ª A. igasurico. E. 11.ª a A. quinico.
+E. 7.ª A. ellagico.
 
-E. 12.ª A. laccico. E. 13.ª A. meconico.
+E. 8.ª A. fungico.
 
-E. 14.ª A. morico. E. 15.ª A. succinico.
+E. 9.ª A. galhico.
+
+E. 10.ª A. igasurico.
+
+E. 11.ª a A. quinico.
+
+E. 12.ª A. laccico.
+
+E. 13.ª A. meconico.
+
+E. 14.ª A. morico.
+
+E. 15.ª A. succinico.
 
 E. 16.ª A. tartarico.
 
 § 110 (C) Acidos artificiaes.
 
-E. 17.ª A. camforico. E. 18.ª A. mucico.
+E. 17.ª A. camforico.
+
+E. 18.ª A. mucico.
 
 XIII
 
@@ -1084,21 +1100,31 @@ E. 21.ª A. pyrotartarico.
 
 E. 22.ª A. suberico.
 
-E. 23.ª A. sulfovinico. E. 24.ª A. zumico.
+E. 23.ª A. sulfovinico.
 
-Seccaõ 2.ª Substancias em que o hydrogeno relativamente
+E. 24.ª A. zumico.
+
+Secçaõ 2.ª Substancias em que o hydrogeno relativamente
 ao oxygeno está em muito maior
 proporçaõ que a que constitue a agua.
 
 § 111  (A) Subacidas.
 
-E. 1.ª A. sebacico. E. 2.ª A. stearico.
+E. 1.ª A. sebacico.
 
-E. 3.ª A. margarico E. 4.ª A. oleico.
+E. 2.ª A. stearico.
 
-E. 5.ª A. phocenico. E. 6.ª A. delfinico.
+E. 3.ª A. margarico.
 
-E. 7.ª A. caprico. E. 8.ª A. butirico.
+E. 4.ª A. oleico.
+
+E. 5.ª A. phocenico.
+
+E. 6.ª A. delfinico.
+
+E. 7.ª A. caprico.
+
+E. 8.ª A. butirico.
 
 E. 9.ª A. cholesterico.
 
@@ -1106,15 +1132,25 @@ E. 9.ª A. cholesterico.
 
 § 112 Cera.
 
-E. 1.ª Cerina. E. 2.ª Myricina.
+E. 1.ª Cerina.
 
-E. 3.ª Stearina. E. 4.ª Elaina.
+E. 2.ª Myricina.
 
-E. 5.ª Cetina. E. 6.ª Phocenina.
+E. 3.ª Stearina.
 
-E. 7.ª Butirina. E. 8.ª Hyrcinina.
+E. 4.ª Elaina.
 
-E. 9.ª Cholesterina. E. 10.ª Ambrina.
+E. 5.ª Cetina.
+
+E. 6.ª Phocenina.
+
+E. 7.ª Butirina.
+
+E. 8.ª Hyrcinina.
+
+E. 9.ª Cholesterina.
+
+E. 10.ª Ambrina.
 
 § 113 (C) Oleos fixos.
 
@@ -1140,7 +1176,7 @@ R. elemi. R. almecega.
 
 R. de guaiaco. R. de jalapa.
 
-R. de sandaraque. R. sangue de Diago.
+R. de sandaraque. R. sangue de Drago.
 
 R. taca-mahaca. &c. &c.
 
@@ -1157,13 +1193,19 @@ resinas.
 
 XIV
 
-E. 1.ª Assafetida. E. 2.ª Galbano.
+E. 1.ª Assafetida.
 
-E. 3.ª Myrrha. E. 4.ª Olibano.
+E. 2.ª Galbano.
+
+E. 3.ª Myrrha.
+
+E. 4.ª Olibano.
 
 (bb) Gommas resinas unidas ao extractivo.
 
-E. 5.ª Aloes. E. 6.ª Scamonéa.
+E. 5.ª Aloes.
+
+E. 6.ª Scamonéa.
 
 (cc) Gommas resinas.
 
@@ -1187,7 +1229,9 @@ E. 3.ª Bassorina.
 
 § 119 (B) Feculites.
 
-E. 1.ª Amidina. E. 2.ª Amidonite.
+E. 1.ª Amidina.
+
+E. 2.ª Amidonite.
 
 E. 3.ª Inulina.
 
@@ -1211,7 +1255,7 @@ E. 3.ª Dahlina.
 
 E. 1.ª Principio doce dos oleos.
 
-E. 2.ª Mannile.
+E. 2.ª Mannite.
 
 E. 3.ª Glycirrhisina.
 
@@ -1221,9 +1265,13 @@ E. 5.ª Olivilla.
 
 § 122 (E) Lignites.
 
-E. 1.ª Lignina. E. 2.ª Gossippinna.
+E. 1.ª Lignina.
 
-E. 3.ª Suberina. E. 4.ª Medullina.
+E. 2.ª Gossippina.
+
+E. 3.ª Suberina.
+
+E. 4.ª Medullina.
 
 Secçaõ 4.ª Substancias em que as proporções de oxygeno
 e hydrogeno naõ estaõ determinadas,
@@ -1234,47 +1282,77 @@ acidos para formar saes.
 
 XV
 
-E. 1.ª Atropina. E. 2.ª Brucina.
+E. 1.ª Atropina.
 
-E. 3.ª Cinchonina. E. 4.ª Quinina.
+E. 2.ª Brucina.
 
-E. 5.ª Daphnina. E. 6.ª Daturina.
+E. 3.ª Cinchonina.
 
-E. 7.ª Delphina. E. 8.ª Emetina.
+E. 4.ª Quinina.
 
-E. 9.ª Esculina. E. 10.ª Hyoscimina.
+E. 5.ª Daphnina.
 
-E. 11.ª Morphina. E. 12.ª Narcotina.
+E. 6.ª Daturina.
 
-E. 13.ª Picrotoxina. E. 14.ª Piperina.
+E. 7.ª Delphina.
+
+E. 8.ª Emetina.
+
+E. 9.ª Esculina.
+
+E. 10.ª Hyoscimina.
+
+E. 11.ª Morphina.
+
+E. 12.ª Narcotina.
+
+E. 13.ª Picrotoxina.
+
+E. 14.ª Piperina.
 
 E. 15.ª Rhubarbarina.
 
 E. 16.ª Solanina.
 
-E. 17.ª Strychnina. E. 18.ª Veratrina.
+E. 17.ª Strychnina.
+
+E. 18.ª Veratrina.
 
 § 124 Secçaõ 5.ª Substancias cuja classificaçaõ naõ póde
 ainda fazer-se em alguma das secções
 antecedentes.
 
-E. 1.ª Calendulina. E. 2.ª Cathartina.
+E. 1.ª Calendulina.
 
-E. 3.ª Extractivo. E. 4.ª Geléa.
+E. 2.ª Cathartina.
+
+E. 3.ª Extractivo.
+
+E. 4.ª Geléa.
 
 E. 5.ª Gomma artificial.
 
-E. 6.ª Hordeina. E. 7.ª Quassina.
+E. 6.ª Hordeina.
 
-E. 8.ª Saponina. E. 9.ª Scillitina.
+E. 7.ª Quassina.
 
-E. 10.ª Senegina. E. 11.ª Tannino.
+E. 8.ª Saponina.
 
-E. 12.ª Ulmina. E. 13.ª Zeina.
+E. 9.ª Scillitina.
+
+E. 10.ª Senegina.
+
+E. 11.ª Tannino.
+
+E. 12.ª Ulmina.
+
+E. 13.ª Zeina.
 
 § 125 Secçaõ 6.ª Chromites, ou materias colorantes.
 
-E. 1.ª Carthamita. E. 2.ª Chlorophyla.
+E. 1.ª Carthamita.
+
+E. 2.ª Chlorophyla.
 
 E. 3.ª Santalina.
 
@@ -1282,7 +1360,9 @@ E. 4.ª Materia colorante da Orcanetta.
 
 E. 5.ª Materia colorante da curcuma.
 
-E. 6.ª Caphopicrite. E. 7.ª Cariaina.
+E. 6.ª Caphopicrite.
+
+E. 7.ª Cariaina.
 
 CLASSE 3.ª COMPOSTOS QUATERNARIOS.
 
@@ -1321,7 +1401,9 @@ ORDEM 3.ª Substancias quaternarias d'origem animal.
 
 § 130 Secçaõ 1.ª Naõ acidas.
 
-E. 1.ª Fibrina. E. 2.ª Gelatina.
+E. 1.ª Fibrina.
+
+E. 2.ª Gelatina.
 
 E. 3.ª Albumina.
 
@@ -1329,7 +1411,7 @@ E. 4.ª Materia caseosa.
 
 E. 5.ª Uréa. E. 6.ª Muco.
 
-E. 7.ª Osmasoma. E. 8.ª Picroel.
+E. 7.ª Osmasoma. E. 8.ª Picromel.
 
 E. 9.ª Materia animal da cochenilha.
 
@@ -1367,7 +1449,7 @@ CLASSE 2.ª
 
 [b] S. mucilaginosos.
 
-[c] S.sacharinos.
+[c] S. sacharinos.
 
 [d] S. resinosos.
 
@@ -1453,17 +1535,17 @@ XVII
 
 § 226 (B) Liquidos acidos.
 
-[a] Homor da transpiraçaõ.
+[a] Humor da transpiraçaõ.
 
 [b] Leite.
 
 L. de vacca.
 
-L. de mulber.
+L. de mulher.
 
 L. de cabra.
 
-L. d'ovelba.
+L. d'ovelha.
 
 XVIII
 
@@ -2141,7 +2223,7 @@ Logo
 (B) 1.º Para reduzir gráos de Reaumur a qualquer dos
 outros tres teremos:
 
-1.º R = 4 (F−32) / 9; 2.º R = 4/5 C; 3.º R = 80 + 15/8 D [•]
+1.º R = 4 (F−32) / 9; 2.º R = 4/5 C; 3.º R = 80 + 15/8 D [*]
 
 2.º Para reduzir gráos de Farenheit aos outros, teremos
 
@@ -2149,7 +2231,7 @@ outros tres teremos:
 
 3.º Para reduzir gráos centigrados aos outros, teremos
 
-1.º C = 5/4 R; 2.º C = 5 (F-32) / 9; 3.º C = 100 + 15/10 D.
+1.º C = 5/4 R; 2.º C = 5 (F−32) / 9; 3.º C = 100 + 15/10 D.
 
 4.º Para reduzir gráos de Delisle aos outros é preciso
 examinar se elles saõ contados na escala descendente
@@ -2232,7 +2314,7 @@ parte reflectido.
 polida dos corpos, e seguindo a mesma lei, fazendo o
 angulo d'incidencia igual ao angulo de reflexaõ; mas
 o poder reflectente tambem varia conforme os corpos,
-e está na razaõ inversa do poder radiante (I).
+e está na razaõ inversa do poder radiante [1].
 
 3.ª Encontrando uma superfice naõ polida, baça, ou de
 côr escura, é em grande parte absorvido; pois que os
@@ -2251,8 +2333,8 @@ fazendo o angulo de refracçaõ menor que o angulo d'incidencia;
 no que differe da refracçaõ formada por um
 corpo solido, que atravessa um liquido.
 
-5.ª Naõ augmenta sensivelmente o pezo dos corpos (II),
-contra alguns (III).
+5.ª Naõ augmenta sensivelmente o pezo dos corpos [2],
+contra alguns [3].
 
 6.ª Póde polarizar-se bem como a luz, e segundo as mesmas
 leis (veja-se o artigo 13).
@@ -2270,15 +2352,17 @@ quando saõ máos conductores: este fenomeno depende
 da mutua affinidade, que ha entre os corpos e o calorico.
 O seu movimento é neste caso muito mais retardado,
 do que quando se move em um espaço livre, e
-elastico, (I) a través do qual só póde mover-se em fórma
+elastico, [4] a través do qual só póde mover-se em fórma
 radiante e com grande velocidade.
 
-(I) Leslie.
+[1] Leslie.
 
-(II) Lavoisier, Rumford.
+[2] Lavoisier, Rumford.
 
-(III) Deluc, Fordyce,
+[3] Deluc, Fordyce,
 Morveau.
+
+[4] Leslie.
 
 17
 
@@ -2287,13 +2371,13 @@ depende da quantidade de calorico com a qual o
 corpo se póde combinar, antes de mudar de estado,
 e da natureza especifica de cada corpo. Os metaes
 saõ optimos conductores do calorico, e o vidro é
-muilo máo: os gazes saõ ainda peores conductores,
-e tanto mais, quanto mais rarefeitos estadõ (II).
+muito máo: os gazes saõ ainda peores conductores,
+e tanto mais, quanto mais rarefeitos estaõ [5].
 
 9.ª Obra em sentido inverso ao da attracçaõ: esta tende a
 reunir as moleculas; o calorico, a separallas d'entre si.
 
-10.ª Tende a equilibrar-se ou distribuir-se igualmente (III)
+10.ª Tende a equilibrar-se ou distribuir-se igualmente [6]
 quando se põe em contacto com os outros corpos,
 que naõ estejaõ na mesma temperatura: perde calorico
 o que tem mais, recebe-o o que tem menos, e ficaõ
@@ -2302,30 +2386,28 @@ ambos reduzidos a uma mesma temperatura.
 [a] As leis que seguem os corpos no seu arrefecimento
 e aquecimento dependem de muitas circunstancias,
 que os Fysicos tem ultimamente examinado com a
-maior sagacidade (IV).
+maior sagacidade [7].
 
 (aa) A lei do aquecimento dos corpos para uma temperatura,
 que naõ exceda 100 C, já descoberta
 por Newton, e que igualmente tem lugar
 para o seu arrefecimento, é = O calorico que
 se perde em dados tempos é proporcional ao
-que fica no corpo. = (V)
+que fica no corpo. = [8]
 
 (bb) Mas o arrefecimento depende mais de varias
 causas;
 
-(I) Leslie.
-
-(II) Nas regiões elevadas da atmosféra o estado de rarefacçaõ
+[5] Nas regiões elevadas da atmosféra o estado de rarefacçaõ
 do ar é uma das causas do frio intenso, que lá se experimenta
 (Beudant).
 
-(III) Delaroche, Prevot, Pictet, Dalton, Biot, Rumford,
+[6] Delaroche, Prevot, Pictet, Dalton, Biot, Rumford,
 Kraft, Richmann, Leslie.
 
-(IV) Black é o inventor desta opiniaõ.
+[7] Black é o inventor desta opiniaõ.
 
-(V) Veja-se a Fysica de Beudant, e o Curso elementar de
+[8] Veja-se a Fysica de Beudant, e o Curso elementar de
 Chimica e Fysica de L. S. M. de Albuquerque, o Tratado de
 Biot, &c.
 
@@ -2410,7 +2492,7 @@ si, que tomaõ a apparencia do ar. Sua temperatura
 (aa) Entre o estado liquido e o de vapor ha
 um ponto no qual começa a vaporizaçaõ
 ou conversaõ de liquido em vapor, e que
-se chama ebullicaõ; este ponto naõ é marcado
+se chama ebulliçaõ; este ponto naõ é marcado
 pelo mesmo gráo de temperatura para
 todos os liquidos (a agua ferve a 100° C).
 Até este ponto o liquido vai adquirindo
@@ -2436,13 +2518,13 @@ ponto da ebulliçaõ influe
 tanto mais cedo quanto aquella é menor; a
 ebulliçaõ no vazio da machina pneumatica
 apparece a 69° C = 55°,2 R menos que na
-pressaõ ordinaria (I); a agua pois ferve ali
+pressaõ ordinaria [9]; a agua pois ferve ali
 a 31° C = 24°,8 R, e o alcool a 9° C = 7°,2
 R. O mesmo effeito terá proporcionalmente
 lugar nas montanhas elevadas.
 
 (bbb) a natureza dos vazos em que é contido o liquido.
-(II)
+[10]
 
 (ccc) como causa retardente, a dissoluçaõ de substancias
 salinas ou saccarinas no liquido.
@@ -2488,9 +2570,9 @@ mesma pressaõ: tanto menor fôr esta, tanto
 maior é o volume dos gazes, ou se diz que
 estaõ mais rarefeitos.
 
-(I) Robinson.
+[9] Robinson.
 
-(II) Achard.
+[10] Achard.
 
 21
 
@@ -2506,13 +2588,13 @@ sua dilataçaõ é constante, seja qual fôr a natureza
 do gaz, augmentando igualmente, segundo se lhes
 junta uma quantidade igual de calorico, cuja dilataçaõ
 é, desde zero de gráos até 100° C = 80° R,
-igual a (I) 0,00375 do antecedente volume para
+igual a [11] 0,00375 do antecedente volume para
 cada gráo; suppondo a pressaõ atmosferica sempre
 a mesma.
 
 [b] A dilataçaõ dos liquidos é variavel: em geral o liquido
 é tanto menos dilatavel, quanto mais gráos
-de calorico preciza para chegar á ebulliçaõ (II); sem
+de calorico preciza para chegar á ebulliçaõ [12]; sem
 que isto dependa da sua densidade. O mercurio é
 menos dilatavel que a agua, e esta menos que o
 alcool; porque o termo ou ponto da ebulliçaõ do
@@ -2546,9 +2628,9 @@ depende da affinidade que ha entre este principio e o corpo,
 e por tanto só quando o mesmo corpo estiver saturado
 delle é que começará a mostrar elevaçaõ de temperatura.
 
-(I) Dallon, Gay Lussac.
+[11] Dallon, Gay Lussac.
 
-(II) Dulong, Pictet.
+[12] Dulong, Pictet.
 
 22
 
@@ -2572,7 +2654,7 @@ o calorico especifico, que existe no estado latente nos
 corpos, e naõ demonstravel pelo thermometro.
 
 6 Por mais hypotheses que se tenhaõ estabelecido para achar
-a quantidade absoluta de calorico nos corpos (I), nenhuma
+a quantidade absoluta de calorico nos corpos [13], nenhuma
 dellas é sufficiente para resolver o problema; elle depende primeiro
 que tudo de achar o zero real de calorico nos corpos,
 que naõ será facilmente possivel. Podemos genericamente affirmar,
@@ -2594,7 +2676,7 @@ a sensaçaõ do frio.
 deste a solido, perdem calorico, e fazem perceber a sensaçaõ
 de calor.
 
-(I) Irvine, Crawford, Dalton.
+[13] Irvine, Crawford, Dalton.
 
 23
 
@@ -2644,10 +2726,10 @@ e aos factos. - As propriedades da luz saõ;
 1.ª mover-se em linha recta, e com uma velocidade
 extrema; é calculada por mais de quatro milhões de
 legoas por minuto; em oito minutos e treze segundos
-corre a distancia que nos sepára do sol (I),
+corre a distancia que nos sepára do sol [14],
 e com movimento uniforme.
 
-(I) Mais de 15 milhões de legoas de 2000 toesas cada
+[14] Mais de 15 milhões de legoas de 2000 toesas cada
 uma; facto reconhecido pela observaçaõ dos eclipses dos satellites
 de jupiter, feita por Roemer em 1675, e confirmada por
 Bradley em 1728.
@@ -2770,7 +2852,7 @@ o raio luminoso em dous fasciculos, dos quaes
 um segue a direcçaõ ordinaria da refracçaõ, e o
 outro uma differente e extraordinaria, dependente
 d'outras leis; este fenomeno tem o nome de refracçaõ
-debrada.
+dobrada.
 
 (cc) Quando se olha a través d'um cristal, v. g. o
 spatho d'Islandia, de modo que a linha que parte
@@ -2856,7 +2938,7 @@ uma parte das moleculas luminosas dos
 raios directos.
 
 [d] Sobre os principios enunciados (a, b, c,) é fundada
-a doutrina dos microscropios, telescopios, e outros
+a doutrina dos microscopios, telescopios, e outros
 vidros para corrigir os defeitos do orgaõ da vista.
 
 [e] Os corpos que naõ daõ passagem á luz chamaõ-se
@@ -3075,12 +3157,12 @@ mais residisse essa faculdade; donde se vê que a energia
 calorica, e a desoxydante, estaõ na razaõ inversa em
 cada um dos raios corádos desde o roxo até ao vermelho.
 
-4.º Raios magnetisantes (I).
+4.º Raios magnetisantes [15].
 
 Se dirigirmos um raio luminoso somente sobre uma das
 extremidades d'uma agulha d'aço, privando o resto de
 luz, por meio de qualquer corpo que a intercepte (uma
-folla de papel por ex.) essa extremidade adquire constantemente
+folha de papel por ex.) essa extremidade adquire constantemente
 a propriedade magnetica do pólo norte, e a
 outra consequentemente a do pólo sul.
 
@@ -3112,7 +3194,7 @@ nos atrevemos a deixar de seguir a geral opiniaõ da naõ identidade
 da luz e do calorico, e da exposta composiçaõ fisica da
 luz solar.
 
-(I) Novos annaes de sciencias e artes, tom. I.
+[15] Novos annaes de sciencias e artes, tom. I.
 
 33
 
@@ -3569,7 +3651,7 @@ base, e esta em estado electro-positivo relativo ao acido.
 
 [c] Tambem se tem concluido da observaçaõ dos differentes
 estados electricos relativos dos corpos que a sua
-affinidade reciproca parece eslar na razaõ inversa das
+affinidade reciproca parece estar na razaõ inversa das
 suas propriedades electricas; assim aquelle corpo cujo
 estado electrico fôr em gráo mais positivo para com outro,
 que oppostamente esteja no gráo mais negativo,
@@ -3583,7 +3665,7 @@ estados oppostos de electricidade estaõ no menor gráo.
 36 A electricidade tem produzido os mesmos effeitos porém
 com muito mais difficuldade, o que depende, naõ da natureza
 do agente, mas da natureza dos apparelhos; isto é do modo
-como se pôe em acçaõ a sua força, ou do modo como ella se
+como se põe em acçaõ a sua força, ou do modo como ella se
 desenvolve. As applicações da electricidade á analyse chimica
 e á vida civil constituem differentes e interessantes ramos da
 doutrina da mesma electricidade. - Consulte-se Biot, Singer,
@@ -3649,17 +3731,19 @@ tempo: mas esta variaçaõ é menos sensivel que a da
 declinaçaõ; a extremidade da agulha que está virada
 para o pólo é sempre a que fica mais baixa; e só nos
 pontos do globo que se acharem no equador magnetico,
-estará a agulha perfeitamente horizontal. (I)
+estará a agulha perfeitamente horizontal. [16]
 
 A agulha magnetica tem uma variaçaõ diurna; á proporçaõ
 que o sol s'eleva no horizonte, ella vai marchando para
 oeste, até uma hora depois do meio dia, e volta á sua situaçaõ
 primitiva até o occaso do sol, ficando em repouso até á manhã
 seguinte; a amplitude destas variações diurnas varía d'um dia
-para outro, e ainda mais segundo as latitudes. (I)
+para outro, e ainda mais segundo as latitudes. [17]
 
-(I) Dictionnaire de Sciences naturelles, e Dictionnaire de
+[16] Dictionnaire de Sciences naturelles, e Dictionnaire de
 histoire naturelle (Magnetisme).
+
+[17] Novos annaes de sciencias e artes, tom. I.
 
 44
 
@@ -3717,12 +3801,12 @@ cheiro, insipido, muito expansivel; pezo especifico de 0,1025
 sendo tomado o do ar como 1: submettido a uma pressaõ forte
 torna-se luminoso, propriedade que lhe é commum com o chloro,
 e com o ar: unico dos gazes proprio á respiraçaõ, e que
-menos refrange a luz: one-se com todos os corpos simples com
+menos refrange a luz: une-se com todos os corpos simples com
 emissaõ de calorico, e outras vezes com a emissaõ de calorico
 e luz: em virtude desta uniaõ se formaõ compostos que tem o
 nome d'oxydos, e acidos: aquelles podem conter o oxygeno em
 differentes proporções sem que adquiraõ as propriedades acidas,
-e obtem entaõ o nome de protoxydos, deutoxydos, triloxydos,
+e obtem entaõ o nome de protoxydos, deutoxydos, tritoxydos,
 peroxydos, segundo que nelle ha uma, duas, tres, ou a maxima
 proporçaõ d'oxygeno: mas, quando uma substancia naõ é combinavel
 em mais d'uma proporçaõ, tem entaõ simplesmente o nome
@@ -3732,8 +3816,6 @@ combinar-se em diversas proporções naõ só com um corpo simples,
 mas com dous ou tres ao mesmo tempo; sendo por esta
 razaõ o principio mais universalmente espalhado na natureza;
 por quanto
-
-(I) Novos annaes de sciencias e artes, tom. I.
 
 45
 
@@ -4175,10 +4257,10 @@ privada d'agua.
 
 3.ª Combinações resultantes dos acidos com os oxydos, ou
 em geral com aquellas substancias que se chamaõ bases
-salificaveis (I) tem o nome de saes; o sal pois é o resultado
+salificaveis [18] tem o nome de saes; o sal pois é o resultado
 da combinaçaõ d'um acido com uma base
 
-(I) Tem sido proposto o termo salinavel, mas salificavel é
+[18] Tem sido proposto o termo salinavel, mas salificavel é
 mais conforme com a linguagem portugueza; porque, assim como
 se diz de vitrificar, vitrificado, tambem deve dizer-se salificar,
 salificado, salificavel; e muitos com que podemos exemplificar
@@ -4195,7 +4277,7 @@ sal acaba em ato; e se em ozo o nome generico acaba
 em ito; e, ajuntando-lhe o nome da base precedido da
 particula de, vem o nome especifico: assim
 
-(A) [a] Sulfatos. Saes produzidos pelo acido sulfurico v.g.
+(A) [a] Sulfatos. Saes produzidos pelo acido sulfurico v. g.
 
 (a') sulfato de potassium.
 
@@ -4227,7 +4309,7 @@ base.
 Se o acido é em excesso, faz-se preceder o nome pela
 proposiçaõ super; se em diminuiçaõ, relativamente á
 base, pela proposiçaõ sub: o gráo do oxydo exprime-se
-ajuntando prolo, deuto, trito, ou per, adiante daquellas
+ajuntando proto, deuto, trito, ou per, adiante daquellas
 proposições, mas antes do nome do acido: assim
 
 Super deuto nitrato de cobre; é um composto do
@@ -4307,7 +4389,7 @@ do gaz, isto é do seu gráo de secura ou de humidade:
 bem seco, e na temperatura ordinaria,
 é absorvido por uns; e para que o seja por outros
 é precisa a acçaõ do calorico, e alguns ainda
-nesmo na mais elevada temperatura o naõ absorvem:
+mesmo na mais elevada temperatura o naõ absorvem:
 a sua combinaçaõ faz-se por differentes
 meios, e em proporções fixas; os compostos
 resultantes tem o nome, d'oxydos metallicos:
@@ -4540,7 +4622,7 @@ Ainda mais fusivel que o mercurio, e facilmente
 se volatilisa em vapores verdes: absorve o oxygeno seco
 na temperatura ordinaria, mas oxydaõ-se só as
 camadas externas, que ficaõ de côr branca; e applicando-lhe
-a acçaõ do calor de fasaõ, a absorpçaõ
+a acçaõ do calor de fusaõ, a absorpçaõ
 do oxygeno é instantanea com evoluçaõ de calorico e
 luz. Combina-se com os corpos combustiveis naõ metallicos,
 excepto com o bóro e carbono: torna quebradiços
@@ -4620,7 +4702,7 @@ e metaes, tornando estes frageis.
 2.º Molybdeno. Descoberto em 1782 por Hielm.
 Fragil, difficil d'obter no estado metallico, e só
 em pequenos graõs agglomerados; infusivel;
-combina-se com o exygeno, pondo-se incandescente
+combina-se com o oxygeno, pondo-se incandescente
 ao ar livre, produzindo pela sublimaçaõ
 um acido branco: combina-se tambem com alguns
 combustiveis.
@@ -4687,7 +4769,7 @@ usado na pintura das porcelanas.
 
 5.º Titanium. Descoberto em 1781 por Gregor.
 Conhecem-se pouco suas propriedades em razaõ
-da sua infosibilidade; apenas se tem obtido em
+da sua infusibilidade; apenas se tem obtido em
 fórma de peliculas friaveis, mais vermelhas que
 o cobre; inatacavel pelos acidos; mas oxyda-se
 facilmente pelos alcalis, e no calor.
@@ -5258,7 +5340,11 @@ arredaõ mais da terra; quando pelo contrario
 sobre a terra, estabelecendo-se o equilibrio
 entre esta e os corpos atmosfericos por
 um modo insensivel. (Diction. de sciences medicales)
-(I).
+[19].
+
+[19] Estendemos-nos sobre este objecto mais do que permittia
+o titulo do opusculo, e por ter nimia correlaçaõ com o fim
+a que nos propomos.
 
 73
 
@@ -5283,10 +5369,6 @@ substancia, que seja capaz de contrabalançar o effeito
 da pressaõ atmosferica sobre o mercurio da cuba, ou
 banho; bem como na perfeita expurgaçaõ do ar, que o
 mercurio possa conter.
-
-(I) Estendemos-nos sobre este objecto mais do que permittia
-o titulo do opusculo, e por ter nimia correlaçaõ com o fim
-a que nos propomos.
 
 74
 
@@ -5612,7 +5694,7 @@ chloroxy-carbonico, e de que fallaremos ainda no §
 
 81
 
-[d] E.ª 3. Oxydo de phosphoro.
+[d] E. 3.ª Oxydo de phosphoro.
 
 Solido, insipido, mais leve e menos fusivel que o
 phosphoro; côr branca avermelhada, arde rapidamente
@@ -5634,7 +5716,7 @@ auxilio d'um brando calor, tal como o da maõ,
 e com tal ou qual explosaõ, e evoluçaõ de calorico
 e de luz: com o gaz hydrogeno ha detonaçaõ,
 e fórma-se agua, e acido hydrochlorico; o phosphoro
-arde com elle produzindo uma peqnena explosaõ;
+arde com elle produzindo uma pequena explosaõ;
 a acçaõ do enxofre é ao principio lenta, mas
 torna-se depois violenta, havendo formaçaõ de
 acido sulfuroso, e chlorureto d'enxofre. Os metaes
@@ -5696,7 +5778,7 @@ Genero 2.º Oxydos metallicos.
 Unem-se aos acidos, e formaõ com elles substancias salinas.
 Saõ solidos, frageis, sem cheiro, excepto o d'osmium,
 insipidos, excepto os da 2.ª Secçaõ, o deutoxydo d'arsenico, e
-o d'osinium; diversamente corados, mais pesados que a agua,
+o d'osmium; diversamente corados, mais pesados que a agua,
 e mais leves que os seus metaes, em volumes iguaes, excepto
 os de potassium, e sodium.
 
@@ -6157,7 +6239,7 @@ d'oxygeno.
 
 [c] E. 3.ª Oxydos de zinco.
 
-(aa) Protoxydo. Flores de zinco, lana philosofica. Branco,
+(aa) Protoxydo. Flores de zinco, lana philosophica. Branco,
 naõ se decompõe pelo calor, mas reductivel
 pela pilha; insoluvel na agua, soluvel na potassa;
 absorve o acido carbonico da atmosféra; constitue
@@ -6227,7 +6309,7 @@ mais sensiveis e poderosos reactivos deste veneno.
 
 [b] E. 2.ª Oxydos de molibdeno.
 
-(aa) Protoxyto. Pardo, aspecto metallico, naõ se une
+(aa) Protoxydo. Pardo, aspecto metallico, naõ se une
 aos acidos para formar saes!... Tem 100 de metal,
 e 33,51 d'oxygeno.
 
@@ -6352,7 +6434,7 @@ fezes d'ouro. Amarello, absorve o oxygeno
 do ar em temperatura elevada, e passa a tritoxydo:
 contém 100 de metal, e 7,72 d'oxygeno.
 
-(cc) Tritoxydo. Minio, sarcaõ. Vermelho; sem acçaõ
+(cc) Tritoxydo. Minio, zarcaõ. Vermelho; sem acçaõ
 sobre o ar e sobre o oxygeno; reduz-se pelo calor
 a deutoxydo: compõe-se de 100 de metal, e 11,58
 d'oxygeno.
@@ -6516,7 +6598,7 @@ com os acidos, mas póde decompor alguns.
 
 (cc) acçaõ do oxydo de phosphoro. O acido nitrico cede-lhe
 algum do seu oxygeno, e aquelle passa a
-acido phosporico; o que póde acontecer com outros.
+acido phosphorico; o que póde acontecer com outros.
 
 (dd) acçaõ do oxydo de chloro, cede sempre o seu
 oxygeno aos acidos que podem absorver mais, o
@@ -6656,7 +6738,7 @@ Liquido, mui saboroso, incristallisavel; obra sobre alguns
 corpos queimados como grande desoxydante: compõe-se
 de 100 de phosphoro, e de 37,44 d'oxygeno.
 
-[f] E. 6.ª Acido phosphoreso.
+[f] E. 6.ª Acido phosphoroso.
 
 Muito acido, menos desoxydante, e cristallisavel; compõe-se
 de 100 de phosphoro, e de 74,88 d'oxygeno.
@@ -7063,7 +7145,7 @@ de 6 a 10, e o peso especifico aos 9,00; é esta dissoluçaõ
 que tem o nome de ammoniaca, alcali volatil fluido;
 este liquido entaõ apresenta as propriedades exactamente
 d'huma dissoluçaõ alcalina: o gaz ammoniacal
-combina-se, como base saliticavel, com os acidos, produzindo
+combina-se, como base salificavel, com os acidos, produzindo
 seus saes com caracteres proprios; entre estes
 ha um mui notavel; e é, que ainda sendo o acido gazoso,
 o producto da combinaçaõ, tanto do gaz acido
@@ -7492,11 +7574,11 @@ kermes mineral &c.
 
 [l] E. 10.ª Sulfureto de bismutho.
 
-[m] E. 11.ª Sulfurelo de cobre. Pyrites de cobre.
+[m] E. 11.ª Sulfureto de cobre. Pyrites de cobre.
 
 Compõe-se de 100 partes de cobre e de 25,6 d'enxofre.
 
-[n] E. 12.ª Sulfurelo de chumbo. Galena.
+[n] E. 12.ª Sulfureto de chumbo. Galena.
 
 Brilhante, menos fusivel que o chumbo, cristallisa em
 octaedros: compõe-se de 100 de metal e de 15,41 d'enxofre.
@@ -7794,7 +7876,7 @@ A divisaõ natural dos productos que vamos examinar devería
 ser estabelecida sobre as proporções relativas de cada um
 dos principios componentes: no estado actual da Chimica, e
 partindo do termo de comparaçaõ da composiçaõ da agua, e
-pondo de parte o carbono, podem estabelecer-se duas mui dederminadas
+pondo de parte o carbono, podem estabelecer-se duas mui determinadas
 Secções ou Ordens.
 
 120
@@ -8045,7 +8127,7 @@ usos; para fazer a tinta d'escrever, para mordente, &c.
 
 125
 
-E. 10.ª Acido igasurico. Extrahido por Pelletier e Caventon
+E. 10.ª Acido igasurico. Extrahido por Pelletier e Caventou
 da fava de Santo Ignacio, e noz vomica; é pardo,
 sabor acerbo, cristallisa em massa granulosa, soluvel
 na agua e no alcool; está sempre unido á strychnina.
@@ -8110,7 +8192,7 @@ E. 17.ª Acido camforico. Branco, cristallisa em parallelepipidos
 arranjados como em barba de penna, sabor amargo,
 cheiro do assafraõ, effloresce ao ar, e é nelle
 inalteravel; lançado sobre os carvões em braza
-dissipa-se em fumos, e se sublimna sem alteraçaõ
+dissipa-se em fumos, e se sublima sem alteraçaõ
 em vasos tapados; dissolve-se em 100 partes d'agua
 fria, e em 10 sendo fervente; e em partes iguaes no
 alcool frio; os acidos fortes o dissolvem. Naõ existe
@@ -8143,7 +8225,7 @@ obtem-se pela distillaçaõ do acido tartarico.
 
 127
 
-E. 22.ª Acido suberico. Pó branco, sabor mui fraco; fande-se
+E. 22.ª Acido suberico. Pó branco, sabor mui fraco; funde-se
 como uma gordura, e depois se volatilisa sem
 residuo; lançado sobre os carvões em braza ao ar,
 exhala o cheiro de sebo; soluvel em 80 partes d'agua.
@@ -8206,7 +8288,7 @@ E. 5.ª Acido phocenico. Liquido similhante a um oleo volatil,
 cheiro forte, sabor acido picante, deixa na
 lingua uma mancha branca, soluvel na agua, mais
 soluvel no alcool; resulta da saponificaçaõ do oleo
-do golânho.
+do golfinho.
 
 E. 6.ª Acido delfinico. Amarello côr de limaõ, cheiro muito
 desagradavel, e sabor ingrato; resulta da saponificaçaõ
@@ -8855,7 +8937,7 @@ E. 7.ª Euphorbio, em massas irregulares, sem cheiro,
 sabor muito amargo e caustico, excitando muito
 a mucosa nasal, como sternutorio eminentissimo.
 
-E. 8.ª Gomma gulla, succo espesso da cambogia gutta,
+E. 8.ª Gomma gutta, succo espesso da cambogia gutta,
 em massas opacas vermelhas e de pó amarello,
 sabor acre e amargo; usa-se na pintura, é um
 violento drastico.
@@ -8980,7 +9062,7 @@ como é dito; contem além disto o gluten, cuja
 substancia as torna proprias para o fabrico do
 paõ, e tanto mais panificaveis quanto é maior
 a porçaõ desta substancia: além do gluten todas
-as farinhas cereaes contem outro prineipio, que,
+as farinhas cereaes contem outro principio, que,
 por ser muito mais abundante na cevada, foi por
 Proust chamado hordeina.
 
@@ -9151,7 +9233,7 @@ Branca, mui porosa, similhante á suberina, dá acido
 oxalico tratada pelo acido nitrico, e um carvaõ d'apparencia
 metallica.
 
-Seccaõ 4.ª Substancias em que as proporçôes do oxygeno e
+Secçaõ 4.ª Substancias em que as proporções do oxygeno e
 hydrogeno naõ estaõ determinadas, e que podem servir
 de base aos acidos para formar saes.
 
@@ -9466,10 +9548,10 @@ do Levante; e é pouco usada na tinturaria.
 
 152
 
-E. 4.ª Materia colorante da Orcanela, ou lithospermum tinctorium.
+E. 4.ª Materia colorante da Orcaneta, ou lithospermum tinctorium.
 É vermelha escura; fractura resinosa; amollece-se
 facilmente a calor brando, derrete-se a 60°, e
-decompõe-se em temperatura mais alta: o acido nitriCO
+decompõe-se em temperatura mais alta: o acido nitrico
 a converte em acido oxalico, e alguma materia
 amarga: os alcalis, a cal, a baryta, e strontiana combinando-se
 com ella lhe fazem tomar uma bella côr
@@ -9531,7 +9613,7 @@ violete claro e tambem carregado; cujas côres saõ mui
 pouco inalteraveis.
 
 2.º Páo do Brazil (caesalpinia crista) dá a côr vermelha
-á lå; e á seda o carmezim quasi similhante ao da
+á lã; e á seda o carmezim quasi similhante ao da
 cochenilha; mas estas côres naõ saõ solidas; desbotaõ
 facilmente.
 
@@ -9657,7 +9739,7 @@ naõ é a indigotina pura; ella contém em 100 partes:
 verde unida a ammoniaca, alguma indigotina desoxydada,
 extractivo, e gomma; 2.º materias soluveis
 no alcool, como materia verde, resina vermelha, e
-alguma indigotina; 3.º materias solaveis no acido hydrochlorico,
+alguma indigotina; 3.º materias soluveis no acido hydrochlorico,
 que saõ resina vermelha, e carbonato de
 cal; 4.º materias insoluveis nestes tres liquidos, que
 saõ silica e indigotina; vindo a dar em geral, 50
@@ -9924,7 +10006,7 @@ Artigo addicional.
 Da fermentaçaõ e putrefacçaõ.
 
 132 Ao estudo das materias vegetaes e animaes, mui naturalmente
-se segue o da ferimentaçaõ e putrefacçaõ.
+se segue o da fermentaçaõ e putrefacçaõ.
 
 Chamamos fermentaçaõ ao movimento espontaneo que se
 dá entre as moleculas dos corpos organicos privados de vida,
@@ -10024,9 +10106,9 @@ succos de fructos.
 e intestino que dá sempre por principal resultado o vinagre,
 ou o acido acetico: posto que esta fermentaçaõ succeda
 na maior parte dos casos á que fica descripta, ou á
-alcoolica, ella é com tado distincta, e póde dar-se sem
+alcoolica, ella é com tudo distincta, e póde dar-se sem
 que primeiro tenha lugar aquella. A acetificaçaõ tem lugar
-pela exposiçaõ d'um liquor vinoso ao ar e na tomperatura
+pela exposiçaõ d'um liquor vinoso ao ar e na temperatura
 de 10 a 30 gráos; daqui resulta que o carbono
 do liquido, combinado com o gaz oxygeno do ar, produz
 acido carbonico, com cuja evoluçaõ o liquido se
@@ -10414,7 +10496,7 @@ com o que se forma um sal neutro.
 Acetatos       | 1:3          | 1:7,3    | A. de chumb. 217,662   | 72,30          
 Arseniatos     | 1:2,5        | 1:7,20   |                        | 72,04          
 Sub-boratos    | 1:2          | 1:2,696  | S. B. de barium 136,97 | 13,6           
-Subcarbonatos  | 1:2          | 1:2,754  | S.C. de sodium 143,13  | 27,54          
+Subcarbonatos  | 1:2          | 1:2,754  | S. C. de sodium 143,13  | 27,54          
 Carbonatos     | 1:4          | 1:5,518  | C. de sodium 71,5      | 55,18          
 Chloratos      | 1:5          | 1:9,37   | Ch. de potassium       | 93,7           
 Chromatos      | 1:3          | 1:7,277  | Ch. de chumbo 190      | 72,77 ou 77,48?
@@ -11298,7 +11380,7 @@ da planta, que passaõ para a agua.
 
 Depois d'havermos descripto os principios, tanto ternarios
 como quaternarios, que derivaõ da organisaçaõ e secreçaõ
-animal, curpre que examinemos, ainda que rapidamente, seus
+animal, cumpre que examinemos, ainda que rapidamente, seus
 diversos materiaes immediatos, e mais complicadas combinações.
 
 219 Secçaõ 1.ª Productos immediatos da digestaõ.
@@ -11322,7 +11404,7 @@ que fornecem os alimentos.
 durante a digestaõ duodenal, por meio da acçaõ
 provavelmente da bilis: elle é branco, lacteo, cheiro já
 spermatico se elle vem d'alimentos animaes, ja nullo
-se prové d'alimentos vegetaes, e de sabor um pouco salgado,
+se provém d'alimentos vegetaes, e de sabor um pouco salgado,
 mudando em verde o xarope de violetas; entregue
 a si mesmo coagula-se, e separa-se em
 
@@ -11773,7 +11855,7 @@ A urina differe segundo as enfermidades; assim
 na ictericia é alaranjada, e Orfila achou nella a bilis,
 ou pelo menos a resina verde.
 
-na hydropisia anasarca, é mui carregada d'albuinina.
+na hydropisia anasarca, é mui carregada d'albumina.
 
 na gotta, contém mais phosphato calcareo.
 
@@ -11896,7 +11978,7 @@ gordurosas, enxofre, e phosphato acido de potassa,
 de cal, e de magnesia. A composiçaõ do cerebello
 é a mesma.
 
-3.º Nerros; tem muita similhança a sua composiçaõ com a
+3.º Nervos; tem muita similhança a sua composiçaõ com a
 do cerebro, contendo menos materia gordurosa, mais
 albumina, e mais gordura ordinaria.
 
@@ -12111,7 +12193,7 @@ perifericos; naõ tendo mobilidade espontanea como os
 animaes, o que até certo ponto é plenamente verdadeiro:
 porém se descermos na escala gradativa dos animaes, acharemos
 que nos ultimos individuos deste reino, estes caracteres
-distinctives naõ saõ taõ salientes, e que mesmo naõ saõ
+distinctivos naõ saõ taõ salientes, e que mesmo naõ saõ
 demonstraveis: é certo que o vegetal mostra em toda a extensaõ
 das suas partes a mesma disposiçaõ de tecidos; entretanto que
 discorrendo pelos animaes superiores achamos distinctas cavidades
@@ -12194,7 +12276,7 @@ elle fica sufficientemente explicado; ao que só temos que
 accrescentar, que as areolas communicaõ umas com as outras,
 ou porque as cavidades se abraõ umas n'outras, ou porque
 existem em suas paredes lateraes póros ou mesmo fendas; o que
-parece mais provavel, porque o microscropio as demonstra;
+parece mais provavel, porque o microscopio as demonstra;
 assim como notaremos, que este tecido no seu estado de pureza
 nativa tem pouca consistencia, e que as areolas differentemente
 figuradas e dispostas produzem tecidos secundarios, que ao depois
@@ -12498,7 +12580,7 @@ em zero de gráos, ou proximo, as plantas naõ
 germinaõ, o que, alem disto, é provado pelo que
 acontece no inverno; cujo gráo de frio com tudo
 naõ destroe a faculdade germinativa da semente:
-porém a temperatura propria á germinaçaõ é relatiVa
+porém a temperatura propria á germinaçaõ é relativa
 a cada espece de semente; geralmente fallando
 25° a 30° C, acceleraõ a evoluçaõ das partes constituintes
 do embriaõ, porém mais extinguiriaõ a
@@ -12509,8 +12591,8 @@ experiencias d'Homberg, naõ confirmadas por Saussure:
 se as sementes saõ muito encravadas na terra
 naõ germinaõ, e é preciso para isso que estejaõ em
 proximo contacto com a atmosféra: o ar naõ obra
-só como ar, mas sim pelo oxygena de que é composto;
-com tudo, assim como os animaes imorreriaõ
+só como ar, mas sim pelo oxygeno de que é composto;
+com tudo, assim como os animaes morreriaõ
 se respirassem em huma atmosfera de gaz oxygeno,
 pelo excesso d'acçaõ com que este gaz influiria na
 respiraçaõ e seus fenomenos, o mesmo acontece aos
@@ -12569,9 +12651,9 @@ e facilitaõ a germinaçaõ.
 2.º Luz. Este agente retarda muito a germinaçaõ; a evoluçaõ
 do germe é mais prompta na obscuridade, como
 prováraõ Ingenhousz e Senebier, e a razaõ disto é
-pela sua acçaõ chimica; porque como a luz docompõe
+pela sua acçaõ chimica; porque como a luz decompõe
 nos vegetaes o seu acido carbonico, fixando nellas
-o carbono, e expellindo dellas o gaz oxygeno, dende a
+o carbono, e expellindo dellas o gaz oxygeno, donde a
 sua dureza; e devendo obrar do mesmo modo sobre o embriaõ,
 que entaõ necessita de estar em estado conveniente
 de molleza, precisa ao contrario expellir porçaõ
@@ -12630,8 +12712,8 @@ communicaçaõ entre as cotyledones e a gemmula, a
 qual só começa a vegetar quando a radicula tem uma
 certa desenvoluçaõ, e se forem cortadas aquellas, a joven
 planta morre; terminando o seu uso e necessidade quando
-a plumula começa a coroar-se de novas follas, pois
-entaõ cahem de per si mesinas.
+a plumula começa a coroar-se de novas folhas, pois
+entaõ cahem de per si mesmas.
 
 13
 
@@ -12936,7 +13018,7 @@ annualmente ramos destituidos de gomos, e
 que secaõ; como a arruda, a salva, a alfasema &c.
 
 [c] lenhoso (lignosus), tronco persistente, com dureza
-do lenbo; e é
+do lenho; e é
 
 (aa) arbusteo (fruticosus), cuja raiz é lenhosa, e
 della brotaõ annualmente muitos troncos que
@@ -12977,7 +13059,7 @@ as euphorbiaceas, a celidonia.
 
 (C) Fórma:
 
-1.º cilindrico ou rolico (leres, cilindricus).
+1.º cilindrico ou roliço (leres, cilindricus).
 
 2.º vergonteado ou verdascoso, é delgado, comprido,
 adelgaça para a ponta.
@@ -13194,7 +13276,7 @@ estojo medullar, se acha um liquido geletinoso, chamado cambium
 por Grew e Duhamel, cujo fluido contém os primeiros
 rudimentos da organisaçaõ: á proporçaõ que a hastea ou tronco
 se vai desenvolvendo, a camada mais interna deste liquido se
-organisa, endurece, e muda em liber, o qual no fim do primejro
+organisa, endurece, e muda em liber, o qual no fim do primeiro
 anno se acha convertido em substancia lenhosa ainda molle,
 e imperfeitamente formada: no outono a vegetaçaõ fica estacionaria,
 e a camada exterior do cambium fica como em lethargo;
@@ -13512,7 +13594,7 @@ alongados e agudos.
 [c] mixtos, quando contém ao mesmo tempo folhas e
 flores, como o lilás.
 
-N.B. O conhecimento e distincçaõ dos gomos é um importante
+N. B. O conhecimento e distincçaõ dos gomos é um importante
 objecto para o agricultor: deve saber que os gomos
 foleares naõ daõ nunca fructo, o que é só exclusivo aos floraes;
 e que, quando a planta abunda naquelles, é preciso que elle
@@ -13657,7 +13739,7 @@ formaõ-se quasi sempre primeiro que as flores, por quanto devemos
 ter como um principio solido que a formaçaõ dos orgaõs
 da vegetaçaõ é sempre anterior á dos orgaõs da reproducçaõ.
 
-64 As follas achaõ-se nos gomos ou enroladas ou dobradas.
+64 As folhas achaõ-se nos gomos ou enroladas ou dobradas.
 
 [a] enroladas
 
@@ -13720,7 +13802,7 @@ do cólo da raiz, ou do tronco, ou dos ramos.
 
 68 Para formar a lamina membranosa da folha, o tecido
 cellular se dilata e espalma, e os filetes vasculares se ramificaõ
-e separaõ, offerecendo um ou muitos troncos prineipaes, dos
+e separaõ, offerecendo um ou muitos troncos principaes, dos
 quaes sahem numerosas ramificações cheias de tecido cellular.
 
 69 Chama-se costa da folha o fasciculo principal que parte
@@ -13840,7 +13922,7 @@ geral naõ é a mesma durante o dia que durante a noite.
 35
 
 Na acacia nota-se que, quando o sol nasce, as folhas estaõ
-estendidas horisontalmente; mas á porporçaõ que elle sóbe, e
+estendidas horisontalmente; mas á proporçaõ que elle sóbe, e
 que cresce o calor, ellas se estiraõ e levantaõ perpendicularmente;
 mas declinando o sol tornaõ a abaixar-se, e ficaõ pendentes
 durante a noite: o fenomeno contrario tem lugar em uma
@@ -13917,7 +13999,7 @@ além disto observaremos ainda que n'outras arvores as folhas
 se seccaõ no outono, e ellas ficaõ ainda apegadas aos ramos
 até á primavera seguinte, como se vê no carvalho; e por fim
 concluiremos com notar que outras arvores todos os annos perdem
-as suas follas, para novamente se vestirem no principio
+as suas folhas, para novamente se vestirem no principio
 da primavera; antes da quéda precede quasi sempre a mudança
 da côr, ellas se fazem amarellas, como no til, e choupo; ou
 vermelhas, como na vinha, e sumagre; ou pardas, como na nogueira;
@@ -13994,7 +14076,7 @@ seu auge e vigor; e já se vê que provém de uma causa opposta,
 que é o estado de calor atmosferico: no em tanto ainda
 esta naõ é a causa proxima de tal fenomeno.
 
-82 Parece que a folla cahe pela fraqueza do seu peciolo, e
+82 Parece que a folha cahe pela fraqueza do seu peciolo, e
 que esta queda ou fraqueza causal está preparada antecipadamente
 no vegetal; vemos que na primavera e no veraõ ha tal ou
 qual difficuldade no arranco de uma folha, e que o peciolo quando
@@ -14407,7 +14489,7 @@ differentes sentidos.
 1 Lucidas ou luzentes (lucida); a superfice reflecte
 a luz, como a hera, a larangeira, a camelia, &c.
 
-2 Lisas (laevia) sem a mais leve aspereza; o golfao.
+2 Lisas (laevia) sem a mais leve aspereza; o golfaõ.
 
 3 Glabras (glabra) sem pellos.
 
@@ -14462,7 +14544,7 @@ mais de um anno; os pinheiros, a larangeira.
 sustentando muitos foliolos parciaes, separaveis um do outro,
 e estes rentes, ou sustentados em pequenos peciolos. Ha varios
 gráos de composiçaõ nas folhas: e entaõ ou o peciolo (que neste
-caso se chama rachis) se naõ ramifica, e a folla se chama
+caso se chama rachis) se naõ ramifica, e a folha se chama
 composta; ou se ramifica, e tem o nome de decomposta.
 
 91 [a] Folhas simplesmente compostas.
@@ -14578,7 +14660,7 @@ elles saõ relativos ás seguintes circunstancias.
 
 (A) Apego.
 
-1 Coulinares (caulinares) apegadas á hastea ou caule,
+1 Caulinares (caulinares) apegadas á hastea ou caule,
 como nas malvaceas, e rubiaceas:
 
 (a') amplexicaules (amplexicaules) abraçando o tronco,
@@ -14660,7 +14742,7 @@ das folhas.
 
 Artigo 2.º Dos cirrhos, éllos, ou gavinhas.
 
-96 Estes orgaõs saõ filetes herbaceos ou lenhoses, mas simples
+96 Estes orgaõs saõ filetes herbaceos ou lenhosos, mas simples
 ou ramosos, que se enrollaõ em spiral aos corpos visinhos,
 por meio dos quaes as plantas trepadoras se agarraõ, e sustentaõ,
 ficando aliás em razaõ da sua fraqueza alastradas e
@@ -14678,7 +14760,7 @@ se enrola como nos cravos.
 epiderme, involucro herbaceo e cortiçal, fibras lenhosas, vasos
 proprios e porosos, trachéas, e tecido cellular.
 
-Na sua parte descriptiva temos os seguinteis termos.
+Na sua parte descriptiva temos os seguintes termos.
 
 1 Axillar (eirrus axillaris), nasce na axilla das folhas.
 
@@ -14961,7 +15043,7 @@ mais flores femininas, que se conserva com o fructo: e é
 (a') escamosa, como no carvalho.
 
 (b') foliacea, formada de pequenos foliolos, como na
-avelam (coryllus avellana).
+avelam (corylus avellana).
 
 (c') valvaceo formada de uma só peça, cobrindo inteiramente
 os fructos, e abrindo-se por valvulas para o
@@ -15253,7 +15335,7 @@ d'apego aos estames.
 Corolla monopetala regular tem as seguintes denominações:
 
 [a] tubulada, sendo o seu tubo mui comprido, como nas boas
-noites (hyctago hortensis).
+noites (nyctago hortensis).
 
 [b] campanulada, naõ apresenta tubo manifesto, é bojuda,
 ou vai engrossando em bojo desde a base até a sua parte
@@ -15315,7 +15397,7 @@ dispostas em cruz, quasi sempre iguaes, e no caso contrario
 oppostas duas a duas; constituem uma familia
 natural chamada das cruciferas, como a cove, as iberides.
 
-[b] rosaccas é composta de cinco petalas, e rarissimas vezes
+[b] rosaceas é composta de cinco petalas, e rarissimas vezes
 de mais, cuja unha é muito curta, e que saõ patentes;
 como a rosa simples, a amendoeira, a celidonia.
 
@@ -15446,7 +15528,7 @@ maior
 
 63
 
-5 .................. Pentandia - é a classe mais vasta.
+5 .................. Pentandria - é a classe mais vasta.
 
 6 .................. Hexandria.
 
@@ -15616,7 +15698,7 @@ estilete, como nas labiadas.
 (C) Do estigma.
 
 196 É a parte do pistillo, de ordinario glandular, collocada
-ou no vertice do estilete, ou sobre o ovario, destinada a receceber
+ou no vertice do estilete, ou sobre o ovario, destinada a receber
 a impressaõ da substancia fecundante.
 
 66
@@ -16152,7 +16234,7 @@ e neste caso estaõ quasi todas as plantas dicotyledoneas.
 
 (b') endorhizas (endorhisae) quando a radicula é inteiramente
 escondida por um involucro particular,
-que tem o nome de colcorhiza, e que se rompe na
+que tem o nome de coleorhiza, e que se rompe na
 época da germinaçaõ para lhe dar sahida; e neste
 caso estaõ quasi todas as plantas monocotyledoneas.
 
@@ -16339,7 +16421,7 @@ em membranas ou em pêllos, que tem o nome de
 
 pappo, papillo, martinete (pappus), é um appendice
 representando o calix abortado, formado de sedas
-ou palietas; e por isso o pappo é
+ou palhetas; e por isso o pappo é
 
 marginado (marginatus), quando offerece um bordo
 ou corôa membranacea.
@@ -16352,7 +16434,7 @@ pellos mais ou menos divididos e similhantes á seda.
 
 80
 
-3.º Pélakenio (cremocarpio de Mirbel) é um fructo simples,
+3.º Pólakenio (cremocarpio de Mirbel) é um fructo simples,
 formado por um ovario adherente ao calix, que
 na época da sua perfeita maturescencia se reparte em
 dous ou mais repartimentos, cada um dos quaes se
@@ -16622,7 +16704,7 @@ alguns delles assim reputados.
 1.º Salvineas.
 
 165 Familia formada da ordem dos fetos de Linneo, comprehendendo
-a pilularia, a marsilea, a salvinia, e o isocles.
+a pilularia, a marsilea, a salvinia, e o isoetes.
 
 A fructificaçaõ é situada nas axillas das folhas, ou junto
 da raiz em involucros ou sporulos que contém os orgaõs sexuaes.
@@ -16677,7 +16759,7 @@ das grandes arvores. As raizes saõ delicadas, fibrozas, ou
 ramosas: as folhas saõ mui estreitas, agudas, luzedias, recolhem
 e aspiraõ a humidade, decompondo a agua e acido carbonico,
 absorvendo o hydrogeno e carbono, e exhalando o
-oxygeno, como as follas dos outros vegetaes; dispostas imbricadamente
+oxygeno, como as folhas dos outros vegetaes; dispostas imbricadamente
 sobre o tronco, que nos musgos tem o nome de
 surculo (surculus).
 
@@ -17239,7 +17321,7 @@ sendo esta decomposiçaõ tanto mais activa, quanto mais
 expostas as folhas estaõ á acçaõ do sol, e ellas mais
 sãs e verdes saõ, em cujo caso reverte para a atmosfera
 a maior parte do oxygeno, misturado com algum azoto.
-Com tudo Sennebier provou que á sombra tamdem
+Com tudo Sennebier provou que á sombra tambem
 se dá uma pequena decomposiçaõ. As radiculas
 absorvem com a humidade do terreno o acido carbonico
 nelle existente, e levado com a massa dos succos
@@ -17258,7 +17340,7 @@ existentes nas cellulas do tecido herbaceo e parenchymatoso
 da folha absorvem o acido carbonico, e apropriando
 o carbono deixaõ livre o oxygeno; parece que
 esta opiniaõ é confirmada pelas experiencias de Sennebier
-e Woodhouse, fazendo vêr que as follas mais ricas
+e Woodhouse, fazendo vêr que as folhas mais ricas
 em partes parenchymatosas saõ tambem as que exhalaõ
 mais oxygeno.
 
@@ -17539,7 +17621,7 @@ acçaõ da luz sobre a vegetaçaõ, esta continuidade compensa o
 defeito da intensidade proveniente da direcçaõ muito obliqua
 dos raios solares: e por isto nos paizes polares as plantas que
 durante o inverno perdem as folhas, podem sustentar-se melhor;
-bem como vaõ bem nos paizes equatoriaes as que tem uma vegelaçaõ
+bem como vaõ bem nos paizes equatoriaes as que tem uma vegetaçaõ
 continua. Do mesmo modo nos paizes situados ao nivel
 do mar os raios solares perdem da sua intensidade, por
 terem d'atravessar uma atmosféra espessa; devendo pela razaõ
@@ -17597,7 +17679,7 @@ radiante, faz que uma dada planta resista mais aos mesmos
 extremos, que um terreno em circunstancias oppostas; e do
 mesmo modo dada a natureza da planta e do terreno, aquella
 resiste mais ao frio em uma atmosféra secca, e ao calor em
-uma atmosféra hamida. O frio póde ainda chegar ao ponto de
+uma atmosféra humida. O frio póde ainda chegar ao ponto de
 congelar os liquidos dentro do tecido vegetal; e sendo a congelaçaõ
 subita, pois que é sempre acompanhada de dilataçaõ,
 fará rebentar sempre as paredes dos vasos e das cellulas, determinando
@@ -17717,7 +17799,7 @@ a evaporaçaõ, naõ se tem ainda podido apreciar sua
 influencia real.
 
 4.º Acçaõ da agua. Sem este liquido a vegetaçaõ esmorece;
-os terrenos aridos, naõ suscepetiveis de regar-se, saõ estereis;
+os terrenos aridos, naõ susceptiveis de regar-se, saõ estereis;
 debalde o lavrador procura aduballos, em vaõ os lavra
 em differentes direcções, porque ainda que por taes meios se
 consiga attrahir alguma humidade da atmosfera, o calor do
@@ -17758,7 +17840,7 @@ de tanta mais carecem os vegetaes; essas materias saõ
 o acido carbonico, o ar atmosferico, materias soluveis animaes
 e vegetaes, principios alcalinos ou terreos; e aquelles
 vegetaes cujo tecido deve conter muito carbono, como as arvores
-de lenbo duro e consistente, receaõ mais que outros as
+de lenho duro e consistente, receaõ mais que outros as
 aguas extremamente puras: as que apresentaõ muitas materias
 azotadas em sua composiçaõ chimica, como as cruciferas, os
 cogumellos &c., querem de preferencia os terrenos carregados
@@ -18291,7 +18373,7 @@ prados.
 estado selvagem gostaõ dos terrenos leves e substanciaes.
 
 7.º Plantas rupestres ou dos rochedos, destas se passa insensivelmente
-ás dos muros, lugares pedregozos e cascallentos.
+ás dos muros, lugares pedregozos e cascalhentos.
 
 8.º Plantas dos areaes ou dos terrenos moveis, cuja classificaçaõ
 é algum tanto difficil.
@@ -18533,7 +18615,7 @@ terras.
 
 2.º A atmosféra, os trombos, e os ventos transportaõ a
 distancias immensas as sementes de muitas plantas, que
-pela sua extremna pequenez e leveza podem ser transportadas
+pela sua extrema pequenez e leveza podem ser transportadas
 facilimamente, sem contradicçaõ com as leis fysicas.
 
 3.º Os animaes concorrem mui sensivelmente para este fim;
@@ -18564,7 +18646,7 @@ outras.
 
 124
 
-200 Resta por fim enumerar as regióes botanicas, ou espaços,
+200 Resta por fim enumerar as regiões botanicas, ou espaços,
 que, á excepçaõ das especes introduzidas, offerecem um
 certo numero de plantas que lhes saõ proprias, e que se podem
 chamar aborigenes: aquellas que podem enumerar-se saõ
@@ -18708,7 +18790,7 @@ dividida em duas ordens fundadas sobre a structura do ovario
 ser ou nú, sem pericarpo (Gymnospermia), ou coberto com
 elle (Angiospermia).
 
-A 15.ª Classe (Telradynamia) que comprehende vegetaes
+A 15.ª Classe (Tetradynamia) que comprehende vegetaes
 de seis estames, dos quaes dous saõ mais curtos e quatro
 mais altos, foi dividida em duas Ordens; fundadas na fórma
 do fructo ser uma siliqua ou uma silicula, isto é sem siliquosa
@@ -18819,7 +18901,7 @@ e Polygamia.
 que pertencem a diversas Classes.
 
 Muitos destes inconvenientes saõ mais ou menos facilmente
-remediaveis, mas alguns delles naõ tem recurso, princicipalmente
+remediaveis, mas alguns delles naõ tem recurso, principalmente
 offerecidos ao principiante.
 
 205 Diversos botanicos tem imaginado algumas reformas,
@@ -19198,7 +19280,7 @@ do periclinio; saõ periclinoides, quando, sendo imbricadas
 á roda d'um clinantho axiforme, cujo vertice inapendiculado
 sustenta o disco, ellas escondem as flores
 da corôa a que pertencem, e offerecem a apparencia
-d'um periclinio, como no evax, filogo &c.: além destas
+d'um periclinio, como no evax, filago &c.: além destas
 podem ter outras denominações.
 
 136
@@ -19434,7 +19516,7 @@ I.ª Flores com um só estame.
 
 Ord. Monogynia - Digynia.
 
-II.ª Flores com dous estates.
+II.ª Flores com dous estames.
 
 Ord. 1.ª Monogynia - 2.ª Digynia - 3.ª Trigynia.
 
@@ -19531,7 +19613,7 @@ Ord. 1.ª Diandria - 2.ª Triandria - 3.ª Tetrandria -
 XXI.ª Flores unisexuaes no mesmo individuo.
 
 Ord. 1.ª Monandria - 2.ª Diandria - 3.ª Triandria -
-4.ª Tetandria - 5.ª Pentandria - 6.ª Hexandria -
+4.ª Tetrandria - 5.ª Pentandria - 6.ª Hexandria -
 7.ª Heptandria - 8.ª Polyandria - 9.ª Monadelphia.
 
 XXII.ª Flores unisexuaes em dous differentes individuos.
@@ -19559,9 +19641,9 @@ Do Methodo Natural de Jussieu.
 
 206 As Ordens naturaes, diz Linneo, saõ uteis para conhecer
 a natureza das plantas, as artificiaes para distinguir as
-especes entre si (1); o methodo natural é pois e será o primeiro
+especes entre si [20]; o methodo natural é pois e será o primeiro
 e ultimo fim da Botanica, o primeiro e ultimo fim dos desejos
-botanicos (2).
+botanicos [21].
 
 Será pois o limite dos conhecimentos botanicos um methodo
 natural perfeito; para o conseguir, muito tem trabalhado
@@ -19575,7 +19657,7 @@ de que elles saõ tirados, e sendo a reproducçaõ o fim essencial
 da vegetaçaõ, é nos orgaõs a ella destinados, que devemos
 ir buscar os caracteres, e segundo o gráo d'importancia daquelles,
 assim avaliaremos estes: os caracteres pois de mais valor
-seraõ tirados pela seguinte progressaõ (3).
+seraõ tirados pela seguinte progressaõ [22].
 
 1.º Do embriaõ, que é o fim de tudo.
 
@@ -19624,11 +19706,11 @@ primeira divisaõ as raizes saõ commumente desenvolvidas na
 semente, e por isto chamadas Exorhyzas: temos pois que nas
 plantas vasculares ou cotyledoneas as
 
-(1) Linn., Gener. Plant.
+[20] Linn., Gener. Plant.
 
-(2) Linn., Phil. Bot.
+[21] Linn., Phil. Bot.
 
-(3) Decandolle, Theorie Elem.
+[22] Decandolle, Theorie Elem.
 
 143
 
