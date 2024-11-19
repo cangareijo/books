@@ -171,7 +171,7 @@ ART. 1.º Das estipulas (stipula) . . . id.
 ART. 2.º Das gavinhas (cirrhi) . . . 58
 ART. 3.º Dos aculeos, ferrões, abrolhos ou das
 arnias das plantas . . . 59
-ART. 4.º Do Trichismo (tricbismus). Hispidez
+ART. 4.º Do Trichismo (trichismus). Hispidez
 (hispiditas) . . . 60
 ART. 5.º Das Glandulas (glandulae) . . . 62
 DIVISAO II. Orgãos da reproducção ou fructificação . . . 64
@@ -321,7 +321,7 @@ ART. 3.º Vasos fendidos ou falsas tracheas . . . id.
 ART. 4.º Tracheas verdadeiras . . . 151
 ART. 5.º Vasos mixtos . . . id.
 ART. 6.º Vasos proprios . . . 152
-Art. 7.º Tubos ou vasos simplices . . . id.
+ART. 7.º Tubos ou vasos simplices . . . id.
 ART. 8.º Fibras . . . id.
 ART. 9.º Prosenchyma . . . 153
 ART. 10.º Poros . . . id.
@@ -1472,15 +1472,15 @@ SECÇÃO 1.ª
 
 Orgãos da Germinação.
 
-Logo que o embrião sahe des seus involucros, segundo
+Logo que o embrião sahe dos seus involucros, segundo
 Richard, deve ser considerado: 1.º macropodo
 (macropodius), isto he, de radicula muito grossa, inchada
 na cabeça: 2.º macrocephalo (macrocephalus)
 tendo as cotyledones inchadas, formando hum corpo
-mais grosso que o restante: 3.º exorbiso (exorbisus)
+mais grosso que o restante: 3.º exorhiso (exorhisus)
 de radiculas todas desenvolvidas no embrião; não fazendo
-mais do que allongar a germinação: 4.º synorbiso
-(synorbisus) de radicula hum pouco soldada ao perisperma.
+mais do que allongar a germinação: 4.º synorhiso
+(synorhisus) de radicula hum pouco soldada ao perisperma.
 O embrião desenvolvido compõe-se segundo
 Myrbel do blastema, e das cotyledones. O blastema
 compõe-se de collo, plumula, e radicula.
@@ -1584,7 +1584,7 @@ ARTIGO 2.º
 
 Da Plumula (Plumula.)
 
-§.1.º He a parte do embrião que se eleva acima
+§. 1.º He a parte do embrião que se eleva acima
 das cotyledones, e que he destinada a formar na
 nova planta todas as partes que se elevão em sentido
 inverso da raiz, o cauliculo, e o gominho.
@@ -1912,7 +1912,7 @@ ao plano da terra, ou fórma com elle hum angulo quasi
 recto, no verbasco. Direito (rectus) quando impertigado,
 sem tortuosidade alguma, fórma com a terra hum
 angulo recto, no junco, e helianthus altiformis. Obliquo
-ou esguelbado, (obliquus) quando está posto de esguelha,
+ou esguelhado, (obliquus) quando está posto de esguelha,
 apartando-se do plano da terra quasi tanto, como
 da linha perpendicular ao mesmo plano, no lathyrus
 aphica. Espiral (spiralis) torcido em espiral. Trepador
@@ -2265,7 +2265,7 @@ muitos filetes.
 
 SECÇÃO IV.
 
-Descripção dos gomos, bolbos, balbilhos.
+Descripção dos gomos, bolbos, bolbilhos.
 
 ARTIGO 1.º
 
@@ -2439,7 +2439,7 @@ a sua superficie.
 (facies, lamina) pode ser luzida (lucida); unida
 (laevis); liza (levigata); escabrosa (escabritia);
 mamillosa (papillosa), vesiculosa (vesiculosa), guarnecida
-de pontcs vesiculares, de tuberculos, e de gomos:
+de pontos vesiculares, de tuberculos, e de gomos:
 verrugosa (verrucosa) cheia de pequenas eminencias
 arredondadas e firmes: glandulosa (glandulosa) cheia
 de pequenas glandulas: deprimida (scrobiculata) tendo
@@ -2992,7 +2992,7 @@ ponta em fórma de gancho.
 46
 
 6.º Obtusas (obtusa) termo geral adoptado em opposição
-ao das follas agudas, como na nymphaea alba.
+ao das folhas agudas, como na nymphaea alba.
 
 7.º Chanfradas (emarginata) offerecendo no seu
 apice hum seio reintrante, como no buxo, e no asaro.
@@ -3381,8 +3381,8 @@ estão afastados.
 hum só foliolo, mas que he articulado no apice do peciolo,
 como nas larangeiras.
 
-3.º Trifolioladas, quadrifolioladas, quinquefolio
-ladas, septemfolioladas, multifolioladas, quando tem
+3.º Trifolioladas, quadrifolioladas, quinquefolioladas,
+septemfolioladas, multifolioladas, quando tem
 tres, quatro, cinco, sete ou mais foliolos, como no
 trevo d'agua.
 
@@ -3403,7 +3403,7 @@ são terminadas no topo em foliolo none ou desparceirado,
 posto no meio dos dous ultimos, como o ervanço
 e freixo.
 
-6.º Pinnuladas com gavinha (pennata cirrbosa)
+6.º Pinnuladas com gavinha (pennata cirrhosa)
 quando em lugar do foliolo impar tem huma gavinha,
 que he a ponta do peciolo commum, convertida na dita
 cordinha, como a ervilha, e a vicia sativa.
@@ -3857,7 +3857,7 @@ masculina ou feminina segundo os orgãos que a compõem,
 e se diz de huma maneira geral que as flores são
 unisexuaes: pelo contrario chamão-se hermaphroditas
 aquellas flores que apresentão reunidos os dous orgãos
-sexuacs, masculo, e femea.
+sexuaes, masculo, e femea.
 
 A flôr completa (flos completus) compõe-se de cinco
 partes que são: pistillo, estames, corolla, calice, receptaculo.
@@ -3896,7 +3896,7 @@ ARTIGO 1.º
 
 Do pedunculo.
 
-Us pedunculos ou supportes das flores, tem differentes
+Os pedunculos ou supportes das flores, tem differentes
 fórmas que convem saber:
 
 66
@@ -5198,7 +5198,7 @@ destinados á sua reproducção. O orgão sexual masculino
 he constituido pelo estame; o pistillo forma o orgão
 sexual feminino.
 
-1. Flor bermaphrodita he aquella, que reune ao
+1. Flor hermaphrodita he aquella, que reune ao
 mesmo tempo orgãos dos dous sexos.
 
 2. Flor unisexual he aquella que comprehende orgãos
@@ -5738,7 +5738,7 @@ de cellulas.
 111
 
 Cada cellula pode conter hum numero de ovos
-mais ou menos consideravel: quando contêm hum so
+mais ou menos consideravel: quando contêm hum só
 ovo, chama-se uniovulada (loculus uniovulatus), nas
 gramineas, umbelliferas, etc.: quando contêm dous ovos,
 chama-se biovulada (loculus biovulatus). No caso em
@@ -7363,7 +7363,7 @@ Vasos mixtos.
 
 Os vasos mixtos participão da natureza de todos
 os outros, isto he, são alternativamente porosos, fendidos,
-enrolados em espiral nos diferentes pontos da
+enrolados em espiral nos differentes pontos da
 sua extensão; com tudo, segundo as observações de
 Amici, as tracheas falsas nunca se tornão tracheas verdadeiras,
 e que estas duas especies de vasos occupão
@@ -7581,7 +7581,7 @@ de membrana; seguindo os desenvolvimentos successivos
 deste corpo, vê-se que pouco tempo depois se
 fura no seu apice, e atravez desta abertura sahe hum
 corpo interior, que faz huma eminencia mais ou menos
-consideravel. Ésta abertura augmenta de diametro, á medida
+consideravel. Esta abertura augmenta de diametro, á medida
 que o corpo interior se desenvolve; não he raro
 que a corpo interior adquira hum tal augmento de volume,
 que a membrana exterior seja reduzida a huma
@@ -7651,7 +7651,7 @@ porque sendo primitivamente huma massa de tecido
 cellular, logo depois o interior desta se faz ôcca, e se
 fórma então huma membrana cellulosa sem abertura
 chamada tercina, que vem a ser o chorion de Malpighi.
-Do apice da cavidade deste terceiro involucro se ve sahir
+Do apice da cavidade deste terceiro involucro se vê sahir
 huma lamina de tecido cellular, que fórma a parte
 interna, formando a quarta membrana chamada quartina.
 Desta quarta membrana, antes de Mirbel ninguem
@@ -8905,7 +8905,7 @@ si pequenos espaços, ou meatos intercellulares
 cheios de ar, e communicando entre si: estes utriculos
 frequentes vezes collocados debaixo da epiderme da face
 superior, tem a fórma de pequenas cellulas cylindricas
-e perpendiculares á épiderme: aquelles utriculos porêm,
+e perpendiculares á epiderme: aquelles utriculos porêm,
 que se achão em contacto com a epiderme da face
 superior, são irregulares e divididos em grande numero
 de ramusculos, que se unem com os das cellulas
@@ -9931,7 +9931,7 @@ pouco consideravel, este vapor he absorvido pelo ar
 á medida que se fórma, e he por consequencia invisivel.
 Quando porêm a quantidade augmenta, e a temperatura
 da atmosphera está hum pouco elevada, vemos
-então esté liquido transpirar debaixo da fórma de
+então este liquido transpirar debaixo da fórma de
 gottas extremamente pequenas, que reunindo-se fórmão
 hum volume consideravel.
 
@@ -10692,7 +10692,7 @@ até ao fim de agosto, a maior parte das plantas estão
 neste caso; 3.º autunnaes (plantae autumnales)
 aquellas que florecem desde o mez de setembro até dezembro,
 taes são o colchicum autumnale, e o crysanthemum
-indicum, etc.: 4.º invernaes (plantae bibernales,
+indicum, etc.: 4.º invernaes (plantae hibernales,
 s. hibernae) todas aquellas que florecem desde
 o mez de dezembro até ao fim de fevereiro, taes são o
 galanthus nivalis, e o helleborus niger.
@@ -11379,7 +11379,7 @@ e pomares dão disto huma prova evidente; o estado
 inculto ou bravio era o seu estado natural: parece-nos
 que o melhoramos pelas enxertias e amanhos, e
 Brotero julga que degenerão todas as vezes que por
-falta da devida cultura tornão aser bravas; mas na realidade,
+falta da devida cultura tornão a ser bravas; mas na realidade,
 aos olhos de hum sabio naturalista, he huma
 verdadeira degeneração, a que chamamos estado de melhoramento;
 huma ameixieira, huma alcachofra hortense,
@@ -11687,7 +11687,7 @@ a raiz de huma unha, excepto a do dedo polegar, neste
 sentido a grandeza diz-se ser linear ou de huma linha
 (linearis).
 
-Huma unha (ungais) he o comprimento della, que
+Huma unha (unguis) he o comprimento della, que
 se suppõe ser seis linhas ou meia polegada, e neste
 sentido a grandeza diz-se ser de huma unha (unguicularis).
 
@@ -12677,7 +12677,7 @@ arvores.
 13.º Crestamento (arsura degli italiani): folhas
 das arvores denegridas.
 
-14.º Dessecamenta (secchereccio de Ré): quando
+14.º Dessecamento (secchereccio de Ré): quando
 o vegetal em totalidade se secca espontaneamente.
 
 15.º Fogo: ou seccura de todas as partes do
@@ -12745,7 +12745,7 @@ morte da planta.
 16.º Carcinoma: excrescencia humida e alterada
 das arvores.
 
-17.º Selonia (selone de Re): quando as espigas
+17.º Selonia (selone de Ré): quando as espigas
 do trigo não contêm grãos.
 
 18.º Ruiva: molestia particular aos chicharos,
@@ -13278,7 +13278,7 @@ do nabo.
 
 Fig. 11. Raiz conica, apresentando a fórma de huma
 piramide conica inversa, como se observa
-na taiz da cenoira, beterraba, etc.
+na raiz da cenoira, beterraba, etc.
 
 Fig. 12. Raiz fasciculada, formada pela reunião de
 hum grande numero de tuberculos, mais ou
@@ -13414,7 +13414,7 @@ Fig. 43. Folhas trifolheadas.
 Fig. 44. Folhas pinnuladas.
 
 Fig. 45. Folhas conjugadas, isto he, que tem hum só
-par de foliolos con huma gavinha.
+par de foliolos com huma gavinha.
 
 ESTAMPA IV.
 
@@ -14281,7 +14281,7 @@ as plantas que dão flores hermaphroditas
 munidas de quatro estames de altura
 igual ou indeterminada; como se vê na saudade,
 cardo penteador, escabiosa, tanchagem,
-diabelha, ruiva dos 1intureiros, amor de
+diabelha, ruiva dos tintureiros, amor de
 hortelão, cerejeira brava, alchimilla, arvore
 do paraiso, cuscuta, aquifolio, etc.
 
@@ -14391,7 +14391,7 @@ Fig. 183. Classe XVIII. Polyadelphia (polyadelphia),
 isto he, flores hermaphroditas com estames
 adunados em tres ou mais corpos ou
 columnas, como o limoeiro, laranjeira,
-craveiro, milfarada, etc.
+craveiro, milfurada, etc.
 
 Fig. 184. Classe XIX. Syngenesia (syngenesia), isto
 he, flores hermaphroditas compostas, ou
@@ -14731,7 +14731,7 @@ Analysis, analyse.
 
 Anandrarius, anandrario.
 
-Anarbizee, anarhizeas.
+Anarhizeae, anarhizeas.
 
 Anastaliceae, anastaliceas.
 
@@ -14756,7 +14756,7 @@ Androgynus, androgyno.
 
 Andropetalarius, andropetalario.
 
-Anemonea, anemoneas.
+Anemoneae, anemoneas.
 
 Anfractuosus, anfractuoso.
 
@@ -14971,7 +14971,7 @@ Artus vide articulus.
 
 Artocarpeae, artocarpeas.
 
-Arundinacea, arundinaceas.
+Arundinaceae, arundinaceas.
 
 Arvensis, arvense, d'alqueive.
 
@@ -14983,7 +14983,7 @@ Ascidiatus, ascidiado.
 
 Ascidium, ascidio.
 
-Asclepiadea, asclepiadeas.
+Asclepiadeae, asclepiadeas.
 
 Asexus, asexo, sem sexo.
 
@@ -15015,7 +15015,7 @@ Axillis-barbatus, axillis-barbudo.
 
 Azureus, azul.
 
-Astragalea, astragaleas.
+Astragaleae, astragaleas.
 
 Astringens, astringente.
 
@@ -15031,7 +15031,7 @@ de escrever.
 
 Atratus, anegrado.
 
-Atriplicee, atripliceas.
+Atripliceae, atripliceas.
 
 Atherospermeae, atherospermeas.
 
@@ -15076,7 +15076,6 @@ B.
 Bacca, baga.
 
 Baccatus, baccausus, embagado.
-baccaulaular.
 
 Baccaularis, baccaularius,
 baccaular.
@@ -15727,7 +15726,7 @@ Circumdentia folia, folhas abarcantes.
 
 Circumscriptio, circumscripção, ambito.
 
-Cirrbatus, gavinhoso.
+Cirrhatus, gavinhoso.
 
 Cirrhi, gavinhas.
 
@@ -16605,7 +16604,7 @@ Economia, economia.
 
 Ectopogones, bectopogones,
 
-Ectosperme, ectospermas.
+Ectospermae, ectospermas.
 
 Efflorescentia, preflorescencia.
 
@@ -16711,13 +16710,13 @@ Ennearinus, ennearino.
 
 Enneasepalus, encasepalo.
 
-Enodis, enedo, desnodoso.
+Enodis, enodo, desnodoso.
 
 Ensatus, fittacco, ensiforme.
 
 Ensiformis, ensiforme.
 
-Enternodum, entranó.
+Enternodum, entrenó.
 
 Entophytus, entophyto.
 
@@ -16915,7 +16914,7 @@ Excretio, excreção.
 
 Excursio botanica, herborisação, vide Herbatio.
 
-Exertus, sobresa hido.
+Exertus, sobresahido.
 
 Exfoliatio, exfoliação, esfolamento.
 
@@ -16965,7 +16964,7 @@ Extipulatus, destipulado.
 
 Extra-axillaris, extra-axillar.
 
-Extra-crescens, extra crescente.
+Extra-crescens, extracrescente.
 
 Extradilatatus, extradilatado.
 
@@ -17183,7 +17182,7 @@ Foliolatus, foliolado.
 
 Foliolus, foliolo.
 
-Folioneanus, folio neano.
+Folioneanus, folioneano.
 
 Folliculiformis, folliculiforme.
 
@@ -17475,9 +17474,9 @@ Gramina, gramineas.
 
 Graminifolia, graminifolias.
 
-Granatee, granateas.
+Granateae, granateas.
 
-Grandificatusm,  engrandecido.
+Grandificatus,  engrandecido.
 
 Grandiflora, grandiflora.
 
@@ -17553,7 +17552,7 @@ Gynobasis, gynobaso.
 
 Gynoipboroideus, gynophoroideo.
 
-Gynopboratus, gynophorado.
+Gynophoratus, gynophorado.
 
 Gynophorianus, gynophoriano.
 
@@ -17585,7 +17584,7 @@ Hebetatus, embotado, rombo.
 
 Hederacea, hederaceas.
 
-Hedyotidea, hedyotideas.
+Hedyotideae, hedyotideas.
 
 Hedysareae, hedysareas.
 
@@ -17619,7 +17618,7 @@ Hemisyngynicus, hemisyngynico.
 
 Hemitrichus, hemitricho.
 
-Hepatice, hepaticas.
+Hepaticae, hepaticas.
 
 Hepaticus, hepatico.
 
@@ -17629,7 +17628,7 @@ Heptandria, heptandria.
 
 Heptandrus, heptandro.
 
-Heptantberus, heptanthero.
+Heptantherus, heptanthero.
 
 Heptapetalus, heptapetalo.
 
@@ -17689,7 +17688,7 @@ Hexandria, hexandria.
 
 Hexandricus, hexandrico.
 
-Hexantbereae, hexanthereas.
+Hexanthereae, hexanthereas.
 
 Hexapetalus, hexapetalo.
 
@@ -17903,13 +17902,13 @@ Impressus, imprimido, impresso.
 
 Inadhaerens, inadherente.
 
-Inalbuminatu, inalbuminado.
+Inalbuminatus, inalbuminado.
 
 Inangulatus, inangulado.
 
 Inanio, vasio.
 
-Inantberatus, inantherado.
+Inantheratus, inantherado.
 
 Inarticulatus, inarticulado.
 
@@ -18129,7 +18128,7 @@ Irritabilitas, irritabilidade.
 
 Isantherus, isanthero.
 
-Isatidea, isatideas.
+Isatideae, isatideas.
 
 Isogynus, isogyno.
 
@@ -18167,7 +18166,7 @@ Kermesinus, kermesim, ou côr de kermes.
 
 Kiggellariae, kigellareas.
 
-Klenacea, klenaceas.
+Klenaceae, klenaceas.
 
 L.
 
@@ -18175,7 +18174,7 @@ Labellum, labello, labiosinho.
 
 361
 
-Labiatiflora, labiatifloras.
+Labiatiflorae, labiatifloras.
 
 Labiatio, labiação.
 
@@ -18185,7 +18184,7 @@ Labieae, labiadas.
 
 Labium, labio.
 
-Labyrintbiformis, labyrinthiforme.
+Labyrinthiformis, labyrinthiforme.
 
 Lacerativus, cortado profundamente, etc.
 
@@ -18623,7 +18622,7 @@ Melanthaceae, melanthaceas.
 
 Melastomaceae, melastomaceas.
 
-Melastomee, melastomeas.
+Melastomeae, melastomeas.
 
 Meliaceae, meliaceas.
 
@@ -18695,7 +18694,7 @@ Micropyla, micropyla.
 
 Miliaris, miliar, milhear.
 
-Mimosea, mimoseas.
+Mimoseae, mimoseas.
 
 Miniatus, que tem côr de minio, ou vermelhão.
 
@@ -18731,7 +18730,7 @@ Monantherus, monanthero.
 
 Moniliformis, turoloso.
 
-Monimiea, monimeas.
+Monimieae, monimeas.
 
 Monocarpeus, monocarpeo.
 
@@ -18813,7 +18812,7 @@ Moschatus, almiscarado.
 
 Motus, movimento (das plantas).
 
-Mucedinec, mucedineas.
+Mucedineae, mucedineas.
 
 Mucidus, bolorento.
 
@@ -19019,7 +19018,7 @@ Nodus, nó, grossura, articulação.
 
 Nomenclatio, nomenclatura.
 
-Nomológia, nomologia.
+Nomologia, nomologia.
 
 Nonopetalus, nonopetalo.
 
@@ -19271,7 +19270,7 @@ Orthotropus, orthotropo.
 
 Orysacei, arrosaes, ou searas d'arroz.
 
-Oryzed, oryzeas.
+Oryzeae, oryzeas.
 
 Os tubi corollae, fauce da corolla.
 
@@ -19349,11 +19348,11 @@ Palminervis, palminerveo.
 
 Paludes, charcos, lagos.
 
-Paludosus, palustris, papilhoso.
+Paludosus, palustris, palustre.
 
 Pampanus, parra, pampano.
 
-Pandanee, pandaneas.
+Pandaneae, pandaneas.
 
 Panduratus, violino, panduro.
 
@@ -19393,7 +19392,7 @@ Papillosus, papullosus, papilhoso.
 
 Papiraceus, papiraceo.
 
-Pappiferus, pappifero, paplustre.
+Pappiferus, pappifero, pappilhoso.
 
 373
 
@@ -19571,7 +19570,7 @@ Pendulinus, pendulino.
 
 Pendulus, pendente.
 
-Peneacee, peneaceas.
+Peneaceae, peneaceas.
 
 Penicillatus, apincellado, aborletado.
 
@@ -19963,7 +19962,7 @@ Pleurodiscus, pleurodiscal.
 
 Pleurogynus, pleurogyno.
 
-Pleurorbizus, pleurorhizo.
+Pleurorhizus, pleurorhizo.
 
 Pleurorhizeae, pleurorhizeas.
 
@@ -20065,7 +20064,7 @@ Polygamia, polygamia.
 
 Polygamus polygamo.
 
-Polygonus, polygano.
+Polygonus, polygono.
 
 Polygynia, polygynia.
 
@@ -20377,7 +20376,7 @@ Quinquealatus, quinquealado.
 
 Quinqueangularis, quinqueangular.
 
-Quinqueangulatus, queangulado.
+Quinqueangulatus, quinqueangulado.
 
 Quinquecapsularis, quinquecapsular.
 
@@ -20997,7 +20996,7 @@ Septilis, septil.
 
 Septum, repartimento.
 
-Serialis, serâdio.
+Serialis, serôdio.
 
 Sericeus, assetinado.
 
@@ -21021,7 +21020,7 @@ Serrulatus, hum tanto serreado.
 
 Sertulum, ramalhete, sertulo.
 
-Sesamea, sesa meas.
+Sesameae, sesameas.
 
 Sessilis, sessil, rente.
 
@@ -21039,7 +21038,7 @@ Sexcubitalis, sexcubital, de covado e meio.
 
 Sexeremus, sexeremo.
 
-Sexquiflorus, sexquifioro.
+Sexquiflorus, sexquifloro.
 
 Sexquipalmaris, sexquipalmar, de quatro polegadas e meia.
 
@@ -21093,7 +21092,7 @@ Simiflorus, simifloro.
 
 Similaris, similar.
 
-Similissimilhante.
+Similis, similhante.
 
 Simplex simples.
 
@@ -21141,7 +21140,7 @@ Solutus, solto, despegado, desadunado.
 
 Somnus, sono, colapso.
 
-Sophoree, sophoreas.
+Sophoreae, sophoreas.
 
 Soradium, serodião.
 
@@ -21215,7 +21214,7 @@ Spicatus, espigoso, espigado.
 
 Spicifer, espicifero.
 
-Spiciformis, espieiforme.
+Spiciformis, espiciforme.
 
 Spicula, espigueta.
 
@@ -21225,13 +21224,13 @@ Spila, espila.
 
 Spine, espinhos.
 
-Spinellosus, espinkoloso.
+Spinellosus, espinholoso.
 
 Spinescens, espinescido.
 
 Spinifer espinhifero.
 
-Spiniformis, espinh forme.
+Spiniformis, espinhiforme.
 
 Spinosus, espinhoso.
 
@@ -21279,7 +21278,7 @@ Squamiliformis, esquamiliforme.
 
 Squamosus, escamoso.
 
-Squamula, cscamula.
+Squamula, escamula.
 
 Squarosus, esquaroso.
 
@@ -21297,7 +21296,7 @@ Staminosus, estaminoso.
 
 Staminula, estamesinhos.
 
-Staphyleaceus, estaphylcaceo.
+Staphyleaceus, estaphyleaceo.
 
 Staticeae, estaticeas.
 
@@ -21537,7 +21536,7 @@ Sylvestris, silvestre, bravo.
 
 Sympetalicus, sympetalico.
 
-Symphoniee, symphoneas.
+Symphonieae, symphoneas.
 
 Symphysandria, symphysandria.
 
@@ -21593,7 +21592,7 @@ Talea, renovo, vara nova.
 
 Tales, rebento.
 
-Tamariscinee, tamariscineas.
+Tamariscineae, tamariscineas.
 
 Taxineae, taxineas.
 
@@ -21611,7 +21610,7 @@ Tegumentum, tegumento.
 
 Tela cellulosa, tecido cellular.
 
-Teleianthee, teleiantheas, perfeitas (flores).
+Teleiantheae, teleiantheas, perfeitas (flores).
 
 Telephieae, telepheas.
 
@@ -21685,11 +21684,9 @@ Tetracoccus, quadricocca, de quatro cellulas.
 
 395
 
-Tetnalepis, tetralepido.
-
 Tetradynamia, tetradynamia.
 
-Tetradynamus, tetradynaino.
+Tetradynamus, tetradynamo.
 
 Tetraedrus, tetraedro.
 
@@ -21700,6 +21697,8 @@ Tetragonus, tetragono,  quadrangular.
 Tetragyna, tetragyno.
 
 Tetragynia, tetragynia.
+
+Tetralepis, tetralepido.
 
 Tetralobus, quadrilobado.
 
@@ -21739,7 +21738,7 @@ Theaceae, theaceas.
 
 Theca, urna, theca.
 
-Thecapborum, thecaphoro.
+Thecaphorum, thecaphoro.
 
 Thecapodium, thecapodio.
 
@@ -21749,7 +21748,7 @@ Thlaspideae, thlaspideas.
 
 Thymeleae, thymeleas.
 
-Thyrsiflorus, thyrsoftoro.
+Thyrsiflorus, thyrsofloro.
 
 Thyrsoideus, thyrsoideo.
 
@@ -21839,7 +21838,7 @@ Tricarinatus, tricarinado, de tres quilhas.
 
 Tricephalus, tricephalo.
 
-Trichiliea, trichileas.
+Trichilieae, trichileas.
 
 Trichismus, trichismo.
 
@@ -22696,9 +22695,9 @@ Amphibius
 
 4
 
-Colun. 2. Anterrinee
+Colun. 2. Anterrineae
 
-Antirhineae.
+Antirhineoe.
 
 19
 
@@ -22850,9 +22849,9 @@ Papillionaris, papillionar.
 
 14
 
-2. Scrophularie
+2. Scrophularieae
 
-Scropularinee.
+Scropularineae.
 
 389
 
