@@ -95,393 +95,659 @@ Lisboa 16 de Setembro
 de 1837.
 
 O mais obediente subdito.
+
 Antonio Albino da Fonseca Benevides.
 
-I
 
--
+I
 
 INDICE.
 
 ADVERTENCIA . . . Pag. I
+
 MOTIVOS DA REFORMA DO COMPENDIO DE BOTANICA
 DO DOUTOR BROTERO . . . III
+
 NOÇÕES BOTANICAS para servirem de
 complemento á Introducção do Doutor Brotero . . . VII
+
 §. 1.º Differenças entre os animaes e os vegetaes . . . VIII
+
 INTRODUCÇAO DO DOUTOR BROTERO . . . XIII
+
 NOTAS RESPECTIVAS DO AUTHOR . . . XXII
+
 PARTE PRIMEIRA. Da Glossologia (glossologia) . . . 1
+
 CAP. I. Exposição de todas as partes de que
 se compõe huma planta, segundo a ordem do
 seu desenvolvimento . . . 2
+
 SEC. I. Orgãos da nutrição ou vegetação . . . id.
+
 SEC. II. Orgãos da reproducção ou fructificação . . . 3
+
 DIVISAO I. Orgãos da nutrição ou vegetação . . . 7
+
 CAP. II. Descripção especial de cada orgão . . . id.
+
 SECÇ. I. Orgãos da Germinação . . . id.
+
 ART. 1.º Cotyledones (Cotyledones) . . . 8
+
 ART. 2.º Plumula (Plumula) . . . 9
+
 ART. 3.º Radicula (Radicula, Rostellum) . . . 11
+
 
 II
 
 ART. 4.º Collo (Collum). Nó vital de Lamark.
 Mesophyto de Clarion . . . 11
+
 SEC. II. Da Raiz (Radix) . . . id.
+
 ART. 1.º Definição da Raiz . . . id.
+
 ART. 2.º Considerada quanto á sua divisão . . . 12
+
 ART. 3.º Quanto á sua duração . . . id.
+
 ART. 4.º Quanto á sua substancia . . . id.
+
 ART. 5.º Quanto á sua direcção . . . 13
+
 ART. 6.º Quanto á sua fórma . . . id.
+
 ART. 7.º Quanto aos seus appendices . . . 15
+
 SEC. III. Descripção do Tronco (Truncus) . . . 16
+
 ART. 1.º Especies de Troncos . . . id.
+
 ART. 2.º Quanto á sua duração . . . 17
+
 ART. 3.º Quanto á sua natureza . . . id.
+
 ART. 4.º Quanto á sua direcção . . . 18
+
 ART. 5.º Quanto á sua composição . . . 19
+
 ART. 6.º Quanto á sua ramificação . . . 20
+
 ART. 7.º Quanto á sua força e grossura . . . 22
+
 ART. 8.º Quanto á sua vestidura . . . 23
+
 ART. 9.º Quanto á sua superficie . . . 24
+
 ART. 10.º Quanto á sua pubescencia . . . 25
+
 ART. 11.º Quanto á sua armadura . . . id.
+
 ART. 12.º Espinhos . . . 26
+
 ART. 13.º Sustentaculos . . . 27
+
 SEC. IV. Descripção dos gomos, bolbos e
 bolbilhos . . . 28
+
 ART. 1.º Dos gomos (Gemma). Syn. Invernadoiros
 (Hybernacula) . . . id.
+
 ART. 2.º Bolbilhos (bulbilli, bulbulli) . . . 30
+
 ART. 3.º Bolbos (bulbi) . . . id.
+
 SEC. V. Das Folhas (Folia) . . . 31
+
 ART. 1.º Da Folheatura (praefoliatio) . . . id.
+
 ART. 2.º Do Limbo (Limbus) . . . 32
+
 ART. 3.º Peciolo (Petiolus) . . . 36
+
 ART. 4.º Das especies de folhas . . . 39
+
 
 III
 
 §. 1.º Das folhas simplices . . . 40
+
 §. 2.º Das folhas compostas . . . 53
+
 SEC. VI. Descripção das partes accessorias . . . 56
+
 ART. 1.º Das estipulas (stipula) . . . id.
+
 ART. 2.º Das gavinhas (cirrhi) . . . 58
+
 ART. 3.º Dos aculeos, ferrões, abrolhos ou das
 arnias das plantas . . . 59
+
 ART. 4.º Do Trichismo (trichismus). Hispidez
 (hispiditas) . . . 60
+
 ART. 5.º Das Glandulas (glandulae) . . . 62
+
 DIVISAO II. Orgãos da reproducção ou fructificação . . . 64
+
 CAP. III. Descripção especial dos orgãos da
 florescencia . . . id.
+
 SEC. I. Da enumeração dos orgãos da florescencia . . . id.
+
 SEC. II. Descripção das partes accessorias
 das plantas . . . 65
+
 ART. 1.º Do pedunculo (pedunculus) . . . id.
+
 ART. 2.º Das bracteas (syn. folhas floraes) . . . 71
+
 §. 1.º Do involucro . . . 72
+
 §. 2.º Da cupula (cupula) . . . id.
+
 §. 3.º Do calyculo (calyculus) . . . 73
+
 §. 4.º Da espatha (spatha) . . . id.
+
 §. 5.º Da gluma (gluma) ou casulo proprio
 das gramineas . . . 74
+
 §. 6.º Da espigueta (spicula) propria das
 gramineas . . . id.
+
 SEC. III. Da Inflorescencia e suas diversas
 fórmas . . . 75
+
 ART. 1.º Da Inflorescencia axillar, e suas diversas
 especies . . . id.
+
 §. 1.º Espiga (spica) . . . 76
+
 §. 2.º Amentilho (amentum) . . . id.
+
 §. 3.º Espadice (spadix, flores spadicei) . . . id.
+
 
 IV
 
 §. 4.º Racimo (racemus, flores racemosi) . . . 77
+
 §. 5.º Panicula (panicula, flores paniculati) . . . id.
+
 ART. 2.º Inflorescencia terminada . . . 78
+
 §. unico. Cymeira (cyma) . . . id.
+
 ART. 3.º Inflorescencia mixta . . . 79
+
 §. 1.º Thyrso (thyrsus) . . . id.
+
 §. 2.º Corymbo (corymbus) . . . id.
+
 ART. 4.º Inflorescencia anómala . . . 80
+
 §. 1.º Umbrella (umbella) . . . id.
+
 §. 2.º Grinalda (sertulum, flores sertulati) . . . 81
+
 §. 3.º Capitulo (capitulum). Syn. calathide,
 anthodium . . . id.
+
 ART. 5.º Preflorescencia (praefloratio, aestivatio) . . . 82
+
 §. 1.º Preflorescencia imbricada (praefloratio
 imbricata) . . . id.
+
 §. 2.º Preflorescencia franzida (praefloratio
 plicativa) . . . id.
+
 §. 3.º Preflorescencia espiral (praefloratio
 torsiva) . . . id.
+
 §. 4.º Preflorescencia enrugada (praefloratio
 corrugativa) . . . 83
+
 §. 5.º Preflorescencia valvular (praefloratio
 valvata) . . . id.
+
 §. 6.º Preflorescencia quincuncial (praefloratio
 quincuncialis) . . . id.
+
 SEC. IV. Das Envolturas ou tegumentos floraes
 em geral . . . id.
+
 ART. 1.º Periantheo (periantheum) . . . id.
+
 ART. 2.º Do Calice labiado ou em capacete
 (calix galeatus) . . . 84
+
 ART. 3.º Do Calice propriamente dito (Calyx) . . . 85
+
 ART. 4.º Da Corolla (Corolla) . . . 89
+
 A. Corolla monopetala regular . . . 90
+
 B. Corolla monopetala irregular . . . 91
+
 
 V
 
 C. Corolla polypetala . . . 93
+
 D. Corolla polypetala regular . . . 94
+
 E. Corolla polypetala irregular . . . 95
+
 SEC. V. Dos Orgãos sexuaes . . . 96
+
 ART. 1.º Do Estame ou orgão sexual masculino . . . 98
+
 §. 1.º Do Filete (Filamentum) . . . 100
+
 §. 2.º Da Anthera (anthera) . . . 102
+
 §. 3.º Do Pollen, ou pó fecundante (pollen) . . . 106
+
 ART. 2.º Do Pistillo ou orgão sexual feminino . . . 108
+
 §. 1.º Do Ovario (ovarium, germen) . . . 109
+
 §. 2.º Do Estilete (stylus) . . . 111
+
 §. 3.º Do Estigma (stigma) . . . 113
+
 SEC. VI. Das Partes accessorias da flor, ou
 do receptaculo, nectarios, disco, etc. . . . 115
+
 ART. 1.º Do Receptaculo ou Torus . . . id.
+
 ART. 2.º Dos Nectarios (nectaria) . . . 117
+
 ART. 3.º Do Disco (discus) . . . 118
+
 ART. 4.º Da Inserção (Insertio) . . . 119
+
 CAP. IV. Descripção especial dos orgãos da
 fructificação, ou do fructo (fructus) . . . 120
+
 SEC. I. Do Pericarpo (pericarpum) . . . id.
+
 ART. unico. Composição do pericarpo . . . 121
+
 SEC. II. Do Grão, ou semente (semen) . . . 126
+
 ART. 1.º Da Amendoa (amygdala, nucleus) . . . 127
+
 ART. 2.º Das Tunicas seminaes (tunicae seminales) . . . 129
+
 CAP. V. Da Classificação dos fructos . . . 131
+
 SEC. I. Classificação, ou Tabella caracteristica
 de vinte duas especies de fructos, segundo
 Boitard . . . 132
+
 ART. 1.º Fructos bracteados, tomando na madureza
 apparencia de hum pericarpo, ou de
 huma parte do fructo . . . id.
+
 ART. 2.º Pseudospermas. Grãos nús, isto he,
 cujo pericarpo he pouco ou nada apparente . . . id.
+
 
 VI
 
 ART. 3.º Capsulares. Fructos cujo pericarpo he
 huma capsula . . . 133
+
 ART. 4.º Carnudos. Fructos cujo pericarpo he
 carnudo . . . 134
+
 SEC. II. Resumo da classificação dos fructos
 segundo Mirbel . . . 135
+
 SEC. III. Classificação dos fructos segundo
 Richard . . . 136
+
 ART. 1.º Dos fructos seccos . . . id.
+
 ART. 2.º Dos fructos carnudos . . . 137
+
 ART. 3.º Dos fructos compostos. Syncarpo . . . id.
+
 ART. 4.º Dos fructos aggregados . . . id.
+
 SEC. IV. Classificação dos fructos segundo
 De Candolle . . . id.
+
 ART. 1.º Dos fructos simplices . . . id.
+
 ART. 2.º Dos fructos aggregados . . . 138
+
 SEC. V. Classificação dos fructos segundo
 Desvaux . . . id.
+
 PARTE SEGUNDA Da Organographia,
 Physiologia, Phitotherisia ou Pathologia . . . 139
+
 DIVISAO I. Da Anatomia e Physiologia . . . 140
+
 CAP. VI. Do tecido cellular ou areolar (complexus
 cellulosus, tela cellulosa) . . . 141
+
 SEC. I. Anatomia . . . id.
+
 ART. 1.º Cellulas (utriculi) . . . id.
+
 §. 1.º Composição das cellulas . . . id.
+
 §. 2.º Fórma das cellulas, e sua communicação . . . 144
+
 ART. 2.º Tubilhos ou pequenos tubos, e prosenchyma . . . 145
+
 ART. 3.º Raphidas . . . 146
+
 ART. 4.º Raios medullares . . . id.
+
 ART. 5.º Lacunas . . . id.
+
 ART. 6.º Cellulas composta, e materias nellas
 contidas . . . 147
+
 
 VII
 
 SEC. II. Physiologia . . . 148
+
 CAP. VII. Do tecido vascular ou tubular
 (contextus, complexus vascularis, seu tubularis) . . . 149
+
 SEC. I. Anatomia . . . id.
+
 ART. 1.º Vasos nodosos . . . 150
+
 ART. 2.º Vasos porosos (pontuados segundo
 Richard) . . . id.
+
 ART. 3.º Vasos fendidos ou falsas tracheas . . . id.
+
 ART. 4.º Tracheas verdadeiras . . . 151
+
 ART. 5.º Vasos mixtos . . . id.
+
 ART. 6.º Vasos proprios . . . 152
+
 ART. 7.º Tubos ou vasos simplices . . . id.
+
 ART. 8.º Fibras . . . id.
+
 ART. 9.º Prosenchyma . . . 153
+
 ART. 10.º Poros . . . id.
+
 SEC. II. Physiologia . . . 154
+
 SEC. III. Da estructura do ovulo antes da
 impregnação, e das modificações porque passa
 até á madureza do grão . . . 156
+
 CAP. VIII. Da Germinação . . . 161
+
 SEC. I. Da Germinação em geral . . . id.
+
 ART. 1.º Circunstancias necessarias para a
 germinação . . . 162
+
 ART. 2.º Influencia dos agentes exteriores . . . id.
+
 §. 1.º Influencia da agua . . . id.
+
 §. 2.º Influencia do calor . . . 163
+
 §. 3.º Influencia do ar . . . 164
+
 §. 4.º Influencia do chloro . . . 166
+
 §. 5.º Influencia da terra . . . id.
+
 §. 6.º Influencia negativa da luz . . . 167
+
 §. 7.º Influencia do fluido electrico . . . id.
+
 SEC. II. Dos phenomenos geraes da germinação . . . id.
+
 ART. 1.º Da germinação dos embriões dicotyledoneos
 ou exhorizos . . . 171
+
 
 VIII
 
 ART. 2.º Germinação dos embriões monocotyledoneos
 ou exhorizos . . . 173
+
 CAP. IX. Dos Orgãos da nutrição ou vegetação . . . 174
+
 SEC. I. Da Raiz . . . id.
+
 ART. 1.º Anatomia da Raiz . . . id.
+
 ART. 2.º Physiologia da Raiz . . . 175
+
 §. unico. Usos e funcções da raiz . . . id.
+
 SEC. II. Do Tronco. . . . 177
+
 ART. 1.º Anatomia do caule ou do tronco . . . id.
+
 §. 1.º Organisação do tronco dos vegetaes
 dicotyledoneos . . . id.
+
 A. Da epiderme . . . id.
+
 B. Do involucro herbaceo . . . 178
+
 C. Das camadas corticaes . . . 179
+
 D. Do alburno ou falso lenho . . . 180
+
 E. Do lenho propriamente dito ou cerne . . . id.
+
 F. Do estojo medullar . . . 181
+
 G. Da medulla . . . 182
+
 §. 2.º Organisação do tronco dos vegetaes
 monocotyledoneos . . . 183
+
 §. 3.º Organisação do tronco dos fetos arborescentes . . . 184
+
 ART. 2.º Physiologia do tronco . . . id.
+
 SEC. III. Dos gomos; novedios, bolbos, bolbilhos . . . 189
+
 ART. unico. Anatomia, e Physiologia . . . id.
+
 SEC. IV. Folhas e orgãos accessorios, isto
 he, estipulas, gavinhas, espinhos, aculeos, e
 pelos . . . 191
+
 ART. 1.º Anatomia . . . id.
+
 ART. 2.º Physiologia . . . 194
+
 CAP. X. Da nutrição e mais funcções das
 plantas . . . 201
+
 SEC. I. Absorpção, e Sucção . . . id.
+
 
 IX
 
 ART. 1.º Formação do carbonio, oxigenio, azoto
 nos vegetaes . . . 203
+
 ART. 2.º Causas da sucção . . . 204
+
 SEC. II. Da Seiva, sua marcha ascendente
 e descendente . . . 205
+
 ART. 1.º Natureza da seiva ascendente . . . id.
+
 ART. 2.º Marcha da seiva descendente . . . id.
+
 ART. 3.º Rapidez do movimento da seiva . . . 206
+
 ART. 4.º Causas da ascensão da seiva . . . 209
+
 ART. 5.º Causas externas e internas auxiliadoras
 do movimento da seiva . . . 210
+
 ART. 6.º Seiva descendente e sua natureza . . . 213
+
 SEC. III. Da Respiração dos vegetaes . . . 214
+
 SEC. IV. Da Transpiração, e Excreções dos
 vegetaes . . . 218
+
 SEC. V. Da Assimilação ou nutrição propriamente
 dita . . . 221
+
 CAP. XI. Dos orgãos da reproducção ou fructificação . . . 223
+
 SEC. I. Dos sexos em geral . . . id.
+
 SEC. II. Da monstruosidade, e viço das flores . . . 226
+
 SEC. III. Da Natureza physiologica das flores . . . 233
+
 SEC. IV. Da Anthese ou desabotoamento das
 flores . . . 235
+
 SEC. V. Da fecundação das plantas . . . 238
+
 ART. 1.º Phenomenos preparatorios da fecundação . . . 239
+
 ART. 2.º Phenomenos essenciaes da fecundação . . . 240
+
 §. 1.º Acção do pollen sobre o estigma . . . 241
+
 §. 2.º Trajecto da materia fecundante até
 aos ovulos, e sua acção sobre os mesmos ovulos . . . id.
+
 ART. 3.º Phenomenos consecutivos da fecundação
 nas plantas . . . 245
+
 
 X
 
 SEC. VI. Da Propagação e multiplicação . . . 247
+
 SEC. VII. Da Disseminação . . . 249
+
 CAP. XII. Da Degeneração, glandulação,
 escabrosidade, succulencia, medida, grandeza,
 cheiro, sabor, côr das plantas, e da naturalidade
 e singularidade das flores . . . 252
+
 SEC. I. Da Degeneração das plantas . . . id.
+
 SEC. II. Da Glandulação, e escabrosidade
 das plantas . . . 255
+
 ART. 1.º Glandulas (glandulae) . . . id.
+
 ART. 2.º Verrugas (verrucae) . . . 256
+
 ART. 3.º Callos (calli) . . . id.
+
 ART. 4.º Pontos (puncta) . . . id.
+
 ART. 5.º Grãos (granula, s. grana) . . . 257
+
 ART. 6.º Vesiculas (vesiculae, s. papulae) . . . id.
+
 ART. 7.º Mamillos ou tuberculos (mamilli, s.
 tubercula) . . . id.
+
 ART. 8.º Utriculos (utriculi) . . . 258
+
 ART. 9.º Folliculos (folliculi) . . . id.
+
 ART. 10.º Póros (pori) . . . id.
+
 ART. 11.º Fossulas (fossula, s. foveae) . . . 259
+
 ART. 12.º Cicatrizes ou pustulas (cicatrices,
 s. pustulae) . . . 260
+
 SEC. III. Da Succulencia (succulentia, s. lactescentia)
 dos vegetaes . . . id.
+
 SEC. IV. Da medida, grandeza (magnitudo,
 s. mensura) dos vegetaes . . . 261
+
 SEC. V. Das cores, cheiros, sabores dos vegetaes
 (colores, odores, sapores vegetabilium) . . . 263
+
 ART. 1.º Das cores (colores) . . . id.
+
 ART. 2.º Dos cheiros (odores) . . . 265
+
 ART. 3.º Dos sabores (sapores) . . . 267
+
 SEC. VI. Da naturalidade e singularidade
 das flores . . . 269
+
 
 XI
 
 DIVISÃO II. Da Phytoterisia ou Pathologia,
 e da Nosologia vegetal . . . 270
+
 CAP. XIII. Pathologia vegetal . . . id.
+
 SEC. I. Pathologia geral . . . id.
+
 SEC. II. Pathologia especial . . . 272
+
 ART. 1.º Molestias causadas por plantas parasitas . . . id.
+
 ART. 2.º Molestias organicas cujas causas varião,
 e algumas vezes são desconhecidas . . . 275
+
 ART. 3.º Molestias occasionadas por insectos
 parasitos . . . 278
+
 SEC. III. Da morte dos vegetaes por velhice . . . 280
+
 CAP. XIV. Nosologia vegetal . . . 281
+
 SEC. I. Classificação de Pathologia vegetal,
 segundo Plenck . . . id.
+
 SEC. II. Classificação nosologica de Ré . . . 285
+
 SEC. III. Classificação de Pathologia vegetal,
 segundo Noisette . . . 290
+
 CAP. XV. Resumo dos principios elementares,
 principios immediatos, e dos productos
 immediatos dos vegetaes . . . 291
+
 SEC. I. Principios elementares . . . 292
+
 SEC. II. Principios immediatos . . . id.
+
 SEC. III. Dos productos immediatos . . . 294
+
 CAP. XVI. Explicação das figuras contidas
 nas estampas . . . 298
+
 CAP. XVII. Tabella dos nomes latinos e
 portuguezes empregados na Glossologia Botanica . . . 321
 
--
 
 ADVERTENCIA.
 
