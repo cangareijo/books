@@ -145,7 +145,7 @@ o trabalho dos nossos agronomos e especialistas;
 a maneira como elles têem estudado estes
 novos problemas e orientado o progressivo movimento
 viticola, com as suas observações, com
-os seus escriptos, com seu ensinamento e
+os seus escriptos, com o seu ensinamento e
 propaganda.
 
 PREFACIO  9
@@ -156,9 +156,9 @@ do que muitos julgam, porque, estando bastante
 dispersos em memorias, relatorios, livros
 e jornaes da especialidade, não são muito faceis
 de compulsar de prompto. Na longa lista que
-elles formam, não podemos deixar de citar os
+elles formam, não podêmos deixar de citar os
 trabalhos dos nossos inspectores d'agricultura,
-Rodrigues de Moraes. Almeida e Brito, Gondim
+Rodrigues de Moraes, Almeida e Brito, Gondim
 e Correia de Barros; os dos presidentes das antigas
 commissões antiphylloxericas; os dos nossos
 agronomos Tavares da Silva, Larcher Marçal,
@@ -361,7 +361,7 @@ cresce; mas outros novos os vão substituindo, na
 região inferior aos primeiros. D'aqui resulta uma
 dupla vantagem: a radicula tem sempre pellos absorventes
 novos, isto é, imminentemente aptos para
-a absorpção; é o deslocamento d'esses pellos, ao
+a absorpção; e o deslocamento d'esses pellos, ao
 mesmo tempo que a radicula se alonga, permitte-lhe
 ir successivamente explorando novas camadas
 do terreno, em procura da humidade e das substancias
@@ -401,7 +401,8 @@ pericyclo, que involve os feixes) e, para se alongar
 na terra, precisa atravessar primeiro todos os tecidos
 d'esse eixo que ficam mais externos; este caminho
 percorre-o auxiliada por uma acção digestiva
-ou solubilisadora dos fermentos (diastases) que segrega. Varía bastante o grau de facilidade com que
+ou solubilisadora dos fermentos (diastases) que segrega.
+Varía bastante o grau de facilidade com que
 enraizam os sarmentos das diversas especies: esse
 enraizamento é facil na nossa V. vinifera e n'algumas
 especies americanas, taes como a V. riparia;
@@ -410,6 +411,8 @@ exemplo na V. rupestris, V. aestivalis e seus derivados
 (Jacquez, etc.); e torna-se bastante difficil
 n'outras (V. Berlandieri, V. cinerea, V. candicans,
 etc.).
+
+2
 
 18  CULTURA DA VINHA
 
@@ -424,7 +427,7 @@ uma casca parenchymatosa (c), mais ou menos
 espessa, terminada á peripheria pela zona dos
 pellos absorventes (p), e um cylindro central. Este
 cylindro central é formado pelos feixes lenhosos (v)
-e feixes liberianos (1) dispostos em circulo, alternadamente,
+e feixes liberianos (l) dispostos em circulo, alternadamente,
 e involvidos pelo pericyclo (pe). Os feixes
 lenhosos teem como elemento principal os vasos, ou
 longos tubos longitudinaes de parede lenhosa, onde
@@ -446,7 +449,7 @@ que tem o nome de medulla.
 
 Fig. 2. - Córte transversal (ampliado) de raizes novas; A, raiz de uma videira
 europea; B, raiz de uma videira americana resistente á phylloxera; c,
-casca; r raio medullar; 1, feixe liberiano; g, cambio; v, feixe lenhoso.
+casca; r raio medullar; l, feixe liberiano; g, cambio; v, feixe lenhoso.
 
 20  CULTURA DA VINHA
 
@@ -454,7 +457,7 @@ casca; r raio medullar; 1, feixe liberiano; g, cambio; v, feixe lenhoso.
 em vez de alternarem circularmente como
 na radicula, estão dispostos em linha radiante, ficando
 o feixe liberiano ou liber pela parte de fóra
-(7), e o feixe lenhoso ou lenho (v) pela parte de dentro.
+(l), e o feixe lenhoso ou lenho (v) pela parte de dentro.
 Entre um e outro d'estes dois feixes existe uma
 camada geradora (g), formada de cellulas muito delicadas,
 que, produzindo liber para a parte externa
@@ -586,7 +589,7 @@ cultural.
 tortuoso da ramificação aerea; nas videiras cultivadas
 ou se apresenta simples, ou dividido em grossos
 ramos ou braços. A parte superior da cêpa, d'onde
-sáem as varas, denomina se cabeça.
+sáem as varas, denomina-se cabeça.
 
 22. - A grossura relativa do tronco não só varía
 bastante nas diversas especies, como tambem nas
@@ -636,21 +639,21 @@ novo ou ao pampano (Fig. 5, c). O cylindro central
 começa, como na raiz, por uma assentada de cellulas
 que constitue o pericyclo; contra o pericyclo encostam
 feixes libero-lenhosos, dispostos no sentido
-do raio, com o liber (7) collocado externa e o lenho
+do raio, com o liber (l) collocado externa e o lenho
 (v) internamente; estes feixes estão separados pelos
 raios medullares (r) e circumscrevem uma medulla
 central (m). Exactamente como na raiz, os feixes
 lenhosos teem como elemento essencial os vasos lenhosos
 e os feixes liberianos os tubos crivosos (13).
 
-Fig. 5. - Córte transversal (ampliado) de um sarmento; c, casca; 1, feixe liberiano;
+Fig. 5. - Córte transversal (ampliado) de um sarmento; c, casca; l, feixe liberiano;
 g, cambio; v, feixe lenhoso; r, raio medullar: m, medulla.
 
 26  CULTURA DA VINHA
 
 26. - Mais tarde, o caule novo ou o pampano engrossa
 e torna-se lenhoso. O engrossamento realisa-se
-a custa de uma assentada geradora, formada de
+á custa de uma assentada geradora, formada de
 cellulas muito tenues, collocada entre o liber e o lenho,
 a constituir um annel, que tem o nome de cambio
 (Fig. 5, g); este annel gerador funcciona durante
@@ -743,11 +746,11 @@ compridos raizes profundas.
 34. - N'umas variedades, os merithallos dispõem-se
 successivamente quasi que na mesma linha, tornando
 a vara quasi recta; n'outras, formam angulos
-entre si, dando a vara o aspecto sinuoso.
+entre si, dando á vara o aspecto sinuoso.
 
 35. - Fazendo o córte longitudinal de um sarmento,
 nota-se que a medulla está interrompida nos
-nós, existindo ahi uns diaphragmos transversaes, lenhosos
+nós, existindo ahi uns diaphragmas transversaes, lenhosos
 e resistentes (Fig. 6). As dimensões relativas
 da medulla (a) variam bastante. O lenho (b, b'),
 n'umas castas é muito menos duro (Uva da promissão,
@@ -778,10 +781,10 @@ o typo da videira, a fórma
 globosa, ovoide ou conica,
 e dimensões diversas. Emquanto
 novos e atrazados na sua evolução recebem
-o nome de olhos.
+o nome de ólhos.
 
 Fig. 6. - Corte longitudinal
-de um sarmento: a, a, medulla;
+de um sarmento: a, a', medulla;
 b, b', casca e lenho.
 
 37. - Estudando um córte longitudinal, vê-se que
@@ -798,7 +801,7 @@ gommosas, que existem nos botões de muitas videiras.
 30  CULTURA DA VINHA
 
 38. - Os botões formam-se emquanto o pampano
-sobre que se implantam está ainda rudimentar
+sobre que se implantam está ainda rudimentar;
 permanecem, como regra geral, atrazados durante
 o verão e o inverno, e só na primavera seguinte
 entram em evolução. No emtanto, ás vezes desenvolvem-se
@@ -841,7 +844,7 @@ em cêpa alta.
 42. - Por outro lado, como as diversas especies e
 as diversas castas teem exigencias particulares de
 vegetação, as suas differentes cêpas, n'um mesmo
-local, sujeitas as mesmas condições de tratamento,
+local, sujeitas ás mesmas condições de tratamento,
 abrolham em epochas distinctas. Geralmente, em
 Portugal, póde estabelecer-se a seguinte escala,
 partindo das especies mais precoces: V. riparia, V.
@@ -926,6 +929,8 @@ anastomosam-se, formando uma rede de malhas estreitas.
 As nervuras são deprimidas na pagina superior
 e salientes na inferior, mais ou menos, segundo
 o typo da videira.
+
+3
 
 34  CULTURA DA VINHA
 
@@ -1086,7 +1091,7 @@ produzem; ou podem, finalmente, repartir-se os cachos
 por todos os pampanos. Tem grande valor
 pratico esta observação, para bem dirigir a poda. O
 numero total dos cachos de cada videira, e a constancia
-da, sua producção, tambem dependem das
+da sua producção, tambem dependem das
 castas, que umas são muito mais productivas e mais
 regulares do que outras; mas dependem ainda bastante
 das condições da vegetação e da cultura.
@@ -1236,7 +1241,7 @@ CULTURA DA VINHA  43
 acido ou adstringente, conforme as castas, o clima
 e a cultura; algumas videiras americanas dão uvas
 bastante acerbas. As differentes uvas teem sabores
-difficeis de precisar; entre elles tornam se notaveis
+difficeis de precisar; entre elles tornam-se notaveis
 o sabor dos Moscateis e o de algumas uvas
 americanas: lembrando este ultimo o gosto do morango
 ou da framboesa, sabor foxy ou de raposa
@@ -1478,6 +1483,8 @@ Por isso, é pratica viciosa o deixar entrar os rebanhos
 d'ovelhas nas vinhas, logo em seguida á vindima,
 para aproveitarem as parras, como fazem em algumas
 das nossas regiões vinhateiras.
+
+4
 
 50  CULTURA DA VINHA
 
@@ -1783,7 +1790,7 @@ e espirituoso).
 
 CULTURA DA VINHA  59
 
-101. - Na região littoral da Beira, que inclue proximamenté
+101. - Na região littoral da Beira, que inclue proximamente
 os districtos administrativos d'Aveiro,
 Coimbra e parte do de Leiria, preponderam as
 castas tintas: Bastardo; Mureto; Trincadeira (produz
@@ -1932,7 +1939,7 @@ mesmo as que resistem bem á phylloxera, mais
 exigentes nas condições do terreno e não se adaptam
 a todos elles, como se adaptava mais ou menos
 a nossa V. vinifera. O solos em que predomina
-calcareo, sobretudo o calcareo friavel, brando,
+o calcareo, sobretudo o calcareo friavel, brando,
 são os de mais difficil reconstituição, onde a maioria
 das cêpas americanas vae mal ou não póde mesmo
 viver. Esta falta de adaptação traduz-se pela
@@ -2021,6 +2028,8 @@ sejam argillo-siliciosas, argillo-calcareas ou mesmo
 argillosas (1).
 
 (1) Congresso Viticola de Lyão (1894).
+
+5
 
 66  CULTURA DA VINHA
 
@@ -2185,12 +2194,12 @@ muito resistente á phylloxera. Em Portugal é ainda
 pouco conhecida, e parece que em alguns ensaios
 não se tem desenvolvido bem. As suas fórmas mais
 estimadas em França são as seguintes: Berlandieri
-d'Angeac, Berlandieri Rességuier nos 1 e 2, Berlandieri
+d'Angeac, Berlandieri Rességuier n.os 1 e 2, Berlandieri
 Capdeville, etc.
 
 CULTURA DA VINHA  71
 
-125. - Especies americanas restantes. As tres
+125. - Especies americanas restantes. - As tres
 especies que deixâmos indicadas são as unicas,
 como especies puras, que teem real importancia na
 actualidade para a cultura. As duas primeiras são
@@ -2199,7 +2208,7 @@ no paiz e as que até hoje têem dado maior numero
 de resultados favoraveis.
 
 126. - A V. aestivalis é sobretudo digna d'attenção
-pelos hybridos, entre os quaes sobresáe o Facquez,
+pelos hybridos, entre os quaes sobresáe o Jacquez,
 que adeante, em logar competente, indicaremos
 (134).
 
@@ -2396,7 +2405,7 @@ facilidade, dando muito boas soldaduras; adapta-se
 á maioria dos terrenos, até aos fracos e seccos, comtanto
 que não sejam cretaceos. Tem o defeito de se
 desenvolver pouco nos primeiros annos, todavia depois
-do terceiro anno engrossa bem; mas é de mais,
+do terceiro anno engrossa bem; mas é de mais
 fraca vegetação que muitas outras americanas, e os
 seus enxertos são menos productivos. Em França
 preferem-lhe hoje a Rupestris, que alimenta mais
@@ -2470,7 +2479,7 @@ estão tendo bastante emprego em França,
 até sobre terrenos calcareos. Os hybridos Riparia
 × Rupestris tambem em Portugal têem adquirido
 grande desenvolvimento e dado boas enxertias; os
-mais afamados são Riparia × Rupestris n.º 3309 e
+mais afamados são Riparia × Rupestris n.os 3309 e
 3306 Couderc, e Riparia × Rupestris n.º 101 Millardet.
 
 CULTURA DA VINHA  79
@@ -2488,10 +2497,10 @@ logar (134 e seg.), enumeraremos os seguintes, cujo
 valor pratico é cada vez mais secundario:
 
 144 bis. - Herbemont. (Hybrido de origem identica
-ao Facquez; existe selvagem no sul dos Estados
+ao Jacquez; existe selvagem no sul dos Estados
 Unidos, onde é cultivado). Produz vinho sem sabor
 foxy, mais agradavel mas menos tinto que o
-do Facquez. E' videira pouco atacada pelas doenças
+do Jacquez. E' videira pouco atacada pelas doenças
 cryptogamicas e tem sido ensaiada na Europa, tanto
 como productor directo como cavallo; mas exige
 condições muito especiaes de terreno e de clima,
@@ -2499,7 +2508,7 @@ tendo por isso difficil adaptação; não péga bem
 d'estaca e soffre mal a enxertia, dá pequena percentagem
 de bons enxertos. Tem já sido entre nós
 victimada pela phylloxera e é considerada inferior
-ao Facquez.
+ao Jacquez.
 
 (1) Congrès Viticole et Agricole de Lyon - Compte rendu
 in-extenso, pag. 18 - Paris, 1894.
@@ -2566,6 +2575,8 @@ bastante atacado pela phylloxera; não resiste ao calcareo.
 de desenvolvimento vigoroso, que dá boa uva branca,
 mas de sabor foxy; é muito pouco resistente á
 phylloxera.
+
+6
 
 CAPITULO III
 
@@ -2653,7 +2664,7 @@ e que as segundas existem cultivadas com bom
 exito dentro de largas áreas.
 
 159. - A humidade atmospherica influe muito na
-força da vegetação e na qualidade dos fructos Em
+força da vegetação e na qualidade dos fructos. Em
 regra, nos pontos humidos a vegetação é mais vigorosa
 e a producção abundante, mas as uvas teem
 succos menos concentrados, dão mostos fracos e
@@ -3127,6 +3138,8 @@ visto desenvolverem-se bem nos terrenos de areia,
 e decerto servirão para a cultura do littoral, em
 muitos pontos.
 
+7
+
 98  CULTURA DA VINHA
 
 189. - As vinhas das areias, geralmente, fazem-se
@@ -3167,7 +3180,7 @@ se manifesta a impropriedade do terreno.
 CULTURA DA VINHA  99
 
 192. - Depois da Vitis vinifera, a ordem da resistencia
-das epecies americanas á chlorose é a seguinte,
+das especies americanas á chlorose é a seguinte,
 segundo o relatorio do sr. Viala presente ao
 ultimo congresso de Lyão: V. Berlandieri, V. monticola,
 V. riparia, V. rupestris (notando que ha uma
@@ -3243,7 +3256,7 @@ pratica que julgamos prudente estabelecer, como
 base da escolha segura das videiras americanas para
 um dado ponto, quando ellas não existam já na região
 em circumstancias identicas, é o ensaio prévio
-local; este ensaio julgamol-o indispensável, e dever
+local; este ensaio julgamol-o indispensável, e deve
 ser feito com o mais escrupuloso cuidado, logo que
 a quantidade do calcareo exceda 10 %, e sobretudo
 se o calcareo é de natureza friavel. Se as videiras
@@ -3304,11 +3317,11 @@ mas temol-a visto bem desenvolvida sobre
 solos com bastante argilla, quando não são muito
 humidos d'inverno e tem alguma frescura no verão.
 As fórmas tomentosas (115) devem preferir-se para
-os solos mais frescos e as glabras para os mais secCOS.
+os solos mais frescos e as glabras para os mais seccos.
 
 CULTURA DA VINHA  103
 
-199 - Rupestris: terrenos que não tenham excessiva
+199. - Rupestris: terrenos que não tenham excessiva
 percentagem de calcareo molle, não humidos,
 quer de planicie ou d'encosta, cascalhentos ou pedregosos,
 siliciosos ou gresiferos, e soltos. Póde
@@ -3339,7 +3352,7 @@ desfavoraveis as argillas muito tenazes.
 
 104  CULTURA DA VINHA
 
-201. - Jucquez: tem optimo desenvolvimento nos
+201. - Jacquez: tem optimo desenvolvimento nos
 terrenos fundos, ricos e frescos, que não tenham
 grande percentagem de calcareo molle; mas adapta-se
 á grande maioria dos terrenos: aos argillosos,
@@ -3472,7 +3485,7 @@ tratado n'outro logar. Mas accentuaremos desde já,
 que é hoje bastante limitado o numero das videiras
 americanas aconselhadas como cavallos, pois que a
 selecção intelligente tem apurado algumas fórmas
-de grande valor, que reunem a uma alta resistencial
+de grande valor, que reunem a uma alta resistencia
 aos ataques da phylloxera, comprovada em numerosas
 culturas, uma adaptação mais larga; a ponto
 do ultimo congresso de Lyão affirmar a possibilidade
@@ -3486,15 +3499,15 @@ mesmo tempo os terrenos a que se apropriam:
 a 18 % de calcareo, segundo as restantes
 circumstancias):
 
-- Terrenos profundos e ricos: Riparias (R. Gloria
+Terrenos profundos e ricos: Riparias (R. Gloria
 de Montpellier e R. Grande glabra).
 
-- Terrenos pobres, seccos e pedregosos: Rupestris
+Terrenos pobres, seccos e pedregosos: Rupestris
 (R. Martin e R. Monticola; esta ultima
 de preferencia nos argillo-siliciosos e argillo-schistosos).
 
 - Terrenos medianamente calcareos (onde se aconselhava
-a Solonis e o Facquez); Riparia × Rupestris
+a Solonis e o Jacquez); Riparia × Rupestris
 Couderc 3309-3306, Riparia × Rupestris
 Millardet 101, Rupestris Monticola.
 
@@ -3653,7 +3666,7 @@ viveiro pequenos sulcos parallelos, de 3 a 4 centimetros
 de fundura, adubados com estrume bem
 curtido, ficando os sulcos espaçados uns 3 a 4 decimetros;
 as sementes collocam-se n'estes sulcos á
-distancia de i decimetro umas das outras. Ha quem
+distancia de 1 decimetro umas das outras. Ha quem
 faça as sementeiras mais apertadas, mas é claro
 que, quanto maior fôr o espaço disponivel para cada
 planta, maior desenvolvimento ellas tomam. Feita
@@ -3662,6 +3675,8 @@ camada de terra, ou, se esta fôr um tanto compacta,
 com uma mistura d'areia e de terriço. Não deve
 esquecer que as sementes muito enterradas germinam
 com mais difficuldade.
+
+8
 
 114  CULTURA DA VINHA
 
@@ -3700,7 +3715,7 @@ CULTURA DA VINHA  115
 difficil, que só póde ser conduzida por pessoa bem
 competente. Com effeito, é necessario primeiro assentar
 na escolha das especies que se hybridam,
-calculando theoricamente. os resultados provaveis
+calculando theoricamente os resultados provaveis
 d'essa hybridação; é preciso effectuar depois a hybridação
 artificial (90) e obter as sementes resultantes
 do cruzamento; semear essas sementes e cultivar
@@ -4190,6 +4205,8 @@ que se produzem; outros, só fazem a mergulhia da
 vara quando os seus pampanos já tem uns 2 a 3
 cent. de comprimento.
 
+9
+
 130  CULTURA DA VINHA
 
 Fig. 13. - Mergulhia multipla
@@ -4230,7 +4247,7 @@ e, nos pontos mais asperos do norte, onde ha
 grandes geadas, endurecem muito o terreno. A epocha
 mais favoravel parece ser logo depois da queda
 das folhas (salvo nas terras muito humidas), mas em
-alguns sitios do nosso paiz executam na mais tarde,
+alguns sitios do nosso paiz executam-na mais tarde,
 até fevereiro ou mesmo março.
 
 § 4.º - Enxertia
@@ -4273,7 +4290,7 @@ camadas do cambio. Quando a operação é bem
 feita, e as condições externas correm propicias, o
 enxerto liga-se com o cavallo, e diz-se pegado ou
 soldado; aliás, quando sécca e não adhere, diz-se
-falho ou não pegado. A soldadura é mais ou meno
+falho ou não pegado. A soldadura é mais ou menos
 perfeita, conforme estabelece melhor ou peor continuação
 anatomica entre os tecidos das duas plantas.
 
@@ -4283,9 +4300,9 @@ anatomica entre os tecidos das duas plantas.
 entre quaesquer plantas. As videiras, pelo
 menos segundo os conhecimentos actuaes, só podem
 enxertar-se umas nas outras (as especiaes e os hybridos
-do genero Vitis entre si), Os enxertos phantasticos
+do genero Vitis entre si). Os enxertos phantasticos
 que teem lembrado, taes como o da videira
-sobre a silva, etc, falham sempre: alguns bons resultados
+sobre a silva, etc., falham sempre: alguns bons resultados
 em que se tem fallado são apenas apparentes,
 e devidos ao enraizamento do enxerto, que
 passou a viver independente, como se fosse uma
@@ -4433,8 +4450,8 @@ da enxertia.
 138  CULTURA DA VINHA
 
 263. - De ordinario, nos dois primeiros annos,
-nota-se alguma desegualdade entre o engrossamentodo
-cavallo americano e do garfo europeu, ficando o
+nota-se alguma desegualdade entre o engrossamento
+do cavallo americano e do garfo europeu, ficando o
 primeiro mais delgado do que o ultimo; mas esta
 differença vae diminuindo com o tempo, excepto
 nas fórmas mal seleccionadas da Riparia e ainda
@@ -4460,7 +4477,7 @@ caso, deve sempre, em regra geral, preferir-se,
 porque a soldadura é muito mais perfeita, e o
 enxerto adquire logo desenvolvimento muito maior;
 é esta mais uma razão para enxertar as videiras
-americanas em muito novas Advertiremos já, que
+americanas em muito novas. Advertiremos já, que
 se o cavallo e o garfo tiverem o mesmo diametro,
 e a estructura dos dois não fôr muito diversa, póde
 regular-se, no acto da enxertia, a juxtaposição do
@@ -4604,7 +4621,7 @@ chuva, e quando não soprem ventos frios ou seccos;
 os nossos praticos preferem sempre enxertar no
 crescente da lua (1).
 
-(1) Não ligâmos importancia a esta acção da lua, mas julgamos
+(1) Não ligâmos importancia a esta acção da lua, mas julgâmos
 muito conveniente não forçar os operarios a contrariarem
 esse preconceito; o enxertador, obrigado a trabalhar
 em epocha que suppõe não ser apropriada, póde trabalhar de
@@ -4646,7 +4663,7 @@ que então se descolla e apodrece. Esta enxertia deve
 fazer-se o mais cedo possivel, logo que haja varas
 atempadas d'onde se possam tirar os garfos, em
 setembro ou outubro, para que a soldadura se realise
-antes do inverno. Para a Kupestris, tem a vantagem
+antes do inverno. Para a Rupestris, tem a vantagem
 de attenuar as difficuldades que resultam dos
 muitos rebentos que dá, quando se emprega como
 cavallo.
@@ -4683,8 +4700,8 @@ de conservação.
 278. - Para conservar estes bacellos, cortam-se
 com dimensões apropriadas, e atam-se em pequenos
 mólhos de 50 a 100, tendo sempre o cuidado
-de separar as diversas castas. Abacellam-se em sem
-guida na posição vertical, n'um fosso de 1 a 1,5,
+de separar as diversas castas. Abacellam-se em seguida
+na posição vertical, n'um fosso de 1m a 1,m5,
 aberto sob um telheiro ou junto a um muro alto exposto
 ao norte, cobrindo-os primeiro de areia, e
 depois de terra; ou abacellam-se, enterrando-os até
@@ -4705,6 +4722,8 @@ entram rapidamente em vegetação. As enxertias feitas
 na mão (268-269) tambem se conservam assim estratificadas
 até ao momento de serem plantadas no
 viveiro.
+
+10
 
 146  CULTURA DA VINHA
 
@@ -4793,7 +4812,7 @@ de seiva do cavallo, e porque a soldadura
 se faz mais rapidamente se começar pelos
 tecidos do mesmo cavallo.
 
-Fig. 15. - A, Enxerto defenda cheia: (c, o cavallo; g, a extremidade do garfo).
+Fig. 15. - A, Enxerto de fenda cheia: (c, o cavallo; g, a extremidade do garfo).
 B, o mesmo, depois de collocado o garfo. C, enxerto de fenda simples.
 
 CULTURA DA VINHA  149
@@ -4841,7 +4860,7 @@ com este apparelho, apara-se
 o garfo introduzindo-o
 pela parte opposta aos
 bicos da tesoura, e fende-se
-o cavallo introduzindo o
+o cavallo introduzindo-o
 na direcção inversa. Ao
 enxerto, tal como o descrevemos
 executado pela tesoura Despujols, dão alguns
@@ -4861,7 +4880,7 @@ muito habil.
 
 (1) O canivete Kunde custa em Lisboa uns 600 a 700 réis.
 
-(1) A tesoura Despujols custa em Lisboa 3600 réis.
+(1) A tesoura Despujols custa em Lisboa 3$600 réis.
 
 150  CULTURA DA VINHA
 
@@ -4952,7 +4971,7 @@ isto, se usam hoje os biseis muito menos inclinados.
 CULTURA DA VINHA  153
 
 Fig. 18. - Enxerto inglez:
-CA, c, o cavallo; g, o
+A, c, o cavallo; g, o
 garfo. B, o mesmo depois
 de juxtaposto.
 
@@ -5014,7 +5033,7 @@ Pontoise é uma modificação do enxerto de fenda
 simples, e tambem apropriado para cavallos grossos,
 em que se não póde empregar a enxertia de fenda
 cheia ou de fenda ingleza, que pedem garfos de diametro
-egual ao do cavallo. Pratica-se, fazendo um
+egual ao do cavallo. Pratíca-se, fazendo um
 entalhe lateral, em fórma de pyramide triangular,
 no cavallo já decapitado, e cortando a extremidade
 do garfo apropriadamente a esse entalhe. Este enxerto
@@ -5098,7 +5117,7 @@ extremidade basilar, externa ao cavallo.
 
 Fig. 20. - Enxerto de garfo com talão: A, c, o cavallo; g, o garfo
 
-299. - O enxerto Fermaud (Fig. 21) pratica-se, decotando
+299. - O enxerto Fermaud (Fig. 21) pratíca-se, decotando
 o cavallo obliquamente e fendendo-o no meio,
 como para executar o enxerto inglez (289); o garfo
 é semelhante ao do processo anterior, convenientemente
@@ -5123,8 +5142,8 @@ CULTURA DA VINHA  159
 
 Fig. 21. - Enxerto Fermaud; B, c, o cavallo; g, o garfo
 
-301. - O enxerto Cadillac (Fig. 22) pratica-se, abrindo
-uma fenda lateral, obliqua, no cavallo (c), sem o decotar,
+301. - O enxerto Cadillac (Fig. 22) pratíca-se, abrindo
+uma fenda lateral, obliqua no cavallo (c), sem o decotar,
 fenda que deve chegar até á medulla se o garfo
 tem o diametro egual ao do cavallo, mas que aliás
 deve ser menos profunda; n'esta fenda se introduz
@@ -5227,7 +5246,7 @@ qualquer dos casos, quando o enxerto se faça com
 planta enraizada, sempre se começa por escavar a
 cêpa, pois que elle deve ser subterraneo.
 
-306. - Conclusões. - Resumindo o que deixamos
+306. - Conclusões. - Resumindo o que deixâmos
 dito sobre a escolha e applicação dos processos especiaes
 de enxertia, diremos que, embora varios
 d'elles possam ter casos particulares de mais vantajoso
@@ -5337,7 +5356,7 @@ na primeira epocha, na occasião do
 córte das raizes do garfo (ultima quinzena
 de junho), dá bom resultado, pois
 que então já a enxertia está sufficientemente
-consolidada. e convém o accesso
+consolidada e convém o accesso
 do ar para lhe dar mais solidez.
 Cada rolha póde servir durante uns
 tres annos. Este processo não convém
@@ -5348,9 +5367,9 @@ enxertias na mão, tem dado em Portugal bons resultados,
 mas hoje em França está bastante posta
 de lado.
 
-(1) A machina de cortar rolhas custa em Lisboa 2000 réis.
+(1) A machina de cortar rolhas custa em Lisboa 2$000 réis.
 
-(2) A pinça Alliés custa em Lisboa 1600 réis.
+(2) A pinça Alliés custa em Lisboa 1$600 réis.
 
 166  CULTURA DA VINHA
 
@@ -5392,7 +5411,7 @@ o golpe da enxertia.
 
 314. - A enxertia sem ligadura pratica-se, enxertando
 na mão, sobre estacas, pelo processo da fenda
-ingleza (289), e reunindo depois as estacas - enxertos
+ingleza (289), e reunindo depois as estacas-enxertos
 em pequenos mólhos, (de 12 a 15), que se atam
 pouco apertados e se collocam ao alto n'uma caixa,
 entremeados e cobertos de musgo humedecido. Esta
@@ -5479,7 +5498,7 @@ para ella se poder realisar, que se enxerta
 abaixo ou muito pouco acima da superficie do solo.
 Deve ser feita com o maior cuidado; enxertias, aliás
 bem executadas, temos visto falharem muito, por
-terem sido mal amontoadas. A terra da amontoa
+terem sido mal amontoadas. A terra da amontôa
 não deve ser pedregosa, nem muito compacta, e deve
 estar bem mobilisada; se é pedregosa ou entorroada,
 deixa grandes vazios por onde circula o ar, e o
@@ -5506,7 +5525,7 @@ não é preciso marcar o logar dos enxertos, que
 ficam muito juntos, sob a elevação longitudinal de
 terra. Na vinha, ou sempre que elles ficarem afastados,
 convem marcal-os com duas cannas ou ramos
-encruzados Em qualquer dos casos, não se
+encruzados. Em qualquer dos casos, não se
 deve mexer mais nem na terra nem nos enxertos,
 até ao primeiro córte das raizes dos garfos; limitando,
 até essa occasião, os cuidados de tratamento
@@ -5530,7 +5549,7 @@ CULTURA DA VINHA  173
 320. - O garfo, assim collocado abaixo da terra,
 ao mesmo tempo que rebenta para a atmosphera,
 enraiza quasi sempre, mais ou menos; nas enxertias
-teitas em estaca, ainda esta tendencia é maior. Se
+feitas em estaca, ainda esta tendencia é maior. Se
 não cortarmos essas raizes, originam-se d'ahi varios
 perigos: póde o garfo emancipar-se do cavallo, e
 este ir definhando até morrer; póde a tracção irregular
@@ -5672,7 +5691,7 @@ o garfo.
 
 CULTURA DA VINHA  177
 
-327. - Enxerto d'encosto. E' geralmente admittido
+327. - Enxerto d'encosto. - E' geralmente admittido
 pelos escriptores francezes, que o enxerto de
 encosto dá plantas pouco vigorosas e de soldaduras
 imperfeitas. Todavia o enxerto herbaceo d'encosto
@@ -5706,13 +5725,13 @@ da enxertia; atam-se os pampanos a
 um tutor, acima e abaixo do ponto do enxerto, despontando
 o pampano que deu o cavallo um ou dois
 olhos acima do encosto, e o que deu o enxerto quatro
-ou cinco olhos acima. O sr. dr. Azevedo Leite pratica
+ou cinco olhos acima. O sr. dr. Azevedo Leite pratíca
 esta enxertia de maio a setembro, e diz que quanto
 mais cedo se fizer, melhores resultados se obtém; os
 principaes insuccessos são devidos ao mau atempamento
 da vara, que se dá sempre que a enxertia
 fica á sombra, sendo muito favoravel a livre exposição
-ao sol. O desmmame faz-se no outomno. depois
+ao sol. O desmmame faz-se no outomno, depois
 das varas bem atempadas, com uma tesoura de
 poda, dando os golpes em bisel; corta-se o cavallo
 superiormente ao encosto, e corta-se o garfo inferiormente,
@@ -5722,6 +5741,8 @@ olhos (1).
 (1) Para a descripção minuciosa d'esta enxertia vejam-se os
 artigos do sr. dr. Azevedo Leite na Vinha Portugueza, vol. I,
 pag. 311 e 341.
+
+12
 
 178  CULTURA DA VINHA
 
@@ -5802,7 +5823,7 @@ que hão de servir de garfos? Eis as interrogações
 de indispensavel resolução, antes de começar qualquer
 trabalho a valer no campo.
 
-331. - Onde convém plantar a videira europea. -
+331. - Onde convém plantar a videira europêa. -
 Ao termos d'escolher, na plantação, entre a videira
 europea e as videiras americanas, julgâmos que se
 deve acceitar, hoje, em Portugal, como base de todas
@@ -5850,7 +5871,7 @@ de carbonio só têem dado resultados favoraveis nos
 terrenos de facil diffusão, leves ou de mediana consistencia,
 fundaveis e ricos; e, em todo o caso, vém
 sobrecarregar a cultura, já tão onerada pelos diversos
-tratamentos contra tantas outras doenças. com
+tratamentos contra tantas outras doenças, com
 mais uma despesa annual constante; por estes motivos,
 o sulfureto de carbonio, hoje, é principalmente
 utilisado para amparar as vinhas atacadas já existentes,
@@ -5942,11 +5963,11 @@ não refractarios á phylloxera, nem economicamente
 submergiveis, quando não se apresentem
 muito pobres, ou encharcados e de difficil enxugo,
 ou muito superficiaes, ou muito calcareos (onde só
-a titulo de ensaio convirá. por emquanto, verificar a
+a titulo de ensaio convirá, por emquanto, verificar a
 vegetação das cêpas menos conhecidas, e tidas como
 apropriadas a esses meios).
 
-340. - Escolha das castas europeas. O que vamos
+340. - Escolha das castas europeas. - O que vamos
 dizer sobre esta epigraphe, diz respeito, tanto
 á plantação das videiras europeas, como á escolha
 dos garfos para a enxertia das plantações americanas.
@@ -6004,7 +6025,7 @@ quer estrangeiras, que convirá introduzir,
 ou pela finura, ou pela abundancia, ou por outros
 determinados requisitos dos seus vinhos; mas esta
 introducção de castas exoticas, em um dado logar,
-que pode ser utilissima, pede. em todo o caso, ensaios
+que pode ser utilissima, pede, em todo o caso, ensaios
 anteriores em pequeno ponto, e demanda tempo.
 A quem não puder perder tempo, o que nunca
 aconselharemos, é a introducção de uma planta nova,
@@ -6062,7 +6083,7 @@ vigor, para terem producção mais abundante, porque,
 de ordinario, nos meios menos apropriados ou
 mais pobres dão pequenas colheitas (108). Os principaes
 productores directos são: importados para a
-Europa - Clinton, Facquez, Herbemont, Cunningham,
+Europa - Clinton, Jacquez, Herbemont, Cunningham,
 Black-July, Othello, Senasqua, Triumph, Noah, Elvira,
 Canadá, Cornucopia, etc. - obtidos em França:
 Saint-Sauveur, Herbemont-Touzan, Herbemont d'Aurelles
@@ -6086,12 +6107,12 @@ ficou dito anteriormente (162 a 164-197 e seg.). E'
 de advertir, que o futuro da vinha depende essencialmente
 d'essa escolha; as cêpas americanas são
 mais exigentes do que a cêpa europea, e o cavallo
-mal adaptado desenvolve se pouco, definha, torna-se
+mal adaptado desenvolve-se pouco, definha, torna-se
 chlorotico e morre, aggravando-se ainda este perigo
 depois da enxertia, e ficando assim perdidas todas
 as despesas feitas (191). Se na região houver já
 boas vinhas, d'enxertia sobre americanas, devemos,
-na nossa escolha, guiarmo nos, naturalmente, pelos
+na nossa escolha, guiarmo-nos, naturalmente, pelos
 resultados obtidos, adoptando os cavallos que se
 comportaram melhor, em situações identicas. Se na
 localidade as videiras americanas são ainda pouco
@@ -6180,7 +6201,7 @@ nas raizes (17). Na York-Madeira e na
 Solonis (nas boas fórmas), as nodosidades das radiculas
 são mais grossas e mais numerosas, e nas raizes
 encontram-se algumas tuberosidades, embora pouco
-abundantes e pouco perigosas. No Herbemont, Facquez,
+abundantes e pouco perigosas. No Herbemont, Jacquez,
 Cunningham, Noah, Vialla, Taylor, Clinton,
 Othello, Elvira, Senasqua, Triumph, etc., são frequentes
 tanto as nodosidades como as tuberosidades,
@@ -6194,7 +6215,7 @@ só, como dizemos acima, as fórmas de um mesmo
 typo apresentam resistencia um tanto diversa, mas
 ainda a resistencia de cada fórma depende bastante
 das condições do meio (215). Em regra, quanto menor
-for a resistencia de uma videira tanto melhor
+fôr a resistencia de uma videira tanto melhor
 adaptada precisa estar ao terreno e ao clima. Em
 regra, a resistencia nos paizes mais frios, mais ao
 norte, é maior do que nos quentes, meridionaes,
@@ -6254,7 +6275,7 @@ suas boas fórmas com a fórma lobata, que succumbe
 de pressa á phylloxera (133), estão restringindo
 cada vez mais a sua cultura.
 
-357. - Do mesmo modo, tem o Facquez prestado
+357. - Do mesmo modo, tem o Jacquez prestado
 alguns serviços. Como productor directo está quasi
 completamente abandonado na Europa; na America
 já o não cultivam tambem, pelo muito que soffre com
@@ -6268,7 +6289,7 @@ congresso de Lyão foi emittido o parecer de que ha
 vantagem em empregar antes a Rupestris Monticola
 (122) e os hybridos Riparia × Rupestris, nos terrenos
 fortes e medianamente calcareos, para que tanto
-o Facquez como a Solonis tinham sido mais aconselhados.
+o Jacquez como a Solonis tinham sido mais aconselhados.
 
 CULTURA DA VINHA  195
 
@@ -6279,7 +6300,7 @@ York-Madeira (138) tem sido empregada com vantagem,
 em varios pontos de Portugal (203), mas
 apresenta o defeito de se desenvolver pouco nos primeiros
 annos, e em França estão-lhe hoje preferindo,
-geralmente, a Rupestris e a Riparia, São estas
+geralmente, a Rupestris e a Riparia. São estas
 que deixamos enumeradas (355 e seg.) as videiras
 americanas mais conhecidas e mais experimentadas,
 até hoje, na cultura do nosso paiz (1).
@@ -6339,7 +6360,7 @@ preço (Riparia, etc.), nas terras soltas ou de mediana
 consistencia, de fundura sufficiente, e nos climas
 não muito seccos; aliás, e n'este caso estão o
 maior numero das americanas (Rupestris, Berlandieri,
-Facquez, etc.), é muito mais vantajoso o emprego
+Jacquez, etc.), é muito mais vantajoso o emprego
 dos barbados, para regularidade da vinha,
 que senão fica com muitas falhas.
 
@@ -6367,11 +6388,11 @@ das estacas de viveiro (236). Se os bacellos
 são de videiras em que o enraizamento não é tão
 facil, convem lançar mão de algum dos processos
 indicados para auxiliar a emissão das raizes (239)
-a torção da parte enterrada, o esmagamento, ou
+- a torção da parte enterrada, o esmagamento, ou
 melhor o descasque. Tratando-se de uma plantação
 de bacellos americanos para cavallos de enxertia,
 esta enxertia deve fazer-se, em regra geral, no anno
-seguinte ao da plantação. (416).
+seguinte ao da plantação (416).
 
 198  CULTURA DA VINHA
 
@@ -6404,7 +6425,7 @@ Fig. 32. - Bacello
 unhado.
 
 364 - Barbados. - A plantação de barbados americanos
-faz se, ou enxertando-os na vinha no anno
+faz-se, ou enxertando-os na vinha no anno
 seguinte ao da plantação, ou pondo barbados já enxertados
 no viveiro. Quanto á conveniencia de um
 ou outro processo, diremos que de ambos se tem
@@ -6451,7 +6472,7 @@ se usa d'este processo (268).
 
 366. - Os barbados já enxertados podem provir
 de enxertias feitas ou sobre estacas (269) ou já sobre
-barbados - quer na mão ou na terra (268-267)
+barbados - quer na mão ou na terra (267-268)
 - e que, em qualquer dos casos, se demoraram
 ainda mais um anno no viveiro. A enxertia, no viveiro,
 sobre barbados, dá plantas mais robustas do
@@ -6493,8 +6514,8 @@ que não ha falhas; pelo contrario, toda a demora
 depois do arranque se traduz geralmente n'uma
 perda, maior ou menor. Se fôr necessario conservar
 algum tempo os barbados fóra da terra, ou
-se tiverem de ser transportados para longe, de
-vem acondicionar-se com musgo levemente humedecido,
+se tiverem de ser transportados para longe, devem
+acondicionar-se com musgo levemente humedecido,
 de fórma que se não desequem.
 
 369. - Antes de plantar os barbados, convem cortar-lhes
@@ -6594,7 +6615,7 @@ os casos, poderão ser feitas a braço, ou á charrua,
 ou promiscuamente pelos dois processos. Alguns
 plantam a vinha logo sobre a arroteia; outros
 entregam primeiro o terreno, durante um ou dois
-annos, á cultura arateria.
+annos, á cultura aratoria.
 
 377. - Quando se trata de replantar um terreno
 que estava de vinha (e esta hypothese é hoje muito
@@ -6605,8 +6626,8 @@ logo, convém ao menos levar a surriba de preparação
 abaixo da surriba da vinha anterior. Este
 preceito é motivado pelos inconvenientes conhecidos
 de fazer seguir, no mesmo terreno, uma cultura
-a si propria; é principalmente uma questão de nu
-trição, e póde ser quasi sempre infringido, quando
+a si propria; é principalmente uma questão de nutrição,
+e póde ser quasi sempre infringido, quando
 se usem boas adubações. Com receio da phylloxera,
 não ha motivo para deixar de replantar logo, com
 videiras americanas, o chão onde succumbiu áquelle
@@ -6626,7 +6647,7 @@ enraizadas.
 
 CULTURA DA VINHA  205
 
-378. - Preparo da terra. O bom preparo da
+378. - Preparo da terra. - O bom preparo da
 terra é condição essencialissima para o desenvolvimento
 futuro da vinha. Quanto possa ser, deve a
 surriba de preparação fazer-se no estio, ou pelo menos
@@ -6668,7 +6689,7 @@ chamam á grama, erradamente, escalracho.
 380. - Ao ser executada a surriba, póde ser indifferente
 para as propriedades do solo, o mistural-o
 com o subsolo; mas, póde tambem esta mistura ser
-muito util - como, por exemplo, tratando se d'um
+muito util - como, por exemplo, tratando-se d'um
 solo argilloso assente n'um subsolo silicioso, ou
 vice-versa; ou, pelo contrario, póde ser muito inconveniente
 - como, por exemplo, quando se trata da
@@ -6687,7 +6708,7 @@ barato, e é o que mais convém para a grande propriedade.
 382. - As charruas empregadas subdividem-se em
 dois typos; um de tracção directa, outro que funcciona
 por meio da acção de cabrestantes movidos
-pelos animaes ou movidos pelo vapor. Conio exempol
+pelos animaes ou movidos pelo vapor. Como exemplo
 do primeiro typo, indicaremos a charrua de Brabant
 (Fig. 33), que tem dois corpos sobre o apo, um
 superior e outro inferior, que trabalham alternadamente,
@@ -6729,7 +6750,9 @@ grande propriedade convém.
 (1) Esta charrua Vernette com todos os seus pertences custa
 em Lisboa proximamente uns 300$000 réis
 
-Fig. 33. - Charrua de Brabant
+Fig. 33. - Charrua de Brabant.
+
+14
 
 208  CULTURA DA VINHA
 
@@ -6743,7 +6766,7 @@ Fig. 36. - Cabrestante Vernette.
 
 CULTURA DA VINHA  211
 
-383. - A surriba á enxada executa se com muita
+383. - A surriba á enxada executa-se com muita
 perfeição pelo processo denominado á manta. Riscam-se
 a cordel faxas ou mantas successivas, da largura
 de 0,4 cent. a 1 metro, conforme a fundura,
@@ -6803,7 +6826,7 @@ jornaleiros. O calculo feito por milheiro de bacello
 ainda é mais fallivel, porque o compasso, ou
 distancia de bacello a bacello, é muito variavel; ha
 sitios do paiz onde a plantação de um milheiro de
-vinha póde custar 5000 réis e crêmos que ainda
+vinha póde custar 5$000 réis e crêmos que ainda
 menos, emquanto n'outros sóbe a 180$000 réis, e
 talvez mais, encontrando-se todos os valores possiveis
 entre tão afastados limites.
@@ -6845,8 +6868,8 @@ principalmente, as que se tornarem mais importantes
 no logar da plantação. Quanto á acção do sol,
 deve escolher-se nos paizes frios a orientação norte-sul,
 para que seja a insolação mais demorada, e
-nos paizes quentes, pelo contrario, a orientação este
-oeste, para diminuir a queima das uvas. Quanto á
+nos paizes quentes, pelo contrario, a orientação este-oeste,
+para diminuir a queima das uvas. Quanto á
 acção dos ventos, attenua-se, dispondo, nos paizes
 ventosos, as fileiras na direcção das correntes dominantes,
 para que as plantas se abriguem mutuamente.
@@ -6943,13 +6966,13 @@ Compasso  Plantação em quadrado:  Plantação em equiconcio:
 as vinhas muito densas, geralmente, produzem
 mais ao principio, mas esgotam-se depressa, e
 a sua producção decresce em breve, com rapidez.
-Os compassos de 1,2 a 1,5 satisfazem, na maior
+Os compassos de 1m,2 a 1m,5 satisfazem, na maior
 parte dos casos, para as plantações em alinhamentos
 cruzados, quer para as videiras europeas, quer
 para as americanas enxertadas; tratando-se dos productores
 directos americanos que tomam grande
 desenvolvimento (Jacquez, etc.), convirá subir as
-distancias a 1,8 ou 2m; este ultimo compasso dá
+distancias a 1m,8 ou 2m; este ultimo compasso dá
 cubagem sufficiente ás americanas mais exigentes.
 
 (1) No concelho da Covilhã, as linhas ficam espaçadas de 1m,5
@@ -6960,8 +6983,8 @@ CULTURA DA VINHA  217
 
 395. - Em geral, podem estabelecer-se os preceitos
 seguintes: nos sitios onde a vinha tem crescimento
-mais vigoroso, o compasso deve ser maior assim,
-deve ser maior nas terras fundas, ricas e
+mais vigoroso, o compasso deve ser maior -
+assim, deve ser maior nas terras fundas, ricas e
 frescas, relativamente ás terras superficiaes, pobres
 e aridas. Nas terras seccas dos climas quentes, a
 diminuição das distancias tem ainda a vantagem de
@@ -6972,7 +6995,7 @@ planicies convém, de ordinario, alargar mais as plantações
 do que nas encostas, não só porque o chão
 é quasi sempre mais fertil, mais espesso e menos
 secco, mas ainda para que as videiras se assombreiem
-menos Nas terras muito pobres, posto que,
+menos. Nas terras muito pobres, posto que,
 segundo a regra, as plantas devam ficar mais juntas,
 é necessario, todavia, graduar as distancias de
 maneira que a alimentação de cada videira fique
@@ -7009,7 +7032,7 @@ nós se assignalam na terra, identicamente, com
 estacas.
 
 398. - Para marcar a plantação em equiconcio
-(Fig. 38), prepara-se, além da corda de nós. analoga
+(Fig. 38), prepara-se, além da corda de nós, analoga
 á anterior, um triangulo equilatero de madeira, tendo
 cada lado egual ao compasso admittido. Começa por
 se extender a corda na margem do campo, marcando
@@ -7017,7 +7040,7 @@ o sitio dos nós (Fig. 38, 1-2-3, etc.); em seguida applica-se
 um dos lados do triangulo sobre esse primeiro
 alinhamento, de maneira que os dois vertices correspondam
 á primeira e á segunda estaca: passa-se
-a corda de nós, encostando a ao outro lado do triangulo
+a corda de nós, encostando-a ao outro lado do triangulo
 que concorre no
 vertice apoiado á segunda
 estaca, e marcam-se
@@ -7064,7 +7087,7 @@ aberta cada valleira, mesmo na occasião da postura.
 Fig. 39. - Riscador Gouzy.
 
 400. - Epocha da plantação. - A plantação de bacellos
-faz se no inverno ou, mais excepcionalmente,
+faz-se no inverno ou, mais excepcionalmente,
 no principio da primavera: mais cedo, nas terras
 mais seccas e nos climas mais quentes, para o
 bacello já estar bem enraizado quando sobrevenham
@@ -7204,7 +7227,7 @@ preferivel a ficarem ennovelladas. Posta a planta,
 ataca-se bem o furo com terra, conchegada quanto
 possivel.
 
-(1) Este plantador custa em Lisboa entre 3200 e 4500
+(1) Este plantador custa em Lisboa entre 3$200 e 4$500
 réis.
 
 224  CULTURA DA VINHA
@@ -7436,7 +7459,7 @@ aliás faceis e baratas.
 232  CULTURA DA VINHA
 
 420. - A plantação deve effectuar-se um pouco
-mais funda que o habitual. Empregam se n'ella bacellos
+mais funda que o habitual. Empregam-se n'ella bacellos
 (um tanto mais compridos), que enraizam
 muito facilmente n'esse meio, ou barbados, mas que
 n'este caso são muito mais dispensaveis. Convém
@@ -7458,7 +7481,7 @@ ou os estrumes organicos bem decompostos.
 forte dos ventos mareiros, precisam muitas vezes
 de abrigos do lado do mar; para isso, é imminentemente
 proprio o pinheiro bravo, que vive muito
-beni n'esse meio, e que, ao mesmo tempo que quebra
+bem n'esse meio, e que, ao mesmo tempo que quebra
 a força do vento, se oppõe ao caminhar das dunas
 e ás invasões das areias.
 
@@ -7469,7 +7492,7 @@ ventos: uma cava unica, no fim do inverno, porque
 é perigoso mexer as areias quando estão mais seccas
 e desaggregadas. Geralmente, estes terrenos
 criam pouca herva; mas, se por ventura enrelvarem
-mais, podem as cavas ou ou sachas ser substituidas
+mais, podem as cavas ou as sachas ser substituidas
 por mondas. Em França, usam, depois da cava, cobrir
 o terreno com canniços cortados, juncos ou mattos,
 meio enterrados, que protegem a superficie
@@ -7543,7 +7566,7 @@ porque a rapida infiltração d'esta agua arrasta muitas
 bolhas d'ar, e este arejamento do solo difficulta a
 asphyxia do insecto; de todos, os mais favoraveis são
 os terrenos de permeabilidade mediana, argillo-calcareos,
-argillo-siliciosos ou calcareo argillosos. A natureza
+argillo-siliciosos ou calcareo-argillosos. A natureza
 do subsolo, por sua vez, influe bastante, e deve
 sempre ser muito attendida; se o subsolo é arenoso,
 a agua foge rapidamente; os subsolos mais convenientes
@@ -7784,6 +7807,8 @@ qualidade e abundantes, dirigindo ao mesmo tempo
 e encaminhando a planta, para que tome e conserve
 o pórte conveniente á cultura e ao espaço.
 
+16
+
 242  CULTURA DA VINHA
 
 442. - Entregues a si proprias, quasi todas as videiras
@@ -7831,7 +7856,7 @@ casos verdadeiramente indispensaveis: tendo sempre
 bem presente, que ha toda a vantagem em poupar
 o enxerto novo, porque de contrario se compromette
 o futuro da vinha, abreviando-lhe a vida,
-e esgotando a antes de ter adquirido toda a sua
+e esgotando-a antes de ter adquirido toda a sua
 força; tratando-se de enxertias em solos pobres, ou
 com as castas menos vigorosas, ainda este preceito
 deve andar mais presente. Nas plantações de bacellos,
@@ -7933,8 +7958,8 @@ de poda. A poda de vara e pollegar, relativamente
 á poda de vara simples, é mais perfeita e racional:
 assegura em muito melhores condições a poda futura.
 O pollegar, pelas suas pequenas dimensões,
-origina varas mais vigorosas, e sempre bem situa
-das, proximas da cêpa: emquanto na poda de vara
+origina varas mais vigorosas, e sempre bem situadas,
+proximas da cêpa: emquanto na poda de vara
 simples não só, de ordinario, a vara é menos robusta,
 como ainda, póde ficar mal situada, se a
 empa não fôr bem feita, ou se a vara se desprender
@@ -7946,7 +7971,7 @@ a poda de vara e pollegar.
 CULTURA DA VINHA  247
 
 451. - Comparando as podas de vara com a de
-1 talões, vê se que esta ultima tem a vantagem de
+talões, vê-se que esta ultima tem a vantagem de
 poupar as despesas da empa (mão d'obra e tutores),
 e passa como corrente que obriga a videira a produzir
 fructos maiores. No emtanto, parece que se
@@ -8107,7 +8132,7 @@ o clima e o terreno: de ordinario, em condições
 normaes, ficam um ou dois em cada braço. O numero
 d'olhos de cada talão depende muito da casta:
 umas dão-se melhor com talões mais compridos
-(Folgosão, Tinta fina, etc.) do que outras (Bastardo,
+(Folgosão, Tinta-fina, etc.) do que outras (Bastardo,
 Boal, etc.). Quanto á conservação da regularidade
 dos braços, o melhor processo, é podar mais
 curto os talões dos braços mais fracos, e mais comprido
@@ -8116,9 +8141,9 @@ póde ser seguido na videira podada de vara
 que se divide em braços (446), se lhes quizermos conservar
 a egualdade vegetativa. A videira podada
 em talões, quando com o tempo se apresenta muito
-elevada e disforme, póde ser rebaixada, aproveitando
-se para isso os rebentos da cêpa, do mesmo modo
-que se pratica com a videira que tem poda longa
+elevada e disforme, póde ser rebaixada, aproveitando-se
+para isso os rebentos da cêpa, do mesmo modo
+que se pratíca com a videira que tem poda longa
 (458).
 
 Fig. 43. - Rebaixamento
@@ -8127,7 +8152,7 @@ de uma cêpa (em c).
 252  CULTURA DA VINHA
 
 Fig. 44. - Poda de vara e pollegar; v, a vara do anno anterior, cortada em c; t,
-o pollegar do anno anterior, que dá a nova vara, v', e o novo pollegar, t.
+o pollegar do anno anterior, que dá a nova vara, v', e o novo pollegar, t'.
 
 CULTURA DA VINHA  253
 
@@ -8164,7 +8189,7 @@ mas n'estas já o perigo não é tão grande, por haver
 maior numero d'olhos e a perda de um ser menos
 sensivel; muitos podadores cortam a extremidade
 da vara indifferentemente no nó ou no entre-nó, mas
-deixam-na um tanto mais comprida, e cegam os ulmos
+deixam-na um tanto mais comprida, e cegam os ultimos
 olhos, ficando essa parte da vara a servir de
 protecção aos gommos vivos.
 
@@ -8194,7 +8219,7 @@ da poda, em cortar as varas, que inutilisam,
 bem rente da inserção; estes golpes muito rentes podem
 produzir alterações graves, que se accusam para
 o exterior por depressões profundas e para o interior
-por longos faxas de tecidos alterados, e que primeiro
+por longas faxas de tecidos alterados, e que primeiro
 compromettem o vigor e depois a vida da cêpa. Já
 em 1875, desempenhando nós o logar de agronomo
 do districto de Bragança, nos relatorios então publicados,
@@ -8261,9 +8286,9 @@ mais pratica.
 
 Fig. 45. - Podões.
 
-(1) A tesoura de poda custa em Lisboa entre 600 e 1000
+(1) A tesoura de poda custa em Lisboa entre 600 e 1$000
 réis; a tesoura-navalha, cujo córte é mais perfeito e mais rapido,
-custa 1200 réis.
+custa 1$200 réis.
 
 CULTURA DA VINHA  257
 
@@ -8286,6 +8311,8 @@ não poder cortar os braços ou ramos mais grossos,
 mas, para obviar a isso, basta que no rancho da poda
 andem alguns jornaleiros com podão e serrote.
 
+17
+
 258  CULTURA DA VINHA
 
 469. - Os grandes golpes, necessarios para rebaixar
@@ -8293,7 +8320,7 @@ uma cêpa ou cortar-lhe um braço forte, são dados
 a serrote, e convém sempre que fiquem obliquos
 e depois bem lizos com a navalha ou podão,
 para que não retenham tanto a humidade, que apressa
-caria da superficie desnudada, caria que póde
+a caria da superficie desnudada, caria que póde
 rapidamente contaminar a cêpa. Se a superficie descoberta
 for grande, é bom tapal-a com um unguento,
 feito de partes eguaes de argilla e de bosta, amassadas
@@ -8445,7 +8472,7 @@ e para attenuar a queima dos cachos.
 479. - A madeira empregada na empa toma os
 nomes de rodriga, estaca, mourão, tutor, vara d'empa,
 chantão, etc., conforme as suas dimensões e as
-localidades. Pode ser de pinho, de castanho, de medronheiro,
+localidades. Póde ser de pinho, de castanho, de medronheiro,
 d'esteva, d'urze, de giesta, de carrasco,
 de canna, etc. Ha varios processos, a que sujeitam
 estes tutores, para durarem mais; o melhor de todos
@@ -8498,7 +8525,7 @@ Fig. 49. - Empa de tendal (com a vara inclinada para a terra).
 em vez de ficar mais ou menos horisontal, inclina-se
 muito obliquamente para a terra; tal é a empa de tendal
 (Fig. 49), empregada na Beira Alta, e que se
-pratica, gemendo a vara e torcendo-a depois em
+pratíca, gemendo a vara e torcendo-a depois em
 redor de uma estaca, posta, afastada da cêpa, muito
 inclinada em relação ao terreno; a empa de rabo de
 coelho (Fig. 50), dos bairros de Santarem, na qual a
@@ -8671,7 +8698,7 @@ e da arregaça.
 consiste em supprimir á videira todos os gommos ou
 renovos inuteis: os que apparecem na cêpa e não são
 necessarios para a rebaixar, e todos os infructiferos
-que não são precisos na poda seguinte. Pratica-se
+que não são precisos na poda seguinte. Pratíca-se
 esta operação para vigorisar os pampanos fructiferos
 e aquelles em que ha de assentar a poda futura, e
 bem assim, para diminuir as cicatrizes da poda, e
@@ -8746,18 +8773,20 @@ maturação, e conservando, ao arrancar a folha, a
 base do peciolo, para não ser damnificado o gommo
 axillar.
 
+CULTURA DA VINHA  273
+
+Fig. 53. - Desponta do cacho (a', b'), e incisão annular (c).
+
 495. - Em algumas das nossas regiões, não só
 não ha necessidade de desparrar, mas ainda é preciso
 lançar mão de processos contrarios, afim de
 proteger as uvas contra a acção do sol, que as póde
-queimar. N'este caso, se é possivel, pratica-se a arregaça,
+queimar. N'este caso, se é possivel, pratíca-se a arregaça,
 cobrindo os cachos com a rama voltada das
 mesmas cêpas, ou, se a rama não dá para tanto,
 cobrem-se com um punhado de herva.
 
-CULTURA DA VINHA  273
-
-Fig. 53. - Desponta do cacho (a', b'), e incisão annular (c).
+18
 
 274  CULTURA DA VINHA
 
@@ -8767,7 +8796,7 @@ parreiras, na producção de uva de mesa; os cachos
 que soffreram este tratamento apresentam aspecto
 mais agradavel, têem os bagos maiores, adeantam
 a maturação e conservam-se melhor, depois de cortados.
-O cinzelamento pratica-se, quando os bagos
+O cinzelamento pratíca-se, quando os bagos
 chegam a um terço do seu desenvolvimento, e consiste
 em cortar, com uma tesoura fina, os bagos
 mal vingados e os que estiverem muito apertados,
@@ -8816,7 +8845,7 @@ de maiores quantidades das substancias soluveis
 que servem de alimento ás plantas, principalmente
 dos nitratos, tão importantes para para a formação
 dos principios immediatos azotados (79).
-Destróem as hervas espontareas, cujas raizes concorrem
+Destróem as hervas espontaneas, cujas raizes concorrem
 com as da vinha, roubando-lhes alimentos.
 Regularisam a humidade: augmentando a infiltração
 das chuvas hibernaes, para um maior abastecimento
@@ -8897,7 +8926,7 @@ rasas, esborralhas ou arrendas.
 
 503. - Escava. - A escava, encaldeiração ou alumia
 (Algarve), executa-se no outomno, depois da vindima,
-de outubro a dezembro. Pratica-se, abrindo em
+de outubro a dezembro. Pratíca-se, abrindo em
 volta das cêpas pequenos covachos, com a enxada
 rasa, á fundura média de 15 a 20 cent.; póde tambem
 executar-se á charrua, puxando a terra das linhas
@@ -9000,7 +9029,7 @@ espontanea do solo, quer seja cortada pela
 raspa ou pela cava ou lavra, deve sel-o sempre antes
 da granação, para que as sementes não fiquem
 na terra e no futuro a sujem mais. As hervas da
-vinha ficam enterradas na cara ou na lavra, menos
+vinha ficam enterradas na cava ou na lavra, menos
 quando se trata de plantas vivazes, taes como a
 grama, que rapidamente se multiplica, se ficar um
 fragmento do rhizoma, por pequeno que seja. A grama
@@ -9152,7 +9181,7 @@ mais pesadas.
 517. - Uma das charruas vinhateiras mais vulgarisadas
 no paiz é a Vernette (Fig. 57), que se recommenda
 pela sua barateza (custa em Lisboa apenas
-7000 réis), pela extrema simplicidade, pelo
+7$000 réis), pela extrema simplicidade, pelo
 pouco peso, pelo pequeno esforço que exige e pela
 facilidade com que dá as voltas entre as linhas; tem
 este mesmo fabricante charruas unifolias e polyfolias
@@ -9346,7 +9375,7 @@ ou alguns d'aquelles corpos simples deixem de comparecer.
 
 294  CULTURA DA VINHA
 
-528. - 67 Esses corpos simples tira-os a planta da
+528. - Esses corpos simples tira-os a planta da
 terra, da agua e da atmosphera; uns entram em percentagens
 muito maiores do que os outros, mas o
 seu valor cultural não depende das quantidades relativas,
@@ -9365,7 +9394,7 @@ enxofre, silicio, potassio, calcio, magnesio, ferro,
 manganesio, parece que ainda o chloro e o zinco,
 sendo tida como problematica a necessidade do sodio,
 que tambem se encontra sempre. O carbonio,
-tira o o vegetal do anhydrido carbonico atmospherico,
+tira-o o vegetal do anhydrido carbonico atmospherico,
 pela acção da chlorophylla ou substancia verde,
 sob a influencia da luz (79): e, como este gaz
 existe na atmosphera em quantidade mais do que
@@ -9457,18 +9486,18 @@ Azote:  Acido phos.: (1)  Pot.: (1)  Cal: (1)
 
 Producção média (Joulie) (2) . . . 80,kgr00  20,kgr00  33,kgr00  110,kgr00
 
-de 20 hectol. de vinho
+» de 20 hectol. de vinho
 (Pineau) (3) . . . 54,00  6,80  25,90  -
 
-de 10 hectol. de vinho
+» de 10 hectol. de vinho
 (Müntz e
 Girard) (4) . . . 31,70  6,75  19,15  88,45
 
-de 50 hectol. de
-vinho (Müntze
+» de 50 hectol. de
+vinho (Müntz e
 Girard) . . . 38,50  9,75  26,15  92,25
 
-de 100 hectol. de
+» de 100 hectol. de
 vinho (Müntz e
 Girard) . . . 47,00  13,50  34,9  97,00
 
@@ -9506,7 +9535,7 @@ Tome I - Paris, 1886.
 contém a maior parte da totalidade do azote, acido
 phosphorico, potassa e cal. Os srs. Müntz e Girard
 admittem que um hectare de vinha produz, em média,
-3:000kg de folhas e 3:000kgr de sarmentos (seja
+3:000kgr de folhas e 3:000kgr de sarmentos (seja
 qual fôr a producção), que representam o consumo
 seguinte (1):
 
@@ -9551,7 +9580,7 @@ acido phosphorico, potassa e cal.
 
 535. - Modo pratico de calcular a adubação. - Evidentemente,
 se a adubação não é mais do que um
-meio de corrigir o solo (530), ella deve graduar se
+meio de corrigir o solo (530), ella deve graduar-se
 pela composição do mesmo solo. Se o terreno é pobre
 em azote e relativamente rico em todos os outros
 elementos, precisa adubação azotada; se é mais
@@ -9567,8 +9596,8 @@ com as condições da vinha: nas vinhas novas, nas
 vinhas velhas ou cançadas, nas vinhas enfraquecidas
 pela phylloxera ou outras doenças, nas vinhas
 dos terrenos deslavados pela submersão - n'uma palavra,
-quando é preciso robustecer as videiras convém
-as adubações mais azotadas; quando se visa
+quando é preciso robustecer as videiras -
+convém as adubações mais azotadas; quando se visa
 principalmente ao augmento da colheita e á qualidade
 do producto, convém mais as adubações phosphatadas
 e potassicas.
@@ -9638,7 +9667,7 @@ potassa são as originadas pelas rochas vulcanicas
 (granitos, gneiss, schistos, porphyros, etc.); nos
 terrenos calcareos, sobretudo nos cretaceos, a potassa
 de ordinario escasseia, e nos gresiferos é quasi
-nulla Uma grande parte dos nossos terrenos de
+nulla. Uma grande parte dos nossos terrenos de
 vinha devem ter percentagens muito attendiveis de
 potassa. A potassa representa um dos primeiros
 papeis na formação do fructo, na sua boa qualidade
@@ -9701,7 +9730,7 @@ adubação póde resolver-se, de um modo pratico e
 seguro, pelo processo experimental, que se applica
 com a mesma vantagem a todas as outras culturas.
 N'este processo, as proprias videiras é que são
-obrigadas a dizer o que lhes convém. Pratica-se,
+obrigadas a dizer o que lhes convém. Pratíca-se,
 estabelecendo na vinha 7 quadrados d'egual superficie;
 é melhor que a superficie não seja muito grande:
 os quadrados de 10m de lado são de optimas
@@ -9748,7 +9777,7 @@ faltava um elemento, reconhece-se a riqueza do terreno
 em azote, phosphoro, potassio e calcio. Com
 effeito, se no talhão, por exemplo, onde foi supprimida
 a potassa, a vegetação é tão forte e a producção
-tão grande como no talhão do abubo completo,
+tão grande como no talhão do adubo completo,
 é prova bem clara de que a terra tem grandes percentagens
 de potassa, e que portanto são desnecessarias
 as adubações potassicas; se, pelo contrario,
@@ -9783,6 +9812,8 @@ com este talhão 7.º, permitte ajuizar da conveniencia
 de tambem fazer entrar na adubação os
 adubos organicos, ou da possibilidade de só empregar
 os adubos mineraes.
+
+20
 
 306  CULTURA DA VINHA
 
@@ -9919,9 +9950,6 @@ do estrume. Todos estes adubos vegetaes teem decomposição
 muito mais lenta do que o estrume, e
 tanto mais lenta quanto são mais lenhosos e grossos,
 menos fragmentados ou triturados, e a terra
-
-310  CULTURA DA VINHA
-
 onde se empregam é menos calcarea; precisam, por
 isso, usar-se em quantidade superior aos seus equivalentes
 em estrume (1), para produzirem o mesmo
@@ -9947,8 +9975,16 @@ que se enterrem, annualmente, na decima
 parte da superficie total, as que se podam em toda
 a vinha.
 
+(1) Os equivalentes pelo azote, de dois adubos, são as quantidades
+d'esses adubos que teem o mesmo peso d'azote; os
+equivalentes pelo acido phosphorico, ou pela potassa, são as
+quantidades que conte em peso egual de acido phosphorico ou
+potassa.
+
+310  CULTURA DA VINHA
+
 553. - As algas do mar - molisso, golpho, seba, rapilho
-ou limos da praia - empregam se, como adubo
+ou limos da praia - empregam-se, como adubo
 da videira, nos pontos não afastados do littoral; aproveitam-se
 as que a maré arroja soltas á praia, e arrancam-se
 as que estão presas a pouca fundura.
@@ -9971,12 +10007,6 @@ Parece adubação rasoavel, a que introduz na
 terra 16 a 18:000 kgr. (uns 40 metros cubicos) de
 algas frescas; é tido este adubo como de facil decomposição
 no solo.
-
-(1) Os equivalentes pelo azote, de dois adubos, são as quantidades
-d'esses adubos que teem o mesmo peso d'azote; os
-equivalentes pelo acido phosphorico, ou pela potassa, são as
-quantidades que conte em peso egual de acido phosphorico ou
-potassa.
 
 CULTURA DA VINHA  311
 
@@ -10047,7 +10077,7 @@ que têem as leguminosas de viverem á custa do azote
 aereo, que as bacteriaceas dos seus pequenos tuberculos
 radiculares organisam e depois lhes cedem.
 Os tremoceiros verdes teem a seguinte composição
-centesimal: azote 0,50; acido phosphorico o, 11; potassa
+centesimal: azote 0,50; acido phosphorico 0,11; potassa
 0,15. E' claro que esta adubação verde será tanto
 mais intensa, quanto maior o desenvolvimento das
 plantas que hão de servir de adubo. Nos terrenos
@@ -10108,7 +10138,7 @@ encarregados d'este serviço se acautelem, porque
 alguns trapos vém muito sujos e ha exemplos de
 terem inoculado doenças graves; em França, os que
 executam estas manipulações usam de umas luvas
-grosseiras. Os trapos de la empregam-se, habitualmente,
+grosseiras. Os trapos de lã empregam-se, habitualmente,
 na dose de 250 kilogr. por milheiro de
 cêpas: uns 1:500 a 2:000 kilogr. por hectare.
 
@@ -10170,8 +10200,8 @@ energicos. Podem empregar-se como adubo os ossos
 brutos, ou depois de terem servido para a extracção
 da gordura ou da gelatina; os primeiros são menos
 convenientes, porque a gordura, em grande percentagem
-(16 a 12 %), lhes difficulta muito a pulve
-risação indispensavel, e as acções dissolventes do
+(16 a 12 %), lhes difficulta muito a pulverisação
+indispensavel, e as acções dissolventes do
 solo. Os ossos brutos, frescos, doseiam 20 % d'acido
 phosphorico, 5 a 6 % d'azote e 4 % de carbonato
 de calcio; nos ossos a que se extrahiu a gordura,
@@ -10237,7 +10267,7 @@ e vestigios d'azote. São difficeis de pulverisar,
 e no emtanto, se não se reduzirem a pó antes
 de serem lançadas á terra, são de effeito quasi nullo.
 Convém dispol-as sobre calçadas ou lagedos
-resistentes, nos sitios de passagem dos 1 carros,
+resistentes, nos sitios de passagem dos carros,
 para serem melhor e mais economicamente trituradas.
 
 320  CULTURA DA VINHA
@@ -10278,7 +10308,7 @@ a 300kg de nitrato de sodio, por hectare. Os adubos
 azotados salinos são indispensaveis nas vinhas fracas
 ou doentes, ou nas muito exigentes, como são as
 vinhas americanas. Nas vinhas fortes, convém mais
-os adubos azotados organicos, como o trapo de la,
+os adubos azotados organicos, como o trapo de lã,
 etc., que evitam o viço exaggerado, d'onde resulta
 detrimento na producção do fructo e na qualidade
 do vinho.
@@ -10320,6 +10350,8 @@ organica, nas muito calcareas ou muito leves, dão
 quasi sempre resultados inferiores aos segundos;
 advertindo mais, que estes ultimos operam ainda
 pela azote que contém.
+
+21
 
 322  CULTURA DA VINHA
 
@@ -10417,7 +10449,7 @@ Portugueza, formula cuja composição é a seguinte:
 
 Azote nitrico . . . 2,325 %
 
-Acido phosphorico assimilavel . . . 4.320 »
+Acido phosphorico assimilavel . . . 4,320 »
 
 Potassa . . . 5,000 »
 
@@ -10505,7 +10537,7 @@ muito inconstante: seccos ao ar, accusam geralmente
 0,4 a 0,5 % d'azote, pouca potassa, acido
 phosphorico variavel, e ás vezes bastante cal; empregam-se
 estas substancias depois de seccas, ou
-em compostos (573), estratificadas com cal As terras
+em compostos (573), estratificadas com cal. As terras
 muito pulverisadas, a terra nova, a terra muito
 exposta ao ar, podem servir de verdadeiros adubos:
 é assim, que os solos grosseiramente fragmentados
@@ -10518,7 +10550,7 @@ fragosos e alcantilados, é tão util a operação
 denominada fazer terra nova, e que consiste na pulverisação
 da rocha desnudada: e que os trabalhos
 de cameação (594), exigindo grandes movimentos de
-terra, são tão uteis a toda a vinha; é assim. ainda,
+terra, são tão uteis a toda a vinha; é assim, ainda,
 que no Douro, desfazem os calços, ou paredes velhas
 dos geos, para os substituir por outros, lançando
 a terra velha junto ás videiras, as quaes muito
@@ -10539,7 +10571,7 @@ argilla.
 573. - Sob o nome de compostos, entendem-se os
 adubos de origem heterogenea, que se preparam com
 os residuos de toda a especie - limpezas, varreduras,
-folhagens, ramas, pedaços de la, materias fecaes,
+folhagens, ramas, pedaços de lã, materias fecaes,
 pellos, etc., - estratificados com terra e com
 cal, e dispostos em monte, que se deve conservar
 sempre humido, para apressar a decomposição das
@@ -10670,12 +10702,12 @@ casos, lançal-o á terra por uma só vez.
 do adubo tem a maior importancia nos seus
 futuros effeitos. Vimos que os mattos, ramas, vides
 da poda, etc., devem ser fragmentados em pedaços
-miudos. ou esmagados; da mesma maneira, os trapos
-de la desfiam-se ou cortam-se; os chifres, cascos,
-etc., raspam se, ou pulverisam-se depois de torrefactos;
+miudos, ou esmagados; da mesma maneira, os trapos
+de lã desfiam-se ou cortam-se; os chifres, cascos,
+etc., raspam-se, ou pulverisam-se depois de torrefactos;
 os bagaços, os guanos, os phosphatos, os saes
 azotados ou potassicos, etc., devem reduzir-se a pó,
-esborcando-se com cuidado todos os grumos, caroços
+esboroando-se com cuidado todos os grumos, caroços
 ou agglomerados. Quanto mais homogeneo e
 pulverisado fôr o adubo, tanto mais regular e tanto
 mais rapidamente actua: augmentam assim as superficies
@@ -10690,7 +10722,7 @@ pulverisação. N'esta compra, sempre que se trate
 de uma porção de adubo de certa importancia, deve
 exigir-se que a riqueza nos principios de fertilidade
 seja devidamente garantida pela analyse chimica;
-os adubos prestam se muito á fraude, e na
+os adubos prestam-se muito á fraude, e na
 repressão d'esta fraude têem interesse, ao mesmo
 tempo, o agricultor e o commerciante honrado, por
 que, se as falsificações roubam o primeiro, trazem
@@ -10814,7 +10846,7 @@ quentes, e quando se destinam á producção de vinhos
 communs, as que se podem sujeitar com proveito
 ás irrigações.
 
-591. - Ha exemplos de duas ou tres regras annuaes
+591. - Ha exemplos de duas ou tres regas annuaes
 salvarem vinhas europeas, enxertadas em americanas,
 que se apresentaram robustas nos primeiros
 annos e depois decahiram muito. Em França,
@@ -10912,7 +10944,7 @@ o tempo em que a vinha está sem folhas, mas não se
 deve fazer quando ha grandes frios, que tornam as
 varas menos flexiveis, e, em varios sitios do norte,
 endurecem muito o terreno, com as geadas. Alguns
-praticam-na no fim do outomno, outros, e é o caso
+pratícam-na no fim do outomno, outros, e é o caso
 mais frequente, no inverno; parece que é vantajoso
 o executal-a o mais cedo possivel.
 
@@ -11149,12 +11181,12 @@ empregam bacellos, usam-nos com unhamento (363)
 mais comprido que na vinha baixa.
 
 610. - A poda de formação (441) mais favoravel
-pratica-se, deixando, logo que a videira tenha força,
-geralmente ao terceiro anno, uma vara de 1,5 a
-2, a qual fica só com os tres olhos da extremidade,
+pratíca-se, deixando, logo que a videira tenha força,
+geralmente ao terceiro anno, uma vara de 1m,5 a
+2m, a qual fica só com os tres olhos da extremidade,
 cegando-se todos os restantes; d'este modo, a cêpa
 chega mais depressa ao tutor, fica mais liza e isenta
-de cicatrizes, e entra mais cedo em fructo Muitos,
+de cicatrizes, e entra mais cedo em fructo. Muitos,
 todavia, podam-na sempre em vara curta nos primeiros
 annos, para a fazer engrossar, e só mais
 tarde deixam vara, no que se perde tempo sem utilidade;
@@ -11184,7 +11216,7 @@ pendentes, á mercê do vento, chegando os pampanos
 a rastejar pelo chão; os mais cuidadosos gemem-nas
 e atam-nas aos ramos da propria arvore.
 A vara com empa origina cachos maiores e de bagos
-mais grados; ha já muitos annos, Ferreira Lapa,
+mais grados; ha já muitos annos. Ferreira Lapa,
 na sua missão agricola ao Minho, aconselhava a
 adopção da empa d'argola, como praticam na Alta
 Saboya, processo decerto muito vantajoso, e que
@@ -11255,11 +11287,11 @@ com as culturas herbaceas, deixando entre si faxas
 de seis metros; usam-se então, ou latadas singellas,
 com aquelles intervallos, ou latadas dobradas, em
 que ficam duas linhas parallelas, afastadas apenas
-1m,10, seguindo-se depois a faxa arvense de seis
+1,m10, seguindo-se depois a faxa arvense de seis
 metros.
 
 (1) Os termos latadas ou latas são, n'uns sitios, synonymos
-de bardos, n'outros de parreiras. Em rigôr, julgamos que o
+de bardos, n'outros de parreiras. Em rigôr, julgâmos que o
 termo parreira significa a cêpa cujas varas se extendem mais
 ou menos horisontalmente, e latas ou latadas significam os
 supportes encruzados em que as varas da videira se apoiam.
@@ -11332,7 +11364,7 @@ vara e pollegar, sendo governado cada braço da videira
 como se fosse um pé independente.
 
 625. - Estas varas devem soffrer a empa (o que
-nem sempre se pratica entre nós). A enlatagem
+nem sempre se pratíca entre nós). A enlatagem
 faz-se, prendendo as varas com junco ou junça, e
 os braços mais grossos com vime, ramos ou vergas
 de salgueiro, carvalho, etc. Antes da maturação, é
@@ -11356,9 +11388,9 @@ mesma linha, por meio de supportes horisontaes,
 geralmente de fio de ferro zincado, apoiados em
 tutores; estabelece este systema a transição entre a
 latada e a vinha baixa habitual, procurando reunir
-as vantagens de uma e outra. Pratica-se (Fig. 64),
+as vantagens de uma e outra. Pratíca-se (Fig. 64),
 cravando ao pé de cada cêpa um poste sulfatado
-(479) de 1,m2 a 1,m3 de altura (a, á, etc), e entre
+(479) de 1,m2 a 1,m3 de altura (a, a', etc), e entre
 cada duas cêpas um outro mais pequeno (b), de
 0,m5 a 0,m6, e que apenas sáe da terra 0,m35; na
 parte superior d'estes ultimos postes passa um fio
@@ -11366,7 +11398,7 @@ de ferro (c), cujas extremidades, no fim de cada linha,
 se prendem a uma pedra enterrada, ficando o
 fio tenso, por meio de uma talha ou de esticadores
 especiaes. A cêpa tem a poda de vara e pollegar
-(449); a vara de fructo (1) empa-se, prendendo a
+(449); a vara de fructo (v) empa-se, prendendo-a
 horisontalmente aos tutores, a 10 ou 20 centimetros
 do terreno, e soffre depois cuidadosos esladroamentos,
 para só conservar os pampanos fructiferos;
@@ -11429,7 +11461,7 @@ seu emprego em Portugal. Dissemos que os cordões
 podem ser verticaes ou horisontaes; os primeiros
 adoptam-nos em França nas espaldeiras, junto aos
 muros, systema de cultura que não tem razão de
-ser entrenós; por isso, nos vamos limitar á enumeração
+ser entre nós; por isso, nos vamos limitar á enumeração
 dos cordões horisontaes mais importantes.
 
 (1) Foëx - Cours complet de Viticulture - Paris, 1891.
@@ -11438,11 +11470,11 @@ CULTURA DA VINHA  355
 
 356  CULTURA DA VINHA
 
-630. - O cordão Cazenave (Fig. 65) arma se em fileiras
+630. - O cordão Cazenave (Fig. 65) arma-se em fileiras
 distanciadas dois metros, e ficando as cêpas
-nas fileiras a dois ou tres metros. Os postes (a, á)
+nas fileiras a dois ou tres metros. Os postes (a, a')
 cravam-se junto ás cêpas; têem dois metros de altura,
-e ficam com 1,5 fóra da terra; entre elles passam
+e ficam com 1,m5 fóra da terra; entre elles passam
 tres fios de ferro horisontaes: o inferior (c), a
 50 centimetros do solo; o segundo (c'), 35 centimetros
 acima do primeiro; o ultimo (c''), a 50 centimetros
@@ -11478,7 +11510,7 @@ um dos quaes se trata como se fosse uma cêpa independente.
 Comprehende-se, quanto este systema
 deve augmentar a producção; mas é pouco usado,
 mesmo em França, porque tem governo difficil, dada
-a tendencia dos braços a alongarem se, o que diminue
+a tendencia dos braços a alongarem-se, o que diminue
 o vigor dos ramos, e exige rebaixamentos
 continuados.
 
@@ -11500,12 +11532,12 @@ difficil de conduzir.
 
 Fig. 66. - Cordão Sylvoz
 
-632. - cordão Sylvoz (Fig. 66) arma-se, cravando
+632. - O cordão Sylvoz (Fig. 66) arma-se, cravando
 postes de 2m,30 de altura (a) ao meio do intervallo de
 duas cêpas; estes postes, que ficam enterrados 0m,5 e
-espaçados uns dos outros 3,5, sustentam horisontalmente
+espaçados uns dos outros 3m,5, sustentam horisontalmente
 uma vara bem direita (c), ou um fio de ferro, á
-distancia de 1,20 do solo, e ainda mais outros dois
+distancia de 1m,20 do solo, e ainda mais outros dois
 fios, um acima do primeiro 40 cent. (c''), e outro
 abaixo 50 cent. (c'). Os barbados que se plantam soffrem
 poda curta, a dois olhos, durante os dois primeiros
@@ -11663,7 +11695,7 @@ quanto possivel, fiquem espaçadas 40 a 50 cent. A
 lavoura faz-se, como já dissemos, afastando as plantas,
 que, depois de lavrada a terra, se puxam outra
 vez para o seu logar. As forquilhas, que levantam
-as uvas, mettem se logo depois da floração.
+as uvas, mettem-se logo depois da floração.
 
 Fig. 67. - Parreira rasteira (vigne en chaintres)
 
@@ -11815,7 +11847,7 @@ e o cheiro a bafio.
 649. - Ha um outro processo, mais despendioso,
 mas ainda mais perfeito, de conservação. Os cachos
 são colhidos com uma porção do sarmento, ao qual
-se tiram as folhas (o córte faz se 12 centimetros
+se tiram as folhas (o córte faz-se 12 centimetros
 abaixo do cacho inferior, e pelo nó que fica logo
 acima do cacho superior); a base de cada um d'estes
 sarmentos introduz-se, no mesmo dia, n'um pequeno
@@ -11829,7 +11861,7 @@ que se não dêem n'ella variações atmosphericas,
 que não haja calor, nem luz, nem correntes de ar,
 nem humidade; esta ultima é facilmente absorvida
 pelo chloreto de calcio ou pela cal viva, que se deitam
-em caixas abertas.. E' necessario exercer, continuamente,
+em caixas abertas. E' necessario exercer, continuamente,
 a maior vigilancia; as visitas devem ser,
 pelo menos, mensaes; entra-se, com uma luz artificial;
 cortam-se á tesoura todos os bagos apodrecidos,
@@ -11837,8 +11869,8 @@ e renova-se a agua nos frascos, quando tenha
 baixado de nivel. Parecerão minuciosos e despendiosos
 estes cuidados, mas vejamos o lucro que
 elles trazem: na occasião da colheita, o kilogramma
-de uva ordinaria, em Thomery, vale o, fr. 50 no mercado,
-e a uva escolhida 2, fr. 50; de fevereiro a
+de uva ordinaria, em Thomery, vale 0,fr.50 no mercado,
+e a uva escolhida 2,fr.50; de fevereiro a
 março, o kilogramma das uvas da fructaria vale
 entre 8 e 10 francos, e em maio chega a valer 20
 francos (1).
@@ -11881,7 +11913,7 @@ por accidentes mais ou menos perigosos, quer occasionados
 pelos excessos e irregularidades das estações,
 quer por alteração organica ou physiologica
 da propria planta. D'estes accidentes vegetativos
-tratamos no presente capitulo.
+tratâmos no presente capitulo.
 
 652. - Frios excessivos; geadas. - Os frios e geadas
 do outomno não são para recear entre nós: apenas
@@ -12044,7 +12076,7 @@ folhas, nos mezes de maior calor, taes como
 as sachas, os tratamentos contra o míldio, etc., e
 ainda a enxofração tardia, feita nas horas mais quentes.
 Depois do escaldão, os cachos séccam e tomam
-côr arruivada; n'este estado, distinguem se facilmente
+côr arruivada; n'este estado, distinguem-se facilmente
 da ultima phase da podridão negra (black-rot) e
 da podridão branca, porque não apresentam a superficie
 coberta de pequenas proeminencias, negras
@@ -12095,7 +12127,7 @@ destruir quasi totalmente, ou totalmente, a colheita.
 
 661. - Contra as perdas occasionadas nas uvas
 nada se pode fazer, a não providenciar com as associações
-de seguros. - Quanto ao tratamento da
+de seguros. Quanto ao tratamento da
 vinha castigada pela saraiva, se ficaram sarmentos
 aproveitaveis, importa na poda seguinte deixar varas
 isentas de cicatrizes, ainda que para isso tenham
@@ -12172,7 +12204,7 @@ o ataque de algumas cryptogamicas parasitas.
 CULTURA DA VINHA  379
 
 665. - Os vicios de conformação da flor (65) são
-mais frequentes n'umas castas do que n'outras. e,
+mais frequentes n'umas castas do que n'outras, e,
 dentro da mesma casta, ha ainda individuos mais
 ou menos atreitos a apresental-os. Contra esta tendencia
 da casta, ou do individuo, não ha outro remedio
@@ -12202,7 +12234,7 @@ as chuvas continuadas, o rebaixamento subito
 de temperatura e os ventos sêccos. Em muitos d'estes
 casos, tem dado resultados favoraveis a incisão
 annular, a capação do pampano, a desponta do cacho
-(496). e a enxofração feita alguns dias antes da
+(496), e a enxofração feita alguns dias antes da
 abertura das flores.
 
 380  CULTURA DA VINHA
@@ -12290,7 +12322,7 @@ caracteristica, como, n'um periodo mais adeantado,
 ficam muito pequenas, com os recortes mais fundos,
 crespas ou encarquilhadas, e seccas parcialmente,
 porque o tecido estiolado pouco resiste ao calor
-do sol; ao mesma tempo, as varas enfezam, têem
+do sol; ao mesmo tempo, as varas enfezam, têem
 os entre-nós muito curtos e tomam posição mais
 erecta, o que dá á planta um aspecto emangericado
 peculiar; os cachos são então pouco numerosos e
@@ -12319,7 +12351,7 @@ bravo, cuja vida é impossivel em solos d'essa natureza
 nas formações calcareas e não calcareas,
 mas já não acontece o mesmo ás videiras americanas.
 
-677. - Proprias aos tarrenos calcareos, são sobretudo
+677. - Proprias aos terrenos calcareos, são sobretudo
 a V. Berlandieri e alguns hybridos (afóra
 algumas outras especies de aproveitamento difficil
 ou duvidoso); as restantes, tornam-se chloroticas,
@@ -12440,7 +12472,7 @@ ainda mesmo que resista, fica sempre muito fraca.
 
 CULTURA DA VINHA  387
 
-684. - Vermelhidão (rongeot) e doença pectica. - A
+684. - Vermelhidão (rougeot) e doença pectica. - A
 vermelhidão (rougeot), segundo a descrevem os auctores
 francezes, é caracterisada pela côr avermelhada,
 repentina, que tomam as folhas, tanto no parenchyma
@@ -12451,12 +12483,12 @@ morre. Esta doença é mais propria ás vinhas dos
 terrenos fundos e frescos, e, se não mata as videiras,
 como a apoplexia: póde deixal-as muito arruinadas.
 As causas que a provocam suppõem-se muito
-semelhantes ás da apoplexia desequilibrios de vegetação,
+semelhantes ás da apoplexia, desequilibrios de vegetação,
 occasionados pelos grandes calores, pelos ventos
 seccos, ou por um rebaixamento de temperatura.
 Os meios preventivos indicados são a drenagem,
 boas sachas, e enxofrações energicas. O tratamento
-podar curto, se os sarmentos resistiram; rebaixar
+é podar curto, se os sarmentos resistiram; rebaixar
 a videira e enxertal-a, se elles morreram.
 
 685. - Modernamente, os srs. Prillieux e Delacroix
@@ -12483,8 +12515,8 @@ seccam, e ou persistem ou desprendem-se, desarticulando-se,
 n'este ultimo caso, isoladamente os
 esgalhos, ou ás vezes todo o cacho. A doença pectica
 é ainda pouco conhecida, e em França, embora
-se vá alastrando bastante pelo Beaujolais, não apre
-senta comtudo caracter grave. E' attribuida egualmente
+se vá alastrando bastante pelo Beaujolais, não apresenta
+comtudo caracter grave. E' attribuida egualmente
 a desequilibrios de vegetação, á má circulação
 da seiva, e parece preferir os terrenos seccos e
 pobres. O sabio professor de nosologia vegetal do
@@ -12579,7 +12611,7 @@ a morte das cêpas.
 
 A: nas raizes
 
-§ 1.º A phylloxera
+§ 1.º - A phylloxera
 
 693. - A phylloxera (Phylloxera vastatrix) é um
 insecto sugador, da ordem dos Hemipteros, originario
@@ -12621,7 +12653,7 @@ destróe as vinhas não resistentes.
 
 695. - Tomêmos para ponto de partida o ôvo da
 fórma sexuada. A femea, depois de fecundada pelo
-macho, põe um ôvo unico, am agosto ou setembro,
+macho, põe um ôvo unico, em agosto ou setembro,
 e que recebeu o nome de ôvo d'inverno, porque persiste,
 durante essa estação, preso na parte aerea da
 videira, de ordinario sob a casca da vara de dois
@@ -12647,7 +12679,7 @@ estado é que põem os óvos (poedeiras).
 
 CULTURA DA VINHA  393
 
-Fig. 69. - Fhylloxera: fórma gallicola
+Fig. 69. - Phylloxera: fórma gallicola
 - insecto sahido do ôvo de
 inverno (muito ampliado).
 
@@ -12697,7 +12729,7 @@ fecundas e cada um dos seus individuos não põe
 mais de 100 a 200 óvos. Desde a terceira geração,
 alguns insectos emigram para o terreno, ou ao longo
 da cêpa, ou deixando-se cahir directamente.
-Quando os trios apertam, as poedeiras gallicolas
+Quando os frios apertam, as poedeiras gallicolas
 morrem, e os insectos novos das galhas dirigem-se
 para as raizes, onde hibernam.
 
@@ -12714,7 +12746,7 @@ CULTURA DA VINHA  395
 
 697. - A fórma radicicola é a que produz os grandes
 estragos na vinha; como dissémos, ou provém
-sempre, segundo uns, da fórma gallicolua, o póde
+sempre, segundo uns, da fórma gallicola, ou póde
 provir, segundo outros, directamente do ôvo d'inverno.
 Os insectos subterraneos multiplicam-se, tambem,
 todos sem fecundação, e soffrem egualmente
@@ -12730,7 +12762,7 @@ que as poedeiras das folhas; põem de 25 a 100
 óvos, presas pelo sugador á raiz que não abandonam,
 e em seguida morrem; d'estes óvos sáem
 gerações identicas, e assim successivamente, podendo
-crearem se n'um anno até 8 gerações. Parece
+crearem-se n'um anno até 8 gerações. Parece
 que, em casos muito raros, alguns d'estes radicicolas
 novos sáem da terra e passam a ter vida
 gallicola, nas folhas. Ao chegar o inverno, quando a
@@ -12767,7 +12799,7 @@ radicicola - insecto novo
 (muito ampliado).
 
 Fig. 73. - Phylloxera: fórma
-radícicola - mãe poedeira
+radicicola - mãe poedeira
 (muito ampliada - mas
 menos que a fig. prox.).
 
@@ -12919,6 +12951,8 @@ pela phylloxera
 sobre as
 radiculas.
 
+26
+
 402  CULTURA DA VINHA
 
 704. - Sobre as raizes lenhosas
@@ -12945,7 +12979,7 @@ ainda das raizes novas, onde se deveria regenerar
 o subsequente cabellame.
 
 Fig. 79. - Tuberosidades
-produzidas pelo phylloxera
+produzidas pela phylloxera
 sobre as raizes lenhosas.
 
 CULTURA DA VINHA  403
@@ -12955,7 +12989,7 @@ phylloxerico variam muito, segundo a dureza e
 a compacidade dos tecidos da raiz, a espessura da
 camada cortical, e a rapidez da lenhificação das radiculas
 (18-19). São raras as cêpas americanas absolutamente
-indemnes, isto é, em que phylloxera
+indemnes, isto é, em que a phylloxera
 não produz a menor lesão; em várias, não se encontram
 tuberosidades, mas as radiculas apresentam
 nodosidades; finalmente, n'outras, formam-se nodosidades
@@ -12979,8 +13013,8 @@ o maior numero das Riparias, Rupestris, Cordifolias,
 Cinereas, etc. Indíca, tendo nodosidades mais
 grossas e mais numerosas, e já algumas tuberosidades,
 posto que raras e pequenas, a Berlandieri
-do dr. Davin, as Riparias e Rupestris mediocres onde
-má qualidade, as Solonis, York-Madeira, etc.
+do dr. Davin, as Riparias e Rupestris mediocres ou
+de má qualidade, as Solonis, York-Madeira, etc.
 Finalmente, apresenta como tendo nodosidades e
 tuberosidades cada vez mais grossas e mais numerosas:
 Herbemont, Jacquez, Noah, Cunningham,
@@ -13231,7 +13265,7 @@ CULTURA DA VINHA  411
 722. - A cultura das videiras americanas e a cultura
 nas areias são processos preventivos. A submersão
 é um processo curativo; póde a vinha europea
-plantar se propositadamente em condições de
+plantar-se propositadamente em condições de
 ser submergida, na hypothese provavel de um ataque
 phylloxerico mais ou menos proximo; póde, menos
 vezes, por um feliz acaso, empregar-se a submersão
@@ -13453,6 +13487,8 @@ doses mais baixas convém, pelo contrario, para os
 terrenos compactos, para os superficiaes e para as
 vinhas mais fracas.
 
+27
+
 418  CULTURA DA VINHA
 
 737. - Quanto ao numero dos furos, em theoria,
@@ -13531,7 +13567,7 @@ um homem injecta, por dia, de 1:000 a 3:000 furos, e
 que são precisos tantos homens a taparem os furos
 quantos trabalharem com os injectores; ha exemplos,
 em Portugal, d'estas despesas d'applicação descerem
-a 4$200 réis por hectare e subirem a 14 500
+a 4$200 réis por hectare e subirem a 14$500
 e mais; entre 6$000 e 12$000 réis é talvez a média
 mais frequente.
 
@@ -13776,7 +13812,7 @@ CULTURA DA VINHA  429
 
 752. - Tratamentos d'extincção. - Os tratamentos
 d'extincção executam-se, quando, n'uma região vinhateira
-isolada e. livre da phylloxera, apparecem
+isolada e livre da phylloxera, apparecem
 fócos recentes, muito limitados; sendo bem feitos,
 conseguem retardar a invasão, embora não a possam
 retardar indefinidamente.
@@ -13825,13 +13861,13 @@ vinhas da região d'entre Douro e Minho, causando
 ás vezes estragos superiores aos da phylloxera.
 
 756. - Ataca as raizes da videira, onde penetra e
-pepois se enkista, provocando a formação de intumescimentos
+depois se enkista, provocando a formação de intumescimentos
 oblongos, fusiformes ou irregularmente
 nodosos (potras, em linguagem vulgar), alguns
 um tanto recurvados, e fazendo lembrar as lesões
 phylloxericas. Emquanto novos, estes intumescimentos
-apresentam-se carnudos e duros; depois, tornam
-se molles, quando as cavernas que contém as
+apresentam-se carnudos e duros; depois, tornam-se
+molles, quando as cavernas que contém as
 anguillulas são numerosas, e por fim putrefazem-se.
 Os kistos existentes no interior têem de 1 a 2 millimetros
 de comprimento, são pyriformes ou ovoides,
@@ -13915,7 +13951,7 @@ terrenos leves e de 30 gr. nos terrenos fortes. Quando
 as enxertias sejam atacadas, se não houver já
 inconveniente em lhes mexer, convém desamontoal-as,
 matar as larvas, e aproveitar a occasião para
-fazer o córte das raizes. Devem, como medida preventiva
+fazer o córte das raizes. Devem, como medida preventiva,
 apanhar-se os insectos da phase perfeita,
 logo que appareçam, antes da postura.
 
@@ -13937,6 +13973,8 @@ mas não tem como ella o abdomen pedunculado,
 nem as antennas dobradas em linha quebrada.
 Estas formigas encontram-se em furos profundos,
 no lenho apodrecido das raizes.
+
+28
 
 434  CULTURA DA VINHA
 
@@ -13983,8 +14021,8 @@ avidamente, as folhas tenras e os cachinhos, abrigando-se,
 durante o dia, em ninhos que preparam,
 enrolando e prendendo as folhas com fios sedosos
 (Fig. 86). Soffrem varias mudas, e quando teem 25
-millimetros, geralmente no fim de junho, transformam
-se, dentro de um casulo, fixo ás parras e cachos,
+millimetros, geralmente no fim de junho, transformam-se,
+dentro de um casulo, fixo ás parras e cachos,
 em chrysalidas (Fig. 87), das quaes, passados
 quinze a dezoito dias, sáem as borboletas, que em
 julho põem os óvos. As novas lagartas, sahidas d'estes
@@ -14060,7 +14098,7 @@ de tratamento mais empregado entre nós; executam-na
 ordinariamente mulheres, que apanham as lagartas
 ou as parras onde ellas se encontram, e as
 deitam para uns saccos, afim de serem queimadas
-fóra da vinha Este processo tem os inconvenientes
+fóra da vinha. Este processo tem os inconvenientes
 de ser caro, de só se poder praticar quando ha já
 prejuizos sensiveis, e de deixar inevitavelmente insectos
 para uma reinvasão; além de que, a eslagartagem
@@ -14083,7 +14121,7 @@ tornando-se inutil a sua morte.
 duvida quando hiberna. Para isso, applicam em
 França diversos tratamentos: a escalda, a queima das
 cascas e a sulfuração em espaço cerrado. A escalda
-pratica-se, aquecendo a agua n'uma caldeira portatil
+pratíca-se, aquecendo a agua n'uma caldeira portatil
 apropriada - caldeira Raclet (fig. 88), etc. - que successivamente
 se desloca na vinha, depois de tratada
 uma certa área; a agua fervente deita-se para dentro
@@ -14093,7 +14131,7 @@ cafeteiras escalda-se a cêpa, rapidamente, de baixo
 para cima, para que fique bem impregnada. A agua,
 quando cáe na cêpa, deve, pelo menos, estar a 92°,
 e para que não esfrie mais, usam certos artificios:
-ou a cafeteira se envolve n'um trapo de la; ou tem
+ou a cafeteira se envolve n'um trapo de lã; ou tem
 um duplo involucro; ou se deita na agua um corpo
 solido, que lhe eleva a temperatura e compensa o
 resfriamento ulterior - o carbonato de sodio, por
@@ -14225,7 +14263,7 @@ na Bairrada.
 
 444  CULTURA DA VINHA
 
-782. - Tratamentos. - A eslagartagem pratica-se,
+782. - Tratamentos. - A eslagartagem pratíca-se,
 esmagando as larvas com pinças ou tesouras compridas,
 tirando as flores e os fructos presos pelos
 fios e, na segunda invasão, esmagando os bagos de
@@ -14376,7 +14414,7 @@ da ultima geração hibernam, como dissemos.
 448  CULTURA DA VINHA
 
 792. - No meio-dia da França, o pulgão tem cinco
-gerações annuaes Em Portugal, com certeza não
+gerações annuaes. Em Portugal, com certeza não
 deve ter menos, e talvez tenha mais.
 
 793. - Prejuizos que causa. - Tanto o insecto perfeito
@@ -14424,6 +14462,8 @@ as folhas em que se encontram. Estes processos
 são imperfeitos, e nada economicos nas grandes
 propriedades viticolas.
 
+29
+
 450  CULTURA DA VINHA
 
 Fig. 95. - Taboleiro Roussen
@@ -14462,7 +14502,7 @@ pulverisações com cal são tambem vantajosas.
 
 799. - Os francezes, quando as invasões são muito
 grandes, applicam liquidos insecticidas apropriados:
-a infusão de tabaco, marcando 5.º ou 6.º Baumé;
+a infusão de tabaco, marcando 5° ou 6° Baumé;
 a infusão de pó de pyrethro do Caucaso (5k
 por 1:000 litros d'agua), etc.; mas estes insecticidas
 ou são caros, ou difficeis de preparar, ou nocivos
@@ -14604,7 +14644,7 @@ seiva sugam com o rostro. Os extravasamentos de
 seiva, provocados por essas picadas, mais enfraquecem
 a vinha, e mais lhe apressam a morte; além
 d'isso, sobre a materia cirosa segregada pelas femeas,
-desenvolve se um fungo negro (Fumago vagans,
+desenvolve-se um fungo negro (Fumago vagans,
 ou Cladosporium fumago), que muito prejudica
 a vegetação (989). Os tratamentos, são a descasca
 e a queima das cascas seccas, onde hibernam
@@ -14639,7 +14679,7 @@ galhas (Fig. 96), se differençam das da phylloxera em
 serem conicas e salientes para as duas paginas da
 folha (emquanto as da phylloxera apenas o são para
 a pagina inferior); em serem lizas, e terem a abertura
-para a parie inferior (emquanto as da phylloxera
+para a parte inferior (emquanto as da phylloxera
 teem geralmente pellos, e abrem-se para a parte
 superior). Estas galhas muito pouco influem na
 vegetação; não têem importancia para a cultura.
@@ -14728,7 +14768,7 @@ Parasitas vegetaes
 
 812. - Generalidades. - Plantas parasitas são as
 que vivem á custa de um organismo vivo - vegetal
-ou animal-cujos principios immediatos absorvem
+ou animal - cujos principios immediatos absorvem
 e utilisam em proveito proprio. Plantas saprophytas
 são as que vivem, identicamente, sobre as substancias
 organicas em decomposição.
@@ -14737,7 +14777,7 @@ organicas em decomposição.
 e algumas originam-lhe doenças graves e muito frequentes.
 Quasi todos estes parasitas pertencem á
 classe dos Fungos, como são o do oídio, o da anthracnose,
-o do mildio, os da podridão das raizes,
+o do míldio, os da podridão das raizes,
 o da podridão (rot) negra e branca do cacho, etc.
 Além dos fungos, ha ainda uma planta Phanerogamica
 (que tem flores) parasita da videira, a cuscuta
@@ -14754,9 +14794,9 @@ uma parte vegetativa filamentosa, chamada mycelio,
 orgãos de multiplicação, e menos vezes orgãos de
 reproducção. N'umas especies, o mycelio é exterior:
 rasteja á superficie dos orgãos da videira, onde insinua
-pequenos sugadores, como no oidio; n'outras
+pequenos sugadores, como no oídio; n'outras
 especies, é interno, vive dentro dos orgãos atacados,
-como no míldio e na anthracnose, Em qualquer dos
+como no míldio e na anthracnose. Em qualquer dos
 dois casos, é este mycelio que directamente prejudica
 a videira, roubando-lhe principios nutritivos,
 enfraquecendo-a, e produzindo ás vezes deformações
@@ -14893,6 +14933,8 @@ mas que vivem como saprophytas (812), nos tecidos
 já mortos, apressando-lhes a decomposição,
 mas sem que concorressem para a sua morte.
 
+30
+
 466  CULTURA DA VINHA
 
 826. - Tratamentos. - Não se conhece nenhum
@@ -14921,14 +14963,14 @@ d'hervas espontaneas, porque, nas raizes de
 umas e outras, póde continuar a desenvolver-se o
 parasita. E' boa pratica, applicar ao terreno, d'onde
 a vinha foi arrancada, um tratamento com o sulfureto
-de carbonio (40 ou 50 gr por metro quadrado),
+de carbonio (40 ou 50gr por metro quadrado),
 durante dois ou tres annos.
 
 CULTURA DA VINHA  467
 
 B: Parasitas da parte aerea
 
-§ 2.º - O oidio ou cinzeiro (1)
+§ 2.º - O oídio ou cinzeiro (1)
 
 828. - Prejuizos que causa. - O oídio é a doença,
 proveniente do parasitismo de um fungo, que
@@ -14953,7 +14995,7 @@ mais tempo; alguns quizeram identificar essa antiga doença
 com o oídio, mas as opiniões mais auctorisadas admittem que
 este ultimo é de introducção recente, e de origem americana
 (834). Em todo o caso, como muitos dos nossos praticos dão
-hoje ao oidio o nome de cinzeiro, por isso tomamos os dois
+hoje ao oídio o nome de cinzeiro, por isso tomâmos os dois
 como synonymos.
 
 468  CULTURA DA VINHA
@@ -15009,7 +15051,7 @@ typicas pulverulentas.
 
 CULTURA DA VINHA  469
 
-Fig. 98. - Oidio da vinha (1:60): s, sugadores; m, mycelio;
+Fig. 98. - Oídio da vinha (1:60): s, sugadores; m, mycelio;
 F, filamento esporifero; c, um esporo
 
 833. - Apesar do fungo ser uma Erysiphea, nunca
@@ -15042,12 +15084,12 @@ pela recente descoberta do sr. Couderc, acima
 referida.
 
 835. - Condições favoraveis para o desenvolvimento
-do oidio. - O calor e a humidade favorecem o desenvolvimento
+do oídio. - O calor e a humidade favorecem o desenvolvimento
 d'este, como o de todos os outros fungos;
 todavia o calor tem, para esta especie, uma
 acção preponderante. Segundo o sr. Marés, o Erysiphe
 Tuckeri entra em vegetação, quando a temperatura
-média sobe a 11 ou 120; de 25 a 300 encontra
+média sobe a 11 ou 12°; de 25 a 30° encontra
 as condições mais propicias de desenvolvimento;
 de 35 a 40° fica estacionario; exposto á temperatura
 de 45°, morre. Por isso, os pampanos, que
@@ -15100,7 +15142,7 @@ funccionam mal.
 
 472  CULTURA DA VINHA
 
-Fig. 99. - Sarmento atacado pelo oidio
+Fig. 99. - Sarmento atacado pelo oídio
 
 840. - Os sarmentos só são atacados emquanto
 estão herbaceos, e nunca depois d'atempados; as
@@ -15136,7 +15178,7 @@ pouco antes do amadurecimento, quando o
 assucar já está formado, diminue o rendimento do
 mosto, que se concentra pela perda d'agua.
 
-Fig. 100. - Cacho atacado pelo oidio
+Fig. 100. - Cacho atacado pelo oídio
 
 474  CULTURA DA VINHA
 
@@ -15248,7 +15290,7 @@ deve ainda, quanto possivel, ser secco e sem vento.
 A melhor hora d'enxofrar é pela manhã, depois de
 ter desapparecido o orvalho. Se depois do enxoframento
 sobrevierem chuvas, que arrastem o enxofre,
-e necessario repetir a operação.
+é necessario repetir a operação.
 
 848. - Ao applicar o enxofre, é indispensavel espalhal-o
 sobre todas as partes verdes da vinha, folhas,
@@ -15269,7 +15311,7 @@ quasi tres vezes mais do que um bom folle), de o
 espalhar irregularmente, e de não attingir com efficacia
 todas as partes da videira. Tentou-se aperfeiçoar
 este singelissimo apparelho, collocando no fundo
-umas franjas de lá, em fórma de pincel, que dividissem
+umas franjas de lã, em fórma de pincel, que dividissem
 o pó; mas a modificação é pouco pratica,
 e se as franjas se molham, o enxofre adhere, e o
 apparelho não funcciona. Como é impossivel tratar
@@ -15353,7 +15395,7 @@ Fig. 102. - Folle Sckawinski
 Carvalhaes (1), (Fig. 104), que tem tambem distribuidor
 automatico, e o reservatorio collocado ao
 meio do folle; mas este reservatorio, onde cabem 3
-a 4 kilogrammas de enxofre. suspende-se ao pescoço
+a 4 kilogrammas de enxofre, suspende-se ao pescoço
 e liga-se á cintura por meio de correias, o que
 dá economia e facilidade no trabalho.
 
@@ -15369,7 +15411,7 @@ apenas os inconvenientes de ser um pouco pesada e
 fatigante. Compõe-se de um reservatorio, onde se
 podem deitar 11 a 12 kilogrammas de enxofre, e
 que se fixa, por intermedio de correias, ás costas
-do operador; este reservatario tem um boccal (G),
+do operador; este reservatorio tem um boccal (G),
 para a entrada do enxofre, e que depois se tapa com
 um disco forrado de cautchú, para impedir o accesso
 do ar; uma alavanca externa (D), collocada quasi na
@@ -15385,13 +15427,15 @@ leque, para espalhar o enxofre em nuvem de pó. Para
 o tratamento da vinha alta, adapta-se uma agulheta
 propria, formada de tubos ou articulos que podem
 entrar uns nos outros, ao modo dos tubos dos telescopios,
-e por meio d'essa agulheta consegue-se ar,
-remessar o enxofre até 4 ou 5m de altura; ou, ainda
+e por meio d'essa agulheta consegue-se arremessar
+o enxofre até 4 ou 5m de altura; ou, ainda
 mais simplesmente, alonga-se o tubo de gutta-percha,
 e eleva-se a agulheta, á altura desejada, por
 meio de uma canna.
 
 Fig. 103. - Folle D. Rebo
+
+31
 
 482  CULTURA DA VINHA
 
@@ -15413,7 +15457,7 @@ enxofração, 40 na segunda, e 50 na terceira);
 com a enxofradeira de canudo, a quantidade é muito
 mais elevada e chega a 250k. Entre nós, calculam,
 por milheiro de cêpas, para tres applicações,
-entre 1 e 22kgr, sendo 16kgr, 5 a média d'estes dois
+entre 11 e 22kgr, sendo 16kgr,5 a média d'estes dois
 numeros; admittindo sete milheiros de cêpas por hectare,
 este ultimo numero representa um consumo
 de 115kg,5 por hectare, valor proximamente egual ao
@@ -15427,7 +15471,7 @@ póde calcular-se que são necessarios de
 empregam, muitas vezes, mulheres n'este trabalho,
 por economia.
 
-3.º - A anthracnose
+§ 3.º - A anthracnose
 
 859. - Prejuizos que causa. - A anthracnose, perneira,
 doença negra, tabardilho, burgo, etc., é uma
@@ -15671,7 +15715,7 @@ abrolhar. Os liquidos mais usados são:
 492  CULTURA DA VINHA
 
 876. - Solução de sulfato de ferro: prepara-se
-na proporção de 30 a 50kg de sulfato de ferro para
+na proporção de 30 a 50kgr de sulfato de ferro para
 100 litros d'agua; dissolve-se o sulfato a quente, e
 emprega-se a solução antes de esfriar de todo.
 
@@ -15766,7 +15810,7 @@ pulverisações, repetidas de quinze em quinze dias,
 da seguinte calda: sulfato de ferro 15k; cal gorda 8k;
 agua 100 litros.
 
-(1) No recente congresso viticola de Lisboa, as vantagers
+(1) No recente congresso viticola de Lisboa, as vantagens
 d'este tratamento foram corroboradas pelo sr. Nogueira de
 Mello, distincto viticultor d'Alquerubim (Aveiro); disse o sr.
 Nogueira de Mello, que applicava a cal gorda em abril, com
@@ -15855,7 +15899,7 @@ menos resistentes d'outra.
 
 CULTURA DA VINHA  497
 
-888. - Caracteres do mildio. - Nas parras, o míldio
+888. - Caracteres do míldio. - Nas parras, o míldio
 manifesta-se, ao principio, na fórma de maculas desbotadas
 ou amarelladas na pagina superior, e de
 maculas pulverulentas e brilhantes na pagina inferior,
@@ -15879,6 +15923,8 @@ mais adeantado do ataque, a folha morre,
 na totalidade ou em parte, e cáe prematuramente;
 n'esta queda, o limbo desprende-se quasi sempre
 pelo ponto de ligação com o peciolo.
+
+32
 
 498  CULTURA DA VINHA
 
@@ -15959,8 +16005,8 @@ durante a impressão).
 
 500  CULTURA DA VINHA
 
-Fig. 109. - Córte transversal (ampliado 1:150) de uma folha atacada pelo mildio
-b, mycelio do fungo; d, filamentos esporiferos; e, esporos, f, filamentos de que
+Fig. 109. - Córte transversal (ampliado 1:150) de uma folha atacada pelo míldio:
+b, mycelio do fungo; d, filamentos esporiferos; e, esporos; f, filamentos de que
 já cahiram os esporos; c, óvos
 
 893. - N'um estado mais adeantado do cacho,
@@ -16011,7 +16057,7 @@ maturação.
 
 (1) Para uma descripção minuciosa d'este fungo, dos tratamentos
 e de tudo quanto diz respeito ao míldio, consulte-se o
-excellente livrinho do sr. Verissimo d'Almeida - O mildio e seu
+excellente livrinho do sr. Verissimo d'Almeida - O míldio e seu
 tratamento - 2.ª edição, 1894.
 
 502  CULTURA DA VINHA
@@ -16025,7 +16071,7 @@ as manchas brancas, brilhantes e pulverulentas,
 tão caracteristicas. Estes esporos são pequenissimos,
 pois que os maiores não chegam a ter 2 centesimos de
 millimetro; produzem-se e são arrastados pelo vento
-em quantidades prodigiosas, tendo se calculado que
+em quantidades prodigiosas, tendo-se calculado que
 sobre uma unica folha, completamente invadida, podem
 existir 500:000.
 
@@ -16231,7 +16277,7 @@ occasionado qualquer accidente, é ainda mais uma
 prova do que deixamos dito. Na dose empregada,
 o sulfato de cobre não produz o menor gosto ao vinho,
 e a uva nem precisa ser lavada antes da vinificação,
-como se pratica se foi enxofrada já no tarde;
+como se pratíca se foi enxofrada já no tarde;
 bem entendido, que não dizemos o mesmo a
 proposito das uvas de mesa, que convém sempre
 lavar, quando mais não seja por simples medida de
@@ -16286,7 +16332,7 @@ Agua . . . 100l  100l
 
 A primeira formula é a mais adoptada, e a que
 melhor convém, na grande maioria dos casos; ha
-mesmo tendencia em reduzir ainda o sulfato a 1k, 5
+mesmo tendencia em reduzir ainda o sulfato a 1k,5
 ou mesmo 1k (reduzindo, é claro, a cal, na mesma
 proporção). Para preparar qualquer d'estas caldas,
 dissolve-se o sulfato de cobre em 90 ou 95 litros de
@@ -16299,7 +16345,7 @@ atravessado na bocca da vasilha. N'um outro vaso,
 fórma-se, com a cal e com os 10 ou 5 litros d'agua
 restantes, um leite de cal bem homogeneo, sem grumos
 ou caroços; a quantidade de cal deve ser tanto
-maior, quanto ella for mais impura, e tiver sahido
+maior, quanto ella fôr mais impura, e tiver sahido
 do forno ha mais tempo. Estando bem frios os dois
 liquidos, deita-se o leite de cal, pouco a pouco, na solução
 do sulfato e agita-se bastante o mixto; obtem-se
@@ -16369,7 +16415,7 @@ muito simplesmente, addicionando á agua, um
 unico pó, inventado pelo sr. B. Pons, e que se encontra
 no commercio, preparado pelos srs. Julien
 Fréres, de Beziers; este pó junta-se á agua, na proporção
-de 2kg para 100 litros. Não nos consta que
+de 2kgr para 100 litros. Não nos consta que
 esta calda tenha ainda sido ensaiada em Portugal.
 
 918 bis. - Na reacção que se dá, ao preparar-se
@@ -16433,7 +16479,7 @@ Agua . . . 100l
 
 Dissolvem-se os 2 kilogr. de sulfato de cobre em
 15 ou 20 litros d'agua; junta-se o leite de cal ou a solução
-da soda; depois deprecipitado o cobre, mistura-se
+da soda; depois de precipitado o cobre, mistura-se
 o melaço e, passadas 12 horas de contacto,
 addiciona-se a agua necessaria para prefazer 100
 litros.
@@ -16444,6 +16490,8 @@ por causa da côr amarellada do melaço.
 922. - A calda assucarada é a mais adherente de
 todas as preparações cupricas, mas é bastante mais
 cara que as caldas precedentes.
+
+33
 
 514  CULTURA DA VINHA
 
@@ -16540,7 +16588,7 @@ o mais vulgarisado em Portugal é o Eclair, de Vermorel
 (1). Compõe-se (Fig. 110) de um reservatorio
 de cobre, da capacidade de 15 litros, que o operador
 fixa ás costas por meio de duas correias; o liquido
-deita se pela parte superior, retirando a tampa,
+deita-se pela parte superior, retirando a tampa,
 e corre primeiro n'um crivo onde deixa as impurezas.
 Dentro, ha uma bomba, cujo embolo é substituido
 por um diaphragma de cautchú, fixo nas duas
@@ -16620,7 +16668,7 @@ no systema Raveneau, ha uma pequena palheta obliqua,
 levemente concava, na qual bate o liquido, que
 sae com força por um pequeno orificio, e se divide.
 D'estes tres systemas, o de Riley é o mais perfeito
-e o de Raveneau o mais imperfeito, As disposições
+e o de Raveneau o mais imperfeito. As disposições
 especiaes, para evitar que a accumulação
 das substancias suspensas entupam o apparelho,
 são tambem variaveis (1).
@@ -16729,7 +16777,7 @@ e outros, mas está hoje contra-aconselhado.
 Dizem que o apparelho Vidal-Maroger póde tratar
 de 8 a 10 hectares por dia.
 
-937. - N'um terceiro typo (systema Piller-Chambera)
+937. - N'um terceiro typo (systema Pilter-Chamberd)
 é o proprio animal que faz mover as bombas
 do apparelho (Fig. 111). O reservatorio accommoda-se
 á albarda e tem a capacidade de 100 litros;
@@ -16889,7 +16937,7 @@ simples mistura, bem pulverisada, do enxofre com o
 sulfato de cobre; outros, são obtidos pela mistura
 do enxofre com o deposito que se fórma, precipitando
 uma solução de sulfato de cobre pela cal
-- como se pratica na calda bordeleza (915) - depois
+- como se pratíca na calda bordeleza (915) - depois
 de secco e reduzido a pó. Estes ultimos preparados
 são preferiveis, porque se apresentam em estado
 de grande attenuação, e têem o cobre na fórma de
@@ -16949,6 +16997,8 @@ parte os casos mais ou menos excepcionaes) parece
 que é para combinar os dois tratamentos, como
 adeante indicaremos.
 
+34
+
 530  CULTURA DA VINHA
 
 948. - Em regra geral, está admittido que são necessarios
@@ -16981,7 +17031,7 @@ um bom atempamento das varas.
 com os liquidos, o primeiro deve applicar-se 3 ou
 4 dias depois do primeiro enxoframento, dado contra
 o oídio. Calculam, em França, que o primeiro
-tratamento do mildio consome, por hectare, proximamente
+tratamento do míldio consome, por hectare, proximamente
 200 litros de liquido, e os ultimos, 300 ou
 400, e mesmo 500 litros. Os tratamentos liquidos
 devem, quanto possivel, empregar-se com tempo bom
@@ -17051,7 +17101,7 @@ facilidade de preparação.
 
 CULTURA DA VINHA  533
 
-§. 5.º - A podridão negra das uvas (black-rot)
+§ 5.º - A podridão negra das uvas (black-rot)
 
 953. - Prejuizos que causa. - A podridão negra é
 uma doença importada, para a Europa, dos Estados
@@ -17324,7 +17374,7 @@ pycnidios abrem.
 não está ainda bem assente; mas ha boas esperanças
 de que o sulfato de cobre a debelle tambem.
 
-§. 7.º - A doença da Diagalves, gangrena do tronco
+§ 7.º - A doença da Diagalves, gangrena do tronco
 ou cancro da vinha. A maromba (do Douro).
 
 974. - Prejuizos que causa. - Ha uns trinta annos,
@@ -17466,6 +17516,8 @@ que lhe accusou o exame microscopico das cêpas
 atacadas - entre o attribuil-a a um Fungo, a
 uma Bacteriacea, ou talvez simultanea ás duas causas.
 
+35
+
 546  CULTURA DA VINHA
 
 979. - Tratamentos. - Contra a gangrena do tronco,
@@ -17583,7 +17635,7 @@ inferior; tambem póde atacar o cacho. Segundo
 os srs. Prillieux e Delacroix, as manchas mais pequenas
 e côr de folha morta, que se encontram á
 mistura com as manchas vermelhas da vermelhidão
-ou rongeot (685), são devidas a um outro fungo parasita,
+ou rougeot (685), são devidas a um outro fungo parasita,
 que denominaram Exobasidium vitis. Ambos
 estes fungos já foram vistos em Portugal, em folhas
 examinadas pelo sr. Verissimo de Almeida no
@@ -17618,7 +17670,7 @@ californica; causa prejuizos muito consideraveis n'aquella
 região americana, mas, felizmente para nós,
 não existe ainda na Europa. As cêpas atacadas tomam
 aspecto semelhante ás que estão soffrendo da
-apoplexia (682) ou do rongeot (684), teem as raizes
+apoplexia (682) ou do rougeot (684), teem as raizes
 esponjosas, apodrecidas, e por fim morrem.
 
 CULTURA DA VINHA  551
@@ -17640,7 +17692,7 @@ e Riparia.
 989. - O Fumago vagans ou Cladosporium fumago
 é o fungo negro, que se desenvolve em consequencia
 do ataque das cochonilhas (807); sobre
-as folhas, contraria-lhes o funccionamento regular
+as folhas, contraría-lhes o funccionamento regular
 e pode mesmo trazer-lhes a morte; sobre os cachos,
 impede-lhes o desenvolvimento e a maturação. De
 ordinario, é pouco prejudicial, porque se não multiplica
@@ -17679,7 +17731,7 @@ ou em algumas plantas cultivadas, como a luzerna,
 o linho, etc. Brotero descreve na sua Phytographia
 uma cuscuta, que denomina Cuscuta Europaea barbuvea,
 e figura-a, desenvolvida sobre um cacho de
-uvas; indica-a nas vinhas dos arredores de Lisboa
+uvas; indíca-a nas vinhas dos arredores de Lisboa
 (Carnaxide, Sete-Rios, etc.); uma unica vez, ha
 bastantes annos, tivemos occasião de ver este parasita
 sobre a vinha, n'uma parreira, nas vizinhanças
@@ -18080,9 +18132,9 @@ Adubações verdes . . . 313
 Sangue secco, substancias corneas e pilosas,
 coiros velhos, etc. . . . 314
 
-Trapos de lá . . . 315
+Trapos de lã . . . 315
 
-Aguas das lavagens da lá . . . 316
+Aguas das lavagens da lã . . . 316
 
 Guanos artificiaes e naturaes . . . 316
 
@@ -18101,7 +18153,7 @@ precipitados . . . 321
 Escorias da desphosphoração do ferro . . . 322
 
 Chloreto de potassio, carbonato de potassio,
-sulfato de potassio, salinos de Strassfurt,
+sulfato de potassio, salinos de Stassfurt,
 etc. . . . 322
 
 Cinzas . . . 323
@@ -18115,7 +18167,7 @@ Gesso, cal, marga . . . 326
 Pag.
 
 Lodos, vasas, lamas; terra nova; terras das
-mattas. Barralheiras . . . 327
+mattas. Borralheiras . . . 327
 
 Compostos . . . 328
 
@@ -18511,7 +18563,7 @@ da ferrugem) . . . 551
 
 Cryptogamicas saprophytas: fungos, lichens e musgos . . . 552
 
-Phanerogamica parasita: a cascuta da videira ou
+Phanerogamica parasita: a cuscuta da videira ou
 das uvas . . . 552
 
 JOSÉ ANTONIO RODRIGUES
