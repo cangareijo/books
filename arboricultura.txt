@@ -98,6 +98,8 @@ PORTO: TYP. DE BARTHOLOMEU H. DE MORAES
 
 INTRODUCÇÃO
 
+-
+
 Portugal é um dos paizes que a Providencia dotou com
 maior somma de recursos para produzir os mais variados e
 preciosos fructos da terra.
@@ -234,7 +236,11 @@ cavalheiros, professores e amadores, que pelo seu muito
 saber e experiencia téem auctoridade notoria no assumpto que
 vou tratar.
 
+-
+
 ESTUDOS PRELIMINARES
+
+-
 
 A arboricultura é um dos grandes ramos em que se divide
 a agricultura; baseada nos principios que as sciencias naturaes
@@ -341,9 +347,15 @@ auxilio para conhecermos a razão d'alguns factos que
 teremos de observar, e para não operarmos ás cegas e ao
 acaso.
 
+-
+
 PRIMEIRA PARTE
 
+-
+
 ANATOMIA VEGETAL
+
+-
 
 Se observarmos uma planta no seu estado normal de vegetação,
 veremos que ella compõe-se de um certo numero de
@@ -1520,7 +1532,11 @@ O fim natural da fructificação dos vegetaes é a procreação
 da especie; vamos ver de que meios providenciaes a natureza
 se serve para assegurar a sua perpetuidade.
 
+-
+
 REPRODUCÇÃO
+
+-
 
 Os fructos, depois de completarem a sua maturação, cahem;
 se são carnudos e volumosos, ficam nas proximidades
