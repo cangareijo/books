@@ -1558,7 +1558,7 @@ as antigas raizes, restituindo a arvore á posição
 vertical, mas invertida com as raizes para o ar, veremos que
 estas vão produzindo folhas e gemmas ramiferas.
 
-É sobre estes factos que se basea toda a theoria da reproducção
+É sobre estes factos que se basêa toda a theoria da reproducção
 artificial das plantas por estacas, mergulhias e enxertos,
 e por sementeira de gemmas.
 
@@ -1625,7 +1625,7 @@ o tratamento de que tem gosado, n'um praso mais ou
 menos longo, começam a apresentar indicios de cansaço e de
 morte proxima. As extremidades dos ramos vão perdendo o
 vigor para attrahir a seiva; a parte mais alta sécca; apparece
-a corda, que é essa parte mais alta, secca e morta que
+a corôa, que é essa parte mais alta, sêcca e morta que
 primeiro revela a decrepitude; apparecem os cancros, as ulceras,
 a decomposição das raizes e a morte.
 
@@ -1633,7 +1633,11 @@ a decomposição das raizes e a morte.
 esta inevitavel ruina; felizmente a arte tem poderosos recursos
 para isto, que estudaremos a seu tempo.
 
+-
+
 AGENTES NATURAES DA VEGETAÇÃO
+
+-
 
 Os agentes physicos que mais poderosamente concorrem a
 promover os diversos phenomenos da vida vegetal são: a
@@ -2083,7 +2087,7 @@ os quatro elementos restantes, a cal, o phosphoro, a potassa
 e o azote; estes, ainda que muitas vezes comparecem em quantidades
 notaveis, pelo decorrer do tempo as plantas chegam
 a extinguil-os. É para restaurar na terra estes elementos que
-nos vemos obrigados a lançar mão dos adubos.
+nos vêmos obrigados a lançar mão dos adubos.
 
 [4] Algumas plantas absorvem muitos outros elementos, como o iodo,
 o bromo, o cobre, etc., mas estas não téem interesse para a arboricultura.
@@ -2118,7 +2122,7 @@ por 1$370 reis a carrada de 500 kilos.
 Estrumes dos estabulos, média de differentes analyses, em
 1:000 kilos:
 
-Azote . . . 4 k a 360 - 1$440 reis.
+Azote . . . 4k a 360 - 1$440 reis.
 
 Acido phosphorico . . . 2 » 180 - 360 »
 
@@ -2130,7 +2134,7 @@ Cal e outros mineraes uteis 136 » 3,6 - 490 »
 
 Em algumas regiões do nosso paiz não se póde acceitar
 semelhante base, porque o preço venal dos estrumes é muito
-inferior aquelle; no Algarve ainda se vende uma carrada de
+inferior áquelle; no Algarve ainda se vende uma carrada de
 excellente estrume por 500 ou 600 reis, mas nas provincias
 do norte, mesmo nas circumvisinhanças de Lisboa e no Alemtejo
 certamente aquella cotação não é exagerada; na Beira,
@@ -2532,7 +2536,11 @@ outras preferem as quentes. Quando tratarmos da cultura em
 especial de cada uma d'ellas, estudaremos esta importantissima
 questão.
 
+-
+
 MULTIPLICAÇÃO DAS PLANTAS
+
+-
 
 Por dous methodos essencialmente differentes se podem
 reproduzir e multiplicar as plantas: 1.º por sementeira, é o
@@ -2562,7 +2570,6 @@ Não devemos comtudo esquecer que a natureza dispõe
 d'uma prodigiosa quantidade de sementes; ainda que a maior
 parte d'ellas se perca, poucas que se salvem bastam para
 preencher o seu fim, que é assegurar a conservação da especie.
-
 Nós temos de aproveital-as o melhor possivel, assim como
 o terreno que lhes é destinado; por isso é indispensavel protegel-as
 contra os accidentes que as possam destruir.
@@ -2587,14 +2594,14 @@ Os meios mais faceis e efficazes de satisfazer estes fins,
 consistem: em expôl-as por algum tempo ao sol, logo depois
 de colhidas, a fim de lhes eliminar o excesso de humidade
 que contiverem; guardam-se depois em vasos fechados, misturadas,
-por camadas, com terra areosa, secca e pulverisada,
+por camadas, com terra areosa, sêcca e pulverisada,
 e depositam-se em logar fresco, ou melhor será enterral-os.
 
 Quando pretendemos guardar uma grande quantidade de
 sementes, póde proceder-se do seguinte modo: depois de bem
-enxutas, misturam-se com terra areosa e bem sécca, collocam-se
+enxutas, misturam-se com terra areosa e bem sêcca, collocam-se
 em monte sobre a superficie da terra, em sitio elevado e
-sêcco, cobrem-se depois com uma camada de terra secca e
+sêcco, cobrem-se depois com uma camada de terra sêcca e
 bem batida, de 0,50 de espessura; assim se podem conservar
 por muito tempo castanhas, bolotas, penisco, etc. Antes de
 lançar a semente á terra é preciso verificar o seu estado; as
@@ -2640,7 +2647,7 @@ mais robustas e desenvolvidas.
 
 O bom exito da sementeira depende do estado e qualidade
 das sementes, da natureza e preparação do terreno, do
-modo e do tempo em que se semea.
+modo e do tempo em que se semêa.
 
 Já vimos, quando estudamos os phenomenos da germinação,
 quaes as condições a que as sementes devem satisfazer
@@ -2767,7 +2774,7 @@ mezes.
 Quando por qualquer razão, na occasião da plantação, as
 estacas apresentam pouca humidade e a camada herbacea da
 casca empallidecida, e que por isto se receia do seu porvir,
-convém n'este caso tel-as de molho em agua duraute vinte e
+convém n'este caso tel-as de molho em agua durante vinte e
 quatro horas.
 
 68
@@ -2896,7 +2903,7 @@ para onde convier.
 Nas especies de lenho muito duro, difficeis de propagar
 por estaca, póde recorrer-se a qualquer dos meios que vamos
 indicar, a fim de auxiliarmos quanto possivel o seu bom exito:
-No anno anterior aquelle em que as estacas se hão-de plantar,
+No anno anterior áquelle em que as estacas se hão-de plantar,
 vae-se á arvore que as ha-de fornecer e escolhem-se os ramos
 que se destinam áquelle fim; um pouco abaixo do ponto
 onde téem de ser cortados, applica-se-lhes uma forte ligadura
@@ -3009,7 +3016,7 @@ ponto com um arame ou cordel forte, conforme se indicou
 para as estacas.
 
 A circumcisão é a extracção de um annel de casca n'aquelle
-ponto. A incisão é um corte obliquo que se faz na curvatura
+ponto. A incisão é um córte obliquo que se faz na curvatura
 do mergulhão (fig. 15 B); deve penetrar até á medulla e
 introduz-se-lhe qualquer corpo estranho, a fim de evitar a
 soldadura do córte.
@@ -3155,7 +3162,7 @@ identica.
 variedades de fructos de preciosa qualidade; pena é que em
 Portugal não haja o cuidado de as apurar e propagar. Na freguezia de
 Cachopo, concelho de Tavira, appareceu ha poucos annos uma figueira
-braviano meio das serranias, que produz os mais formosos e delicados
+bravia no meio das serranias, que produz os mais formosos e delicados
 figos que temos visto. Na freguezia d'Esmolfe, districto de Vizeu, appareceu
 ha tempos uma pereira brava, que dá fructos de doçura e
 aroma incomparaveis. D'ambas estas variedades temos já alguns enxertos
@@ -3391,7 +3398,7 @@ sempre da melhor terra que se possa obter; o que convém
 é não resguardar e abrigar excessivamente as arvores que
 tiverem de ir habitar maus solos muito expostos aos ventos.
 
-É certo que a opinião de M. Dubreuil tem a seu favor o
+É certo que a opinião de M.r Dubreuil tem a seu favor o
 voto d'abalisados agronomos, notavelmente o do sabio Doutor
 José Maria Grande; mas nós se estamos em erro, erramos em
 boa companhia, pois em conformidade das ideias que expomos
@@ -3429,7 +3436,7 @@ O arboricultor tem meios ao seu alcance para dirigir a
 formação das raizes do modo que mais lhe convier. Quanto
 mais profundamente se surribar o solo mais fundas se desenvolverão
 as raizes; quando se lançam adubos ou terras ferteis
-nas camadas inferiores do solo a planta desenvolverá - de
+nas camadas inferiores do solo a planta desenvolverá de
 preferencia o seu raizame n'este sentido. Se ao contrário a
 surriba foi pouco profunda, se os adubos se espalharam á
 superficie, as raizes tenderão a desenvolver-se muito mais
@@ -3445,12 +3452,16 @@ dos ventos, convém crear as plantas mui espaçadas entre si;
 assim serão mais entroncadas, grossas e resistentes.
 
 Tendo-se em vista as considerações physiologicas que já
-apresentamos, e conhecendo-se as necessidades particulares
+apresentámos, e conhecendo-se as necessidades particulares
 de cada especie que mais adiante estudaremos, bastarão estas
 indicações summarias para nos sabermos dirigir no governo
 dos viveiros.
 
+-
+
 PLANTAÇÃO DAS ARVORES
+
+-
 
 As arvores produzidas no alfobre, muito proximas umas
 das outras, tendem a elevar-se muito em altura, criam poucos
@@ -3603,7 +3614,7 @@ e nunca chegarão a adquirir grande corpulencia e vigor.
 Só nos terrenos que forem excessivamente soltos e areosos
 é que o nó vital deverá ficar um pouco abaixo da superficie
 do solo, a fim de se evitar o effeito dos ardores do sol e
-da secca sobre as raizes superficiaes. Em geral deveremos
+da sêcca sobre as raizes superficiaes. Em geral deveremos
 sempre seguir a regra que a natureza indica.
 
 O arranjo e accommodação das raizes deve fazer-se com a
@@ -3698,7 +3709,7 @@ ter diluido algum estrume de gado bovino.
 
 Se tivermos de plantar arvores já muito desenvolvidas,
 teremos de poupar-lhes as raizes com o maior cuidado, e defendel-as
-da secca; convirá tambem refrescar-lhes as raizes
+da sêcca; convirá tambem refrescar-lhes as raizes
 com o composto liquido acima indicado, e revestir-lhes o
 tronco de uma cobertura de palhas ou ramos de pinheiro.
 
@@ -3709,7 +3720,7 @@ aquella em que a energia vital se acha adormecida, mas deverá
 anticipar-se ou retardar-se, segundo o clima, a natureza
 do terreno e a especie da arvore.
 
-Nos climas quentes e seccos deverá a plantação anticipar-se;
+Nos climas quentes e sêccos deverá a plantação anticipar-se;
 não ha os rigores do inverno a temer, os calores da
 primavera chegam cêdo; é conveniente que a este tempo a
 planta tenha já tomado posse do terreno.
@@ -3912,7 +3923,7 @@ azote em maior quantidade, outros são mais avidos de phosphoro,
 outros de potassa ou de cal.
 
 Para a agricultura geral é da maior importancia, mesmo
-de necessidade indíspensavel, o conhecimento das exigencias
+de necessidade indispensavel, o conhecimento das exigencias
 especiaes das differentes plantas cultivadas com relação á sua
 nutrição.
 
@@ -3987,7 +3998,7 @@ REGAS
 As arvores fructiferas na sua primeira edade, tendo um
 raizame ainda fraco e superficial, apresentando o caule e os
 ramos muito herbaceos, difficilmente poderão resistir ás longas
-épocas de sécca que sobrevéem nas regiões do sul do
+épocas de sêcca que sobrevéem nas regiões do sul do
 nosso paiz, se n'essas épocas lhes não acudirmos com regas.
 
 Por esta razão é indispensavel que os alfobres e viveiros
@@ -4009,7 +4020,7 @@ e pouco arejadas; para adquirirem boa qualidade necessitam
 correr por algum tempo expostas ao ar. Em geral todas as
 aguas potaveis convém ás irrigações; outras que o não são
 podem comtudo servir áquelle fim, se não forem muito carregadas
-de gesso, ferro ou materias organicas acidas e adstringentes.
+de gêsso, ferro ou materias organicas acidas e adstringentes.
 
 Ao transplantarmos uma arvore, em qualquer edade que
 seja, é sempre indispensavel, por essa occasião, dar-lhe uma
@@ -4023,7 +4034,11 @@ este beneficio.
 Quando tratarmos da cultura especial de cada uma d'ellas
 veremos em que casos nos convirá lançar mão d'este recurso.
 
+-
+
 FORMAÇÃO DAS ARVORES
+
+-
 
 A formação e direcção do esqueleto das arvores fructiferas
 reclama uma serie de operações que devem merecer ao
@@ -4044,6 +4059,7 @@ como é mister.
 a educar as arvores, segundo a direcção e fórma que
 pretendermos que ellas venham a tomar, e conforme o destino
 que houvermos de dar-lhes.
+
 As arvores fructiferas podem ser destinadas a viver isoladamente,
 a formar pomares ou vergeis, a formar linhas e
 bordaduras em torno das terras cultivadas, á beira dos caminhos,
@@ -4114,7 +4130,7 @@ definham, e se produzem abundante fructo é pêco e
 desmedrado.
 
 Chegada a arvore á edade adulta, limitam-se os nossos cuidados,
-com relação ao esqueleto, em trazel-o sempre em perfeito
+com relação ao esqueleto, em trazêl-o sempre em perfeito
 estado de asseio, limpando-o dos lichens e parasitas, e
 de todos os ramos adventicios que sobre elle rebentem.
 
@@ -4178,8 +4194,8 @@ Fig. 21
 Os ramos fructiferos são de differentes especies; os que
 mais convém distinguir são: 1.º Bolsas, pequenos ramos
 curtos, bojudos e rugosos (fig. 20), ordinariamente muito productivos;
-mais tarde vão-se ramificando e tomam então o no
-me de pinhas (fig. 21) e dão fructos por muitos annos successivamente.
+mais tarde vão-se ramificando e tomam então o nome
+de pinhas (fig. 21) e dão fructos por muitos annos successivamente.
 2.º Ramos capilares, são raminhos curtos de 0,05 a 0,1
 de comprimento, ponteagudos (fig. 22); passam dous ou tres
 annos sem fructificar, mas depois perdem a ponta, desenvolvem
@@ -4498,7 +4514,7 @@ tronco tortuoso e cheio de nós.
 
 A boa prática manda que aquellas ramificações se conservem,
 mas que sobre ellas haja vigilancia, cortando-se metade
-até tres quartos do seu comprimento aquellas que se
+até tres quartos do seu comprimento áquellas que se
 apresentarem mais vigorosas, de modo a conservar-se sempre
 a preponderancia da haste principal, havendo toda a attenção
 em que se mantenha sempre bem direita e vertical.
@@ -4841,7 +4857,7 @@ e plantar onde convenha.
 
 Quando as arvores, por extrema velhice ou por doença,
 reclamam uma substituição completa, tambem em muitas circumstancias
-se lhes póde applicar decepagem.
+se lhes póde applicar a decepagem.
 
 Se o systema radicular conserva bastante energia vital,
 se a arvore é de especie vivaz, produzirá do mesmo modo
@@ -4932,7 +4948,7 @@ formados e limpos, convém expontar as varas que os sustentam,
 a fim de obrigar a seiva a refluir para elles.
 
 A exponta tem applicação a quasi todas as arvores fructiferas,
-como um dos meios mais, efficazes não só de manter
+como um dos meios mais efficazes não só de manter
 o equilibrio e symetria das suas ramificações, mas para
 auxiliar o desenvolvimento e augmento de volume dos fructos
 e adiantar a sua maturação.
@@ -4971,7 +4987,7 @@ principaes, ou mesmo no tronco.
 Sabemos já que quanto mais rapida e activa fôr a circulação
 da seiva, maior tendencia terá a arvore a formar producções
 lenhosas, com grave prejuizo da fructificação; o artificio
-indicado tem por fim oppor um obstaculo a esta rapida e
+indicado tem por fim oppôr um obstaculo a esta rapida e
 abundante ascensão de seiva; por este modo determinamos
 um enfraquecimento geral na arvore, mas a fructificação apparecerá.
 Não deve porém esquecer que por este modo provocamos
@@ -5006,7 +5022,7 @@ prejudicarmos em nada o futuro, visto que a fructificação subsequente
 ha-de provir de outros ramos.
 
 As incisões longitudinaes téem um fim diverso; quando a
-casca do tronco ou dos ramos se acha extremamente sécca,
+casca do tronco ou dos ramos se acha extremamente sêcca,
 nodosa, endurecida, e apresenta muitas protuberancias, convém
 fazer-lhe algumas d'estas incisões; com a ponta de uma faca
 pratica-se nas arrancas ou no tronco uma ou muitas fendas,
@@ -5087,7 +5103,7 @@ e adquira vigor.
 
 ENXERTIAS
 
-Quando tratamos dos processos de multiplicação das plantas
+Quando tratámos dos processos de multiplicação das plantas
 dissemos em que consiste a importantissima operação
 da enxertia. Estudaremos agora alguns dos variadissimos processos
 práticos que usualmente se empregam na sua execução,
@@ -5210,7 +5226,7 @@ chegar até ao alburno; em alguns casos, quando tivermos
 de operar sobre ramos muito delgados, poderá chegar ao
 canal medullar.
 
-O enxerto deverá soffrer um corte semelhante; applica-se
+O enxerto deverá soffrer um córte semelhante; applica-se
 o córte que se fez no enxerto exactamente sobre a ferida
 feita no patrão, havendo o cuidado de que os tecidos do liber
 e as camadas externas do alburno se toquem e juxtaponham
@@ -5289,7 +5305,7 @@ grossura e aperta por si o enxerto não ha necessidade de ligaduras;
 se tem pouca força liga-se; em todo o caso é indispensavel
 resguardarem-se bem todos os córtes com o emplastro
 d'enxertar, que adiante indicaremos. Para que a operação
-de resultado satisfactorio é indispensavel que não soffra depois
+dê resultado satisfactorio é indispensavel que não soffra depois
 abalo algum que possa deslocar o enxerto do seu logar
 e convém abrigal-o dos ardores do sol.
 
@@ -5376,7 +5392,7 @@ corta-se-lhe a extremidade inferior em fórma de cunha
 (fig. 53), introduz-se na fenda do patrão, e ata-se com muitas
 voltas de fio de lã; feito isto deverão quebrar-se as extremidades
 dos ramos immediatamente inferiores ao enxerto, como
-se vê na fig. 52 (c c), isto para não distrahirem a seiva que
+se vê na fig. 52 (C C), isto para não distrahirem a seiva que
 precisamos encaminhar para o enxerto; as folhas que deixamos
 no ponto D servem para attrahil-a para alli.
 
@@ -5456,7 +5472,7 @@ um pedaço do pecciolo, como se vê da fig. 55; é indispensavel
 observar que o escudo traga o liber em bom estado,
 e com o tecido cellular que deve existir na parte interior da
 gemma intacto; sem isto a operação seria perdida; faz-se um
-entalhe na casca do patrão em fórma L; com a espatula da
+entalhe na casca do patrão em fórma ⊥; com a espatula da
 enxertadeira levanta-se a casca sómente o preciso para se
 introduzir o escudo; afeiçoa-se a casca, que deverá ficar bem
 unida e ligada, de modo que o liber do escudo fique perfeitamente
@@ -5475,7 +5491,7 @@ seiva, que vem em meio ou fim de agosto. Opera-se
 exactamente como ao de olho vivo, sómente com a differença
 de que n'estes o escudo deverá ter a fórma invertida,
 como mostra a fig. 56, e o entalhe que se faz no patrão
-tambem é invertido e em fórma de T.
+tambem é invertido e em fórma de ⊤.
 
 Fig. 56
 
@@ -5597,9 +5613,13 @@ como as que os marceneiros usam para ter a colla derretida;
 tem dois repartimentos: no inferior põe-se um foco calorifero
 qualquer.
 
+-
+
 141
 
 ARMAÇÃO DAS ARVORES
+
+-
 
 Quando estudamos o tratamento das arvores na sua primeira
 edade, ainda no viveiro, indicamos muito summariamente
@@ -5793,7 +5813,7 @@ lançará a sua vara, muito robusta; no anno seguinte serão
 estas varas podadas de 0,25 até 0,30, devendo ficar a do meio
 com tres olhos bem nutridos, que deverão produzir tres varas,
 que vão designadas na fig. 59 com as letras A E C; os
-dous lateraes deverão produzir as varas B D E F G. Sujeitam-se
+dous lateraes deverão produzir as varas B D e F G. Sujeitam-se
 estas varas a tutores apropriados, que ordinariamente
 são formados de um ripado de madeira seguro á parede;
 melhor será, e muito mais economico, fazer esta armação
@@ -5898,14 +5918,14 @@ a impedir-se que se desenvolvam em ramos lenhosos, empregando-se
 para este fim os processos já indicados, que consistem
 na exponta em verde, fractura, torsão, a maior ou menor
 altura, segundo a força e disposição d'aquellas producções.
-No anno seguinte poda se a vara produzida no anno anterior
+No anno seguinte poda-se a vara produzida no anno anterior
 por metade pouco mais ou menos da sua altura, e as producções
 lateraes serão tratadas como antecedentemente; na extremidade
 d'esta vara virá um lançamento muito forte, que continuará
 o prolongamento do caule; repete-se todos os annos o
 mesmo tratamento, até que as arvores cheguem á altura desejada,
 que deverá ser a altura do muro a que forem acostadas;
-é indispensavel que desde principio sejam mantidas por
+é indispensavel que desde o principio sejam mantidas por
 tutores de madeira, ou melhor de fios d'arame grosso, estendidos
 horisontalmente em tres ou quatro linhas junto ás paredes.
 
@@ -5985,7 +6005,7 @@ Para formar cordão bilateral ou duplo escolhem-se plantas
 que apresentem dous ramos de egual força, oppostos um
 ao outro, podam-se a dous terços do seu comprimento e sujeitam-se
 á posição horisontal atando-se ás estacas e ao arame;
-de resto o tratamento. a empregar é identico ao que descrevemos
+de resto o tratamento a empregar é identico ao que descrevemos
 para os cordões horisontaes simples.
 
 LATADAS
@@ -6294,7 +6314,7 @@ tudo amassado com agua de sabão e algumas ourinas.
 As arvores que vivem em terrenos muito sêccos e estereis,
 em climas sêccos, apresentam muitas vezes sobre o tronco
 grossas protuberancias, que véem a degenerar n'uma caria
-secca. A causa é a difficuldade da circulação da seiva nas
+sêcca. A causa é a difficuldade da circulação da seiva nas
 camadas geradoras; o remedio consiste na applicação d'alguns
 entalhes longitudinaes na casca, e em dar-lhe algumas
 regas.
@@ -6302,13 +6322,13 @@ regas.
 Gomma. - Apresenta-se formando tumores e protuberancias
 na casca, que em breve começam a exudar um liquido
 mucilaginoso; esta molestia póde ser originada por feridas ou
-lesões traumatias, mas muitas vezes é devida a uma interrupção
+lesões traumaticas, mas muitas vezes é devida a uma interrupção
 na circulação da seiva; o remedio consiste na applicação
 de entalhes longitudinaes na casca.
 
 Lepra. - Manifesta-se debaixo da fórma d'uma efflorescencia
 pardacenta; apparece primeiro na extremidade dos ramos
-e propaga-se as folhas e aos fructos, que se cobrem de
+e propaga-se ás folhas e aos fructos, que se cobrem de
 uma lanugem esbranquiçada, semelhante ao bolor; é uma
 doença altamente contagiosa, trasmitte-se pelo enxerto e pela
 semente; o melhor que se póde fazer quando ella apparece
@@ -6322,7 +6342,7 @@ classes dos cogumellos e das muscidineas, que se implantam
 sobre as arvores fructiferas e vivem á custa d'ellas, causando-lhes
 gravissimo estrago e não poucas vezes a morte; outras
 insinuam-se no interior dos tecidos vegetaes, alimentam-se
-da sua substancia, decompoem-nos e arruinam-os
+da sua substancia, decompoem-nos e arruinam-nos
 completamente.
 
 161
@@ -6330,7 +6350,7 @@ completamente.
 Estes atacam especialmente as plantas annuaes; o morrão
 dos cereaes é produzido por um vegetal d'esta classe; a molestia
 das batatas é devida do mesmo modo a um inimigo
-da mesma natureza. Véem-se a principio uns filamentos finissimos
+da mesma natureza. Vêem-se a principio uns filamentos finissimos
 que se ramificam sobre o vegetal atacado, insinuam-se
 atravez da epiderme, penetrando nos tecidos subjacentes, e
 ahi crescem e se desenvolvem prodigiosamente; depois de terem
@@ -6381,7 +6401,7 @@ Por agora indicaremos sómente os que são mais communs,
 que perseguem differentes arvores, e que se combatem d'um
 modo identico.
 
-Ferrugem. - Da-se este nome especialmente ao estrago
+Ferrugem. - Dá-se este nome especialmente ao estrago
 produzido nas oliveiras por um pequeno insecto da familia
 das cochenilhas; a femea, tem uma especie de carapaça de
 fórma ovoide; no principio do estio achata-se e agarra-se aos
@@ -6506,7 +6526,11 @@ geral todas as aves insectivoras, tambem lhes fazem uma caça
 desapiedada, razão pela qual nos deveriam merecer mais alguma
 benevolencia.
 
+-
+
 APERFEIÇOAMENTO DAS CASTAS
+
+-
 
 A maior parte dos nossos fructos de meza são productos
 artificiaes, devidos aos cuidados de cultura, ou a diversas circumstancias
@@ -6630,7 +6654,11 @@ bem resguardadas da humidade e do ar.
 uma applicação mais constante e vulgar; por este meio obtéem-se
 flôres variadissimas, de tamanho e formosura extraordinaria.
 
+-
+
 ESTABELECIMENTO DE POMARES
+
+-
 
 Em Portugal todo e qualquer terreno póde servir á creação
 de valiosos pomares, quando não seja extremamente pedregoso
@@ -6673,7 +6701,7 @@ enche-se novamente a valla, sendo a terra bem calcada.
 169
 
 Passados alguns annos os mattos decompoem-se, mas em
-todo o caso la fica por onde a agua se possa escoar.
+todo o caso lá fica por onde a agua se possa escoar.
 
 A drenagem feita com tubos de barro é mais dispendiosa,
 e para os pomares tem o inconveniente de ser de pouca duração;
@@ -6778,7 +6806,7 @@ O systema de plantação em quinquoncio é geralmente preferivel
 e tem vantagens muito notaveis sobre aquelle. O
 terreno é mais aproveitado, a mesma superficie comporta
 maior numero de arvores e cada uma gosa exactamente da
-mesma porção de terreno que as suas visinhas, ficando exaetamente
+mesma porção de terreno que as suas visinhas, ficando exactamente
 equidistantes em todos os sentidos, o que não succede
 nas plantações em quadrado, pois que a distancia da
 diagonal A F (fig. 64) é maior do que a da perpendicular A
@@ -7011,7 +7039,7 @@ largas e profundas, e não haja receio de que as arvores morram
 por serem já crescidas; com relação á sovereira, se lhe
 cortarmos perfeitamente toda a folhagem e extrahirmos a
 cortiça na parte que fica enterrada, havendo cuidado em se
-não mutilarem as raizes, hão-de vingar; só uma sécca excessiva
+não mutilarem as raizes, hão-de vingar; só uma sêcca excessiva
 e prolongada poderia comprometter o bom exito da operação,
 e n'este caso a applicação de algumas regas basta para
 nos assegurar a sua vida.
@@ -7044,7 +7072,7 @@ sexos.
 mesmos prejuizos; diz-se que não nasce senão expontanea, ou
 quando a semente haja préviamente passado pelo intestino do
 gado. A semente da alfarrobeira germina e nasce perfeitamente;
-para isso é preciso tel-a de molho durante tres ou
+para isso é preciso têl-a de môlho durante tres ou
 quatro dias n'uma lixivia feita de agua com cinzas e excretos
 de boi.
 
@@ -7241,7 +7269,7 @@ Quando se planta a figueira da India com o fim de formar
 cerca, ordinariamente forma-se um muro de terra que circumscreva
 a propriedade; é na crista e nos taludes d'este
 muro que se faz a plantação, pela fórma indicada. Se a estação
-corre extremamente secca, dão-se-lhe duas ou tres regas,
+corre extremamente sêcca, dão-se-lhe duas ou tres regas,
 e d'ahi por diante não ha necessidade de empregar mais cuidado
 algum; vive, desenvolve-se e fructifica sem necessidade
 de cultura.
@@ -7264,7 +7292,11 @@ escolham as melhores variedades.
 A amoreira multicaule tambem se póde adoptar proveitosamente
 para o mesmo fim sendo plantada e tratada convenientemente.
 
+-
+
 CULTURA DA VINHA
+
+-
 
 A vinha é a principal riqueza territorial do nosso paiz.
 
@@ -7303,7 +7335,7 @@ mas parece que a fama dos nossos preciosos vinhos
 só transpôz os mares e as fronteiras no fim do seculo XIV.
 
 Alguns cavalleiros inglezes que acompanharam a princeza
-D. Filippa de Lencastre, mulher de D. João 1, e outros que
+D. Filippa de Lencastre, mulher de D. João I, e outros que
 vieram alistar-se nas gloriosas hostes do condestavel D. Nuno
 Alvares Pereira, ao regressarem á sua patria levaram saudades
 do delicioso licor que aqui bebiam á farta; nos seus convivios
@@ -7419,7 +7451,7 @@ São variados os systemas de cultura da vinha em Portugal,
 como variados são tambem os seus productos.
 
 Segundo a Noticia da viticultura portugueza, publicação
-official, escripta pelo exm. snr. conselheiro Rodrigo de Moraes
+official, escripta pelo exm.º snr. conselheiro Rodrigo de Moraes
 Soares, divide-se o paiz em oito regiões vinicolas. Não
 nos parece ocioso dar aqui uma breve noticia dos diversos
 systemas culturaes adoptados em cada uma d'estas regiões e
@@ -7600,7 +7632,7 @@ Depois das vindimas, o primeiro trabalho que se applica
 nas localidades mais expostas a geadas recommenda-se
 que as podas sejam tardias.
 
-É no serviço das podas que melhor se prova o zelo e pericia
+É no serviço das podas que melhor se prova o zêlo e pericia
 dos trabalhadores do Douro.
 
 Ao primeiro lance de vista escolhe a vara de fructo para
@@ -7614,7 +7646,7 @@ sabem muito bem a quaes devem deixar maior ou menor
 vara. Em certos casos, quando a videira é robusta e tende a
 elevar-se muito, deixa-se-lhe uma espera com dous olhos, que
 deve partir da cepa, de um ponto mais baixo do que o da
-vara de fructos. É esta espera que no anno seguinte deverá
+vara de fructos. E' esta espera que no anno seguinte deverá
 dar a vara de fructo e uma nova espera ou vara de poda.
 Em muitos casos deixa-se apenas a vara de fructo, que na
 occasião da empa é gemida a dous olhos, ficando assim estes
@@ -7646,7 +7678,7 @@ se vê da fig. 66.
 
 No decurso do mez de junho pratica-se a redra, que é
 uma cava mais ligeira, conchegando-se a terra ás cepas; então
-eslodra-se perfeitamente a cepa, supprimindo-lhe todos os
+esladra-se perfeitamente a cepa, supprimindo-lhe todos os
 novidios adventicios e inuteis. Em julho e agosto esparra-se,
 supprimindo-se algumas folhas e lançamentos estereis; em
 geral só se applica esta operação ás vinhas situadas em terrenos
@@ -7874,7 +7906,7 @@ Algumas castas, notavelmente os bastardos, exigem uma
 poda especial, que na Beira chamam de cornecha: deixam-se-lhe
 duas, tres e ás vezes quatro pequenas varas de dous ou
 tres olhos cada uma. Os systemas da empa são variados; o
-mais usual é o chamado de tendal consiste em gemer a vara
+mais usual é o chamado de tendal, que consiste em gemer a vara
 de fructo a dous olhos, e enrolal-a e atal-a a uma estaca, como
 se vê da fig. 67.
 
@@ -7898,7 +7930,7 @@ Tambem se usa, e talvez com maior vantagem, principalmente
 á beira dos terrenos destinados a outras culturas, outro
 systema muito economico, e que dá uma producção enorme.
 Se a terra é substancial deixa-se elevar a cepa á altura
-conveniente, deixando-se-lhe tres braços é a cada braço a sua
+conveniente, deixando-se-lhe tres braços e a cada braço a sua
 vara de fructo e a sua competente espera; applica-se-lhe um
 estacão, que é simplesmente um ramo de pinheiro que apresente
 algumas ramificações, e atam-se-lhe as varas de fructo,
@@ -7987,7 +8019,7 @@ a vara a uma estaca.
 
 Antes da poda, logo depois da vindima, é costume fazer-se
 a escava; consiste em dar uma cava superficial ao terreno
-junto a cada cepa, abrindo-se-lhe alli uma pequena caldeira.
+junto a cada cêpa, abrindo-se-lhe alli uma pequena caldeira.
 Nos terrenos muito arenosos e soltos esta prática dá excellentes
 resultados, mas nas terras argillosas e frias póde ser
 prejudicialissima, porque o excesso de humidade que alli se
@@ -7996,7 +8028,7 @@ videira. As cavas téem logar desde fins de março até maio,
 conforme a natureza dos terrenos; nas terras baixas e frias
 faz-se mais tarde; geralmente é feita a montes, que depois são
 arrasados quando se procede á arrenda. Então conchega-se a
-terra em volta da cepa e limpa-se perfeitamente o terreno de
+terra em volta da cêpa e limpa-se perfeitamente o terreno de
 todas as hervas que apparecem.
 
 As castas mais notaveis e mais generalisadas são:
@@ -8219,14 +8251,14 @@ da sua cultura e ao fabrico dos seus vinhos.
 
 204
 
-O systema de plantação no Alemtejo é geralmente a manta,
+O systema de plantação no Alemtejo é geralmente á manta,
 com unhamento do bacello; alguns proprietarios téem
 ultimamente feito plantações importantes, por meio de barbados,
 creados em viveiro.
 
 O systema de podas e empas é muito variado; a poda
 mais adoptada é de vara e talão, empando-se depois a vara
-de fructo em circulo, atando-se a ponta a cêpa ou a uma estaca.
+de fructo em circulo, atando-se a ponta á cêpa ou a uma estaca.
 
 No districto de Portalegre encontram-se muitas videiras
 d'enforcado; adoptam-se varios systemas de poda e empa para
@@ -8380,7 +8412,7 @@ castas tem dado optimo resultado; a casta malvazia,
 conhecida em todo o paiz como uma das mais preciosas, é rarissima
 no Algarve, por se julgar quasi completamente esteril;
 ultimamente tem-se applicado este systema de poda a algumas
-cepas e téem dado boa producção.
+cêpas e téem dado boa producção.
 
 O clima e terreno do Algarve favorece consideravelmente
 a formação do assucar e aromas nas uvas; por isso são muito
@@ -8414,8 +8446,12 @@ não cabe aqui indicar, mas que os leitores poderão estudar
 nos tractados especiaes de vinificação do snr. visconde de
 Villa Maior, ou do nosso mestre o snr. Ferreira Lapa.
 
+-
+
 CONSIDERAÇÕES GERAES SOBRE A CULTURA
 DA VINHA
+
+-
 
 Pela breve revista que passamos á viticultura portugueza,
 vê-se que são variados e diversos os systemas de plantação
@@ -8678,7 +8714,7 @@ conhecidas as differentes castas cultivadas, e que se lhes applica
 a poda que melhor lhe convém, em conformidade com os
 fins que se pretendem; n'este sentido pouco terá a reformar
 e melhorar. Não estão n'este caso geralmente as demais regiões;
-poda-se a ésmo, sem conhecimento das exigencias da
+poda-se a êsmo, sem conhecimento das exigencias da
 videira.
 
 O dr. Guyot aconselha para todas as castas um systema
@@ -8977,7 +9013,7 @@ conforme a altura que tem de attingir.
 
 No caso indicado, podendo-se contar com a fertilidade do
 terreno, pretendendo-se estabelecer linhas ou bardos de dous
-metros d'altura, com tres andares, as cepas terão de ficar
+metros d'altura, com tres andares, as cêpas terão de ficar
 escalonadas de tres a tres, em alturas differentes; a primeira
 deverá ter 0m,50 d'altura, a segunda elevar-se-ha a 1 metro,
 a terceira a 1,50, a quarta a 0,50, a quinta a 1m, e a sexta a
@@ -8986,7 +9022,7 @@ esqueleto estiver perfeitamente constituido e as cêpas tiverem
 lançado os braços, o bardo deverá apresentar a configuração
 que se vê da fig. 75.
 
-Para crearmos as cepas convenientemente, de modo a darem
+Para crearmos as cêpas convenientemente, de modo a darem
 aquellas alturas, opera-se do seguinte modo: No terceiro
 anno foi o bacello debruçado, e deverá ter lançado uma
 possante vara, que se procurará manter em posição vertical,
@@ -9196,8 +9232,8 @@ Fig. 79
 230
 
 Suppondo que a latada deverá ter cinco ordens de cordões,
-a primeira cepa A fórma o primeiro, a segunda B o
-quarto, a terceira C o segundo, a quarta Do quinto, a quinta
+a primeira cêpa A fórma o primeiro, a segunda B o
+quarto, a terceira C o segundo, a quarta D o quinto, a quinta
 E o terceiro, e assim por diante.
 
 PARREIRAS
@@ -9220,9 +9256,13 @@ de 3.ª ordem.
 As podas de fructificação seguem as mesmas regras admittidas
 para as latadas.
 
+-
+
 ENFERMIDADES DA VINHA
 
-A vinha está sujeita a muitas enfermidades que podem sér
+-
+
+A vinha está sujeita a muitas enfermidades que podem ser
 originadas por differentes causas: 1.ª A propria natureza das
 plantas, quando já trazem por herança, das cêpas d'onde provéem,
 a predisposição morbida. 2.ª Os defeitos do terreno, quando
@@ -9233,14 +9273,14 @@ excessos de frio ou de calor, geadas, chuvas e intempestivos
 nevoeiros. 5.ª Ataque de parasitas, animaes ou vegetaes.
 
 A 1.ª causa evita-se facilmente, proscrevendo absolutamente
-na occasião da plantação todos os bacellos provenientes
+na occasião da plantação todos os bacêllos provenientes
 de cêpas que não sejam perfeitamente sãs e productivas.
 A 2.ª remedeia-se, corrigindo e adubando convenientemente
 o terreno, sangrando-o por meio de vallas cegas ou
 abertas, quando o defeito provém de excesso de humidade.
 A 3.ª evita-se, estudando-se a indole da videira; ha certas castas
 que quando se lhes applica a poda curta apresentam fortes
-lançamentos e muitas flôres, que todas abortam, negando-se
+lançamentos e muitas flores, que todas abortam, negando-se
 assim a produzir fructo. As espoldras e espontas excessivas
 e fóra de tempo podem causar a atrophia dos fructos.
 
@@ -9286,7 +9326,7 @@ logo pela manhã directamente os raios solares.
 
 Os nevoeiros aqui sobrevéem na primavera, na epocha da
 florescencia da vinha; prejudicam gravemente a fecundação
-das flôres, pelo que muitas abortam, transformando-se em gavinhas
+das flores, pelo que muitas abortam, transformando-se em gavinhas
 ou produzindo cachos muito desguarnecidos de bagos.
 
 Por isso na plantação dos vinhedos se deverão evitar os
@@ -9325,7 +9365,7 @@ O oidium é hoje bem conhecido, e bem conhecido é tambem
 o meio de o debellar. O seu ataque manifesta-se pelo
 apparecimento de manchas alvacentas sobre as folhas e partes
 verdes da planta; tornam-se escuras e como revestidas
-de lanugem, exhalando cheiro a bolor; as folhas crispam-se e
+de lanugem, exhalando cheiro a bolôr; as folhas crispam-se e
 perdem a côr. Os fructos cobertos d'aquellas manchas atrophiam-se,
 fendem-se e seccam.
 
@@ -9377,7 +9417,7 @@ são de grande monta.
 Ácerca d'este assumpto nada poderemos dizer, de conhecimento
 ou experiencia propria, porque ainda não tivemos
 occasião de observar vinhas doentes. Convidados no anno de
-1871 para ver os terriveis estragos produzidos pelo phylloxera,
+1871 para vêr os terriveis estragos produzidos pelo phylloxera,
 n'uma vinha do snr. arcediago Nunes de Vasconcellos,
 no districto de Vizeu, vimos algumas cepas moribundas, com
 as folhas amarellas e arredondadas, e fraquissimos lançamentos
@@ -9405,7 +9445,7 @@ Não podemos duvidar da existencia do phylloxera, mas
 estamos intimamente convencidos que em Portugal se tem
 attribuido ao novo flagello alguns estragos devidos a outras
 causas, sendo talvez a principal o esgotamento dos terrenos,
-occasionado por uma longa cultura, sem que jamais se cuidasse
+occasionado por uma longa cultura, sem que jámais se cuidasse
 de restituir-lhes as substancias que annualmente as colheitas
 lhes roubam.
 
@@ -9503,6 +9543,8 @@ satisfactorio.
 
 A OLIVEIRA
 
+-
+
 A oliveira, olea europaea, é a arvore caracteristica das regiões
 meridionaes da Europa; Portugal está nas condições mais
 favoraveis para a sua cultura. Exceptuando as cumiadas das
@@ -9556,11 +9598,11 @@ são:
 1.ª Negraes maduraes ou gallegas - Arvore de mediano
 porte, folha comprida e basta, muito productiva, azeitona pequena,
 de côr verde negra; funde muito em azeite; é de maturação
-tardía.
+tardia.
 
 2.ª Verdeaes - Arvore de grande porte, azeitona verdoenga,
 de pé comprido, mais graúda que a antecedente; dá excellente
-azeite, e resiste bem ao frio; maturação tardía.
+azeite, e resiste bem ao frio; maturação tardia.
 
 3.ª Cordovis ou cordovezes - Arvore grande, folha mediana,
 fructo carnudo, grande e arredondado; não chega a
@@ -9677,7 +9719,7 @@ já oliveirinhas muito bellas para serem transplantadas.
 
 Estacas - O systema de reproducção por estacas é o mais
 geral, e por assim dizer é o unico usado. As arvores formam-se
-muito mais rapidamente o fructificam-se mais cêdo, mas a
+muito mais rapidamente o fructificam-se mais cedo, mas a
 sua duração é menor e são mais sujeitas a enfermidades e
 accidentes.
 
@@ -9706,7 +9748,7 @@ comprimento, provenientes de pernadas de 4 a 5 annos de
 idade; depois de limpas plantam-se em covas largas e profundas,
 calcando-se-lhe bem a terra em volta. A parte que
 fica fóra da terra deve ser resguardada com mattos, palhas,
-ou folhagens, e amontoa-se-lhe terra em volta do tronco. As
+ou folhagens, e amontôa-se-lhe terra em volta do tronco. As
 tanxoeiras teem a vantagem de formarem rapidamente arvores
 de boa estatura, mas sendo o tronco todo formado pela
 estaca velha deteriora-se em pouco tempo.
@@ -9729,7 +9771,7 @@ a copa da arvore.
 As arvores já muito crescidas e os zambujeiros que nascem
 expontaneos, enxertam-se sobre pernadas já bastante grossas,
 applicam-se ordinariamente dous garfos a cada uma, melhor
-é enxertal-as de coroa.
+é enxertal-as de corôa.
 
 Podas de formação - O abandono em que geralmente se
 deixa a formação da oliveira, na idade nova, dá em resultado
@@ -9790,7 +9832,7 @@ Conservam-se a altura conveniente quatro pernadas dispostas
 em cruz, todas as mais ramificações são supprimidas,
 corta-se o tronco principal logo acima d'aquelles quatro braços,
 estes no anno seguinte desenvolvem-se em comprimento
-egrossura, produzem muitos raminhos lateraes; no inverno seguinte
+e grossura, produzem muitos raminhos lateraes; no inverno seguinte
 corta-se-lhe a ponta, junto d'um dos rebentos, que se
 apresente mais robusto e n'uma posição um pouco mais levantada,
 como se vê da fig. 81, (ramo a) é este raminho que
@@ -9832,11 +9874,11 @@ PODA DE FRUCTIFICAÇÃO
 
 É sabido que os ramos da oliveira muito viçosos e aprumados
 nunca produzem fructo; os mais fracos e tortuosos, no
-segundo anno cobrem-se de cachos de flôres. Estes raminhos
+segundo anno cobrem-se de cachos de flores. Estes raminhos
 além dos botões fructiferos que trazem, tambem apresentam
 algumas gemmas folheares, que produzem novos ramos, que
 ao segundo anno fructificam como os primeiros. Se as estações
-correm prosperas a maior parte das flôres produzem fructo
+correm prosperas a maior parte das flores produzem fructo
 em quantidade exagerada que a arvore não póde alimentar
 convenientemente, por isso em grande parte se perde antes
 de maduro, causando um grande exgotamento na arvore,
@@ -9857,7 +9899,7 @@ quantidade de ramos fructiferos mais que sufficiente para a
 producção que rasoavelmente se lhe deve exigir, geralmente
 a defficiencia de fructos não provém da falta de ramos fructiferos,
 provém do excesso e abundancia d'elles que dá lugar
-á producção de uma quantidade enorme de flôres das quaes
+á producção de uma quantidade enorme de flores das quaes
 poucas chegam a vingar, por isso não só convém supprimir
 rigorosamente todos os ramos estereis, mas tambem alguns dos
 fructiferos que se acharem mal collocados e difficultem a livre
@@ -9929,7 +9971,7 @@ se póde contar com um resultado seguro do tractamento
 empregado.
 
 A enfermidade que no nosso paiz causa maiores damnos,
-é o aborto das flôres, originado pelos nevoeiros e chuvas torrenciaes
+é o aborto das flores, originado pelos nevoeiros e chuvas torrenciaes
 da primavera, é evidente que o unico meio de nos
 precavermos contra esta calamidade, é evitar as localidades
 muito expostas áquelles accidentes.
@@ -9955,13 +9997,13 @@ Agua . . . 18 litros.
 
 Alcatrão . . . 1/2 »
 
-Flôr d'enxofre . . . 500 grammas.
+Flor d'enxofre . . . 500 grammas.
 
 Sabão de potassa . . . 2 kilogrammas.
 
 Tudo isto bem misturado, aplica-se sobre os ramos atacados.
 
-A tinha, é uma larva que ataca as folhas, flôres e fructos
+A tinha é uma larva que ataca as folhas, flores e fructos
 da oliveira; depois de correr e destruir os tecidos vegetaes
 em que se introduz, sáe para fora, passa ao estado de crysalida
 para mais tarde se transformar em borboleta; n'este estado
@@ -9975,9 +10017,9 @@ crysalidas não possam ali alojar-se.
 248
 
 O psylo (psyllus oleae) é tambem uma larva que se aloja
-ordinariamente na axilla das folhas e no peciolo das flôres: produz
+ordinariamente na axilla das folhas e no peciolo das flores: produz
 ali uma especie de lanugem branca, humida e gommosa
-que exhaure toda a seiva das folhas ou flôres onde se aloja
+que exhaure toda a seiva das folhas ou flores onde se aloja
 e causa grandes prejuizos; não se conhece meio efficaz de
 combater esta praga.
 
@@ -10016,7 +10058,7 @@ inconvenientes e causa enormes perdas, mas a colheita á
 mão, além de ser muito despendiosa, não é practicavel em
 grandes olivaes; nem mesmo dá melhor resultado do que o
 varejamento quando é feito com prudencia e cautela. As longas
-varas de castanho devem ser absolutamente prohididas,
+varas de castanho devem ser absolutamente prohibidas,
 assim como a fustigação dos ramos do lado de fóra para dentro,
 o varejamento acceitavel faz-se com cannas ou pequenas
 varas, subindo-se ao interior da arvore e varejando de dentro
@@ -10035,7 +10077,11 @@ este limite o azeite sai menos fino e sujeito a estragar-se, e
 ha uma grande perda na azeitona que vai para o chão onde
 apodrece ou é comida pelas aves.
 
+-
+
 LARANJEIRA
+
+-
 
 A interessante familia das aurantiaceas, comprehende diversos
 generos, muitas especies e variedades em cuja classificação
@@ -10056,7 +10102,7 @@ oriundas d'uma especie unica a cidreira (citrus medica).
 Outros ao contrario querem que cada uma d'estas arvores
 constitua uma especie separada, assignalando-lhe origem differente.
 Risso conta dez especies do genero citrus, o sr. Edmond
-Goaeze enumera quatorze, comprehendendo grande numero
+Goeze enumera quatorze, comprehendendo grande numero
 de variedades.
 
 A razão dos desacordos e confuzões provém de não ter a
@@ -10106,13 +10152,13 @@ destinguir como especies culturaes.
 
 (Citrus vulgaris, Risso). Citrus bigaradia, Duham.
 
-Folhas verde-escuras, largas, de peciolos alados, flôr pallida
+Folhas verde-escuras, largas, de peciolos alados, flor pallida
 abundante, d'aroma suavissimo e muito forte, fructo espherico
 de côr amarella avermelhada, sabor muito acido; não
 é comivel, mas emprega-se em muitos uzos economicos e
 medicinaes. Arvore muito rustica, reziste ao frio e a todas as
 enfermidades. Cultiva-se em ponto grande no littoral do Mediterraneo,
-principalmente pelas suas flôres, que dão abundante
+principalmente pelas suas flores, que dão abundante
 e finissima essencia; constituem a base d'um commercio importante,
 e tambem pelos fructos que se empregam na preparação
 de xaropes e bebidas refrigerantes.
@@ -10163,7 +10209,7 @@ delicioso e aroma gratissimo; floresce e fructifica muito temporã.
 
 253
 
-O snr. Edmond Geze cita uma variedade d'esta especie que
+O snr. Edmond Goeze cita uma variedade d'esta especie que
 parece ser mais robusta e resistir aos frios, denominada Mandarina,
 ainda não tivemos occasião de a observar.
 
@@ -10172,7 +10218,7 @@ ainda não tivemos occasião de a observar.
 (Citrus limoneum, Risso).
 
 Arvore bem conhecida; diz-se que foi introduzida em Portugal
-pelos Mouros, a sua cultura tem tomado ultimamenta
+pelos Mouros, a sua cultura tem tomado ultimamente
 bastante incremento por serem os seus fructos muito procurados
 para exportação.
 
@@ -10285,7 +10331,7 @@ que se houvesse de se recorrer ás estacas.
 Queixam-se muitos practicos de que a semente da laranjeira
 germina com grande difficuldade, e perde-se quasi sempre; isto
 succede quando no preparo da semente e na practica da sementeira
-se não tomam as precauções necessarias, O processo
+se não tomam as precauções necessarias. O processo
 que temos adoptado, sempre com excellente resultado, é o seguinte:
 colhem-se as laranjas maduras, expõem-se por alguns
 dias ao tempo, até que principiam a apresentar um principio de
@@ -10355,14 +10401,14 @@ A enxertia de encosto dá na laranjeira magnificos resultados,
 o enxerto desenvolve-se com muita rapidez e adianta a
 arvore pelo menos um anno; sempre que se possa pôr em
 practica é de grande conveniencia adoptal-o, mas infelizmente
-na grande cultura é quasi inexequivel, seria difficillimo obter
+na grande cultura é quasi inexequivel, seria difficilimo obter
 os enxertos na quantidade necessaria, e mais difficil ainda collocal-os
 e fixal-os de modo conveniente.
 
 ESTACAS
 
 A laranjeira proveniente da estaca desenvolve-se e fructifica
-muito mais cêdo, em quanto a laranjeira proveniente de
+muito mais cedo, em quanto a laranjeira proveniente de
 pevide só do 8.º ou 9.º anno começa a fructificar; as que provém
 de estaca já pódem dar fructo ao 5.º anno, mas nunca chegam
 a fazer-se arvores de grande porte, são muito mais sujeitas
@@ -10407,7 +10453,7 @@ A multiplicação da laranjeira por alporque é muito usual
 e muito vantajosa: por este systema se obtem logo, rapidamente,
 sem necessidade d'enxertos, arvores da especie ou
 variedade que se pretende. Escolhe-se na arvore que tem de
-fornecer os alporques os ramos mais apropriados aquelle fim,
+fornecer os alporques os ramos mais apropriados áquelle fim,
 no ponto que parecer mais apropriado ata-se-lhe um arame em
 volta, que fique muito apertado, applica-se-lhe um cortiço cheio
 de terra silico-humosa, que se deverá conservar sempre fresca,
@@ -10532,7 +10578,7 @@ Alcatrão . . . 1/2 »
 
 Flôr d'enxofre . . . 500 gram.
 
-Sabão de potassa . . . 3 kilos
+Sabão de potassa . . . 3 kilos.
 
 Tudo bem misturado, applica-se sobre os ramos affectados.
 
@@ -10675,7 +10721,7 @@ necessita na quantidade desejada.
 O limoeiro propaga-se do mesmo modo que a laranjeira:
 exige exposição quente e abrigada e regas frequentes. A sua
 fructificação é successiva e dura por muitos mezes no anno;
-dá um numero prodigioso de fructos. Não é raro verem-se
+dá um numero prodigioso de fructos. Não é raro vêrem-se
 pequenas arvores que produzem 4 e 5 mil limões! Por isso
 a sua cultura é d'um elevadissimo rendimento.
 
@@ -10712,7 +10758,11 @@ com extrema facilidade.
 e tractamento é a mesma que indicamos para as mais especies
 do mesmo genero.
 
+-
+
 ROMEIRA
+
+-
 
 Esta arvore (punica granatum) é natural da Africa. É conhecida
 e cultivada na Europa desde épocas muito remotas;
@@ -10722,7 +10772,7 @@ temperado quente.
 Vive e prospera optimamente em Portugal, mas os fructos
 que produz nas regiões do sul são incomparavelmente mais
 preciosos do que os do norte. As romãas produzidas no Algarve
-são de um tamanho admiravel e sabor delicioso, por
+são de um tamanho admiravel e sabôr delicioso, por
 isso são procuradas para os mercados de Lisboa e do estrangeiro.
 
 São conhecidas duas variedades, a romãa commum e a
@@ -10750,7 +10800,7 @@ de lançamentos.
 
 267
 
-Se as arvores são destinadas a formar cercas ou sebes
+Se as arvores são destinadas a formar cêrcas ou sebes
 vivas não se lhes toca nos ramos; se são destinadas a serem
 plantadas isoladamente, deverão quebrar-se alguns, deixando
 sómente intacto o mais forte e mais aprumado. Ao segundo
@@ -10771,7 +10821,11 @@ motivos se fendem e despedaçam na arvore. Evita-se este
 mal regando a arvore e recolhendo os fructos para dentro
 d'ella, collocando-os á sobra da folhagem.
 
+-
+
 MACIEIRA
+
+-
 
 A macieira (malus communis) dá-se perfeitamente em
 Portugal, mas prefere os climas onde o ceu fôr menos limpido
@@ -10797,16 +10851,16 @@ que conhecemos e que nos parecem mais recommendaveis.
 Na cultura da macieira temos de assentar e deffinir previamente
 quaes os fins que se pretendem, para assim adoptarmos
 o systema de cultura mais apropriado ao conseguimento
-do resultado que se deseja. Uns querem que a arvore lhe de
+do resultado que se deseja. Uns querem que a arvore lhe dê
 fructo com a maxima rapidez possivel, obrigando-a a fructificar
-cêdo embora lhe provoquem enfermidades graves e a condemnem
+cedo embora lhe provoquem enfermidades graves e a condemnem
 a um rachitismo miseravel ou a uma vida ephemera;
 outros pretendem obter do seu pomar um rendimento
 com que possam contar por muitos annos, embora um pouco
 mais tardio: desejam que as suas arvores se desenvolvam e
 vivam com robustez e saude por largos annos sem que haja
 necessidade de andarem constantemente em cima d'ellas de
-podôa em punho.
+podóa em punho.
 
 269
 
@@ -10903,7 +10957,7 @@ Escolhida e preparada a arvore, como no caso antecedente,
 á altura conveniente, deixam-se desenvolver quatro até seis lançamentos;
 o mais alto dirige-se verticalmente, para formar o
 prolongamento do caule, e os mais, repartidos o mais regularmente
-possivel. No estio é preciso ver que se desenvolvam
+possivel. No estio é preciso vêr que se desenvolvam
 com regularidade; se algum se torna preponderante torce-se-lhe
 ou quebra-se-lhe a ponta. No anno seguinte poda-se o ramo
 central que fórma a continuação do tronco a 30 até 50 centimetros,
@@ -11021,7 +11075,7 @@ Ponderadas as vantagens e inconvenientes d'esta fórma,
 parece-nos que poderá ser adoptada com muito proveito pelos
 curiosos que n'um pequeno jardim cultivam para recreio. Na
 cultura economica parece-nos inadmissivel, porque, além de
-exigir muíto trabalho e assiduidade de tractamento, a precocidade
+exigir muito trabalho e assiduidade de tractamento, a precocidade
 na producção está muito longe de compensar as perdas
 occasionadas pela velhice prematura e pelas doenças a que
 dá logar.
@@ -11066,7 +11120,7 @@ SARÇAS
 
 Ha certas variedades de macieiras, notavelmente as designadas
 pelo nome de peros e coroados, que se dão bem com
-esta fórma, quando habitam em terreno arenoso e sêcco.
+esta fórma, quando habitam em terreno arenoso e secco.
 
 Plantam-se arvores d'um anno, decepam-se a 30 ou 40
 centimetros, escava-se um pouco em volta do tronco, cegam-se
@@ -11117,7 +11171,7 @@ sempre uma operação deploravel e de difficil execução sujeital-as
 ás fórmas acanhadas de columna, cordão ou outras analogas,
 sendo enxertadas em estacas, o seu vigor é menor,
 sujeitam-se mais facilmente áquellas fórmas, começam a fructificar
-mais cêdo, mas tambem cêdo começam a envelhecer.
+mais cedo, mas tambem cedo começam a envelhecer.
 
 A pereira reproduz-se como a macieira, mas mais geralmente
 se adopta a sua enxertia sobre marmelleiro, especialmente
@@ -11145,10 +11199,10 @@ com certa regularidade.
 
 Os ramos fructiferos levam tres a quatro annos a formar-se,
 só ao quarto anno produzem fructos, se em algumas
-circumstancias produzem mais cêdo, é isto signal de doença ou
+circumstancias produzem mais cedo, é isto signal de doença ou
 de debilidade da arvore. São formados pela evolução d'uma
 gemma folhear, que produz um raminho fraco. Se este raminho
-fôr muito fórte, não dará fructo expontaneamente, haverá
+for muito fórte, não dará fructo expontaneamente, haverá
 então necessidade de se recorrer a alguns artificios para obrigal-o
 a fructificar.
 
@@ -11177,7 +11231,7 @@ necessario applicar-lhes para isso tractamento algum.
 Geralmente os ramos de esqueleto de uma macieira ou
 pereira nova apresentam-se guarnecidos de ramos de diversas
 especies: 1.º raminhos curtos e grossos, muito rugosos;
-véem a fructificar naturalmente sem necessidade de poda.
+vêem a fructificar naturalmente sem necessidade de poda.
 2.º ramos doudos compridos, apresentando os olhos distanciados;
 estes, para darem boa e certa fructificação, necessitam
 ser mutilados e debilitados; para isso, no estio, torce-se-lhe
@@ -11548,7 +11602,7 @@ de cultura e as torturas de poda que tem soffrido.
 
 As que desde a infancia soffreram pódas e amputações rigorosas
 de maneira a impedir-lhes o natural desenvolvimento
-e contel-as n'uma estatura e forma acanhada, envelhecem cêdo;
+e contel-as n'uma estatura e fórma acanhada, envelhecem cedo;
 a casca enruga-se e o tronco apresenta fendas e protuberancias,
 e cobre-se de feridas. N'este caso a maneira de se
 salvar a arvore é applicar-lhe algumas incisões longitudinaes no
@@ -11576,7 +11630,7 @@ enxertal-os, implantando-lhe dous ou tres garfos em
 corôa a cada pernada. As arvores educadas em forma de pyramide,
 serão decepadas de um terço até metade da sua altura,
 os ramos lateraes serão tambem decotados na mesma
-porporção, observando-se comtudo que os superiores deverão
+proporção, observando-se comtudo que os superiores deverão
 ser cortados proporcionalmente mais curtos do que os
 inferiores, de modo a conservar á arvore a sua fórma conica,
 mas de base mais larga proporcionalmente á altura.
@@ -11618,7 +11672,7 @@ pouco a pressão exercida pela casca sobre as camadas geradoras,
 dando-lhe algumas incisões longitivaes e em seguida
 caiar os troncos.
 
-É sabido que a côr branca reflete os raios solares, por
+É sabido que a côr branca reflecte os raios solares, por
 isso não só n'este caso, mas em muitos outros é convenientissimo
 caiar o tronco das arvores, especialmente nos climas
 quentes e seccos, por este modo o calor incide com menos
@@ -11643,14 +11697,14 @@ de oito em oito dias, até que a arvore se restabeleça; ao mesmo
 tempo é muito conveniente aspergir tambem as folhas com aquella
 dissolução; em breve reverdecem e se apresentam vigorosas.
 Se este tractamento tem de ser aplicado no principio da primavera,
-quando as folhas e rebentos estão ainda muitos tenros,
+quando as folhas e rebentos estão ainda muito tenros,
 convirá que aquella solução seja mais diluida; n'este caso
 emprega-se sómente uma gramma de sulfato de ferro por cada
 litro d'agua.
 
 Succede que as pereiras enxertadas sobre marmelleiro, vivendo
-em terreno sêcco e de pouca fertilidade, começam a fructificar
-muito cêdo, dão grande quantidade de fructos, mas em
+em terreno secco e de pouca fertilidade, começam a fructificar
+muito cedo, dão grande quantidade de fructos, mas em
 breve apresentam signaes de empobrecimento e velhice antecipada.
 Para se prevenir este inconveniente convém dispôr as
 cousas de modo que a arvore possa viver de raizes proprias,
@@ -11693,7 +11747,11 @@ novas; o meio de combatel-o é empregar as lavagens
 com decocto de tabaco, ou aplicação do petroleo levemente
 com um pincel.
 
+-
+
 CULTURA DO MARMELLEIRO
+
+-
 
 O marmelleiro é conhecido e cultivado na Europa desde
 tempos immemoraveis: os gregos tributavam a esta arvore
@@ -11738,7 +11796,7 @@ com grande facilidade.
 As estacas podem ser varas de qualquer edade e grossura,
 mas convém empregal-as de um a tres centimetros de
 diametro, e de 25 a 30 centimetros de comprimento, plantam-se
-a 50 centimetros de distancia, se o estio corre sêcco
+a 50 centimetros de distancia, se o estio corre secco
 dão-se-lhes algumas regas.
 
 O marmelleiro póde acceitar qualquer das fórmas que indicamos
@@ -11767,7 +11825,11 @@ seu crescimento e obrigando-os a produzir novos raminhos
 lateraes; d'estes ramos lateraes conservam-se os que estiverem
 bem situados.
 
+-
+
 CULTURA DA FIGUEIRA
+
+-
 
 A figueira (ficus carica) vegeta e fructifica em todos os
 climas temperados, mas é nas regiões meridionaes da Europa
@@ -11779,7 +11841,7 @@ Algarve, alimentando um commercio importantissimo. A exportação
 do figo é representada annualmente por uma verba
 proxima a trezentos contos de reis e a sua producção orça
 em media annual por 13 milhões de kilogrammas, isto depois
-de sêcco e preparado.
+de secco e preparado.
 
 VARIEDADES
 
@@ -11898,7 +11960,7 @@ Em segundo logar, observa-se n'aquellas variedades que
 produzem duas camadas, que logo que a arvore começa a abrolhar,
 vão nascendo as folhas, e na axilla d'ellas se vae tambem
 desenvolvendo um gomo, sobre o qual se veem então os figos
-lampos em estado embryonario. A maneira que a estação se
+lampos em estado embryonario. Á maneira que a estação se
 vae adiantando vão os gomos crescendo e aquelles figos desenvolvem-se
 até que em junho ou julho chegam á maturação.
 A esse tempo na axilla d'outras folhas se observam já pequeninos
@@ -11940,7 +12002,7 @@ sem necessidade de preparação alguma; as arvoresinhas
 ao segundo anno attingem uma altura de 50 a 70 centimetros
 e ao terceiro anno poderiam ser enxertadas. Por este
 modo se poderiam obter arvores certamente mais robustas e
-mais vivedouras do que as que proveem da estaca. É certo
+mais vivedouras do que as que proveem da estaca. E' certo
 que este processo é mais moroso, mas se os proprietarios
 estivessem d'ante-mão prevenidos com um pequeno viveiro
 de figueiras, poderiam, quando tivessem de fazer plantações,
@@ -11957,7 +12019,7 @@ predicados necessarios para que se possa esperar que as arvores
 adquiram grande corpulencia; convém que estas distancias
 sejam grandes, de modo que as suas raizes não cheguem a
 encontrar-se no solo. Se o terreno é fraqueiro, pouco profundo
-e sêcco, as distancias deverão ser muito menores, porque
+e secco, as distancias deverão ser muito menores, porque
 n'este caso não se póde esperar que as arvores venham a
 adquirir grandes dimensões.
 
@@ -11982,7 +12044,7 @@ e limpo.
 
 A época da plantação é desde o principio de fevereiro até
 abril, conforme a natureza dos terrenos; nos solos altos, seccos
-e aridos deve fazer-se a plantação mais cêdo e nas terras
+e aridos deve fazer-se a plantação mais cedo e nas terras
 baixas e humidas reserva-se para mais tarde.
 
 A estaca que ordinariamente se emprega é um gomo nascido
@@ -12001,7 +12063,7 @@ A estaca é unhada no centro da cova e fica toda enterrada,
 ficando apenas a ponta de fóra, na altura de 4 a 5 centimetros.
 
 No principio do estio os olhos que ficaram fóra da terra
-rebentam; se o tempo corre excessivamente sêcco é conveniente
+rebentam; se o tempo corre excessivamente secco é conveniente
 applicar-lhe algumas regas.
 
 O terreno todo deverá ser sachado todos os mezes, não só
@@ -12078,7 +12140,7 @@ Tambem no Algarve é ella desnecessaria, porque aqui
 obtem-se o mesmo resultado da caprificação natural que se
 opera do seguinte modo:
 
-É conhecida e muito vulgar a variedade de figueiras chamadas
+E' conhecida e muito vulgar a variedade de figueiras chamadas
 de toque: produzem figos pequenos rugosos que nunca
 chegam a amadurecer; ha um pequeno insecto que persegue
 esta casta, perfurando o figo no olho e depositando no
@@ -12087,7 +12149,7 @@ do estio desenvolvem-se e do interior do figo sahe então
 um enxame de insectos que se expande pelo figueiral e vae
 perfurar os olhos aos figos que encontra, isto justamente na
 epocha que convém ao seu rapido desenvolvimento e maturação.
-É pois este insecto que se encarrega de realisar uma
+E' pois este insecto que se encarrega de realisar uma
 operação tão util e que se fosse operada por mão de homem
 daria immenso trabalho. Ha muitas variedades que não sendo
 caprificadas nunca dão fructo que preste.
@@ -12193,6 +12255,8 @@ para distillar ou para alimentação dos porcos.
 
 AMENDOEIRA
 
+-
+
 A amendoeira (amygdalus communis) é originaria da Asia
 e das regiões temperadas quentes do norte d'Africa.
 
@@ -12263,7 +12327,7 @@ d'aquella estação a prejudicam gravemente.
 O Algarve é uma das zonas mais favoraveis á sua cultura;
 aqui raras vezes a sua fructificação é compromettida porque
 as geadas são raras e a temperatura hybernal é bastante elevada.
-É certo que a amendoeira acompanha a vinha e a oliveira
+E' certo que a amendoeira acompanha a vinha e a oliveira
 em toda a parte onde estas culturas prosperam, mas a
 sua fructificação é muito contingente em todos os pontos onde
 possa haver fundados receios de geados.
@@ -12309,7 +12373,7 @@ por elles. Enterram-se a 10 centimetros de profundidade,
 em linhas espaçadas a 80 centimetros, devendo ficar cada semente
 a 40 centimetros de distancia na direcção das linhas.
 Depois das arvoresinhas nascidas, convem sachal-as repetidas
-vezes; se o estio corre sêcco convem dar-lhes algumas regas.
+vezes; se o estio corre secco convem dar-lhes algumas regas.
 No inverno do anno seguinte observam-se todas as arvores:
 aquellas que tiverem lançado ramos lateraes muito vigorosos
 e apresentarem o caule tortuoso e irregular devem ser dirigidas
@@ -12431,14 +12495,14 @@ para se evitar quanto possivel a intermittencia de producção.
 [8] Lemos agora n'um livro que tracta d'arboricultura, escripto pelo
 sabio jurisconsulto o ex.mo snr. dr. Camillo Aureliano da Silva Souza -
 que a natureza do clima nenhuma influencia tem sobre a natureza da
-poda e fórma das arvores; pretende s. ex. abonar esta asserção com
+poda e fórma das arvores; pretende s. ex.ª abonar esta asserção com
 uma citação de Dubreuil, que a respeito dos climas meridionaes diz:
 
 «A distribuição das arvores será a mesma com pequena differença;
 aqui todas as especies d'arvores fructiferas preferem a posição pleno
 ar á de espaldeira, em consequencia do excesso de calor a que ficam
 expostas encostadas a muros; estes não são aqui necessarios senão para
-vedações, e poderão suprimir-seos muros interiores indispensaveis nos
+vedações, e poderão suprimir-se os muros interiores indispensaveis nos
 climas frios.»
 
 Não nos parece que estas palavras traduzam a ideia que o illustre
@@ -12473,13 +12537,13 @@ grandeza á fórma e á poda que se applica a um arbusto?
 
 O curioso, para quem a arboricultura é apenas um divertimento,
 póde entreter-se, applicando ás suas arvores podas e fórmas caprichosas,
-que teem a vantagem de lhe proporcionar muito cêdo o goso d'alguns
+que teem a vantagem de lhe proporcionar muito cedo o goso d'alguns
 fructos formosos; mas o arboricultor, para quem a colheita de
 fructos é um negocio e um meio de vida, pretende obter do seu capital
 e do seu trabalho o maximo producto liquido; para isto convem-lhe
 não contrariar, mas sim dirigir em seu proveito as tendencias naturaes
 da arvore, se ella tende a crescer e medrar melhor; seria grave
-erro, para obter alguns fructos mais cêdo, amesquinhal-a e mutilal-a
+erro, para obter alguns fructos mais cedo, amesquinhal-a e mutilal-a
 constantemente.
 
 305
@@ -12514,19 +12578,23 @@ seu abrigo para levarem a destruição aos novos raminhos. O
 remedio para esta praga é limpar perfeitamente a arvore no
 inverno e destruir todos aquelles ninhos.
 
+-
+
 PECEGUEIRO
+
+-
 
 O pecegueiro (amygdalus persica) com quanto não tenha
 entre nós a importancia economica que tem a amendoeira,
 sua congenere, por não se haver estabelecido e organisado um
 commercio notavel do seu fructo para o estrangeiro, pois apenas
 de Lisboa se exporta, em pequena quantidade, preparado
-em doce sêcco ou em calda; poderia a sua cultura desenvolver-se
+em doce secco ou em calda; poderia a sua cultura desenvolver-se
 muito e produzir avultadissimos lucros, se o commercio
 fosse um pouco mais sollicito em procurar mercados aos
 productos que lhe podiam dar ganho.
 
-Não ha paiz mais propicio a cultura do pecegueiro que
+Não ha paiz mais propicio á cultura do pecegueiro que
 o nosso; com pouco trabalho poderiamos obter fructos formosissimos,
 que facilmente se poderiam apresentar em Inglaterra
 e em outros mercados, onde se poderiam vender por preços
@@ -12591,7 +12659,7 @@ Pavie monstrueux. - Fructo de grande volume, pôlpa firme
 adherente ao caroço, casta magnifica, serodio. - 2.º grupo.
 
 Perseque. - Fructo semilhante ao antecedente, um pouco
-menos volumoso, amadurece mais cêdo. - 2.º grupo.
+menos volumoso, amadurece mais cedo. - 2.º grupo.
 
 Belle Beauce. - Arvore vigorosa, muito productiva, fructo
 volumoso, magnifico, pôlpa fina e summarenta; larga o caroço.
@@ -12626,11 +12694,11 @@ lado do sol, pôlpa fina, muitissimo saborosa. - 1.º grupo.
 TERRENO
 
 O pecegueiro exige um solo silico-argiloso, profundo, bem
-composto, não muito compacto e bem premeavel. Nos terrenos
+composto, não muito compacto e bem permeavel. Nos terrenos
 frios e compactos a sua vegetação é vigorosa, mas os
 fructos desmerecem em qualidade; nos terrenos excessivamente
 soltos e arenosos desenvolve-se pouco, os fructos não
-adquirem grande volume e muitas vezes se o estio corre sêcco
+adquirem grande volume e muitas vezes se o estio corre secco
 cahem antes de maduros. A humidade excessiva no solo
 prejudica-o gravemente; as regas frequentes e abundantes
 tambem podem ser-lhe funestas.
@@ -12676,7 +12744,7 @@ regras muito complicadas; aconselham podas muito minuciosas
 e enfadonhas, muito uteis e até indispensaveis para
 que esta arvore prospere nos climas mais frios que o nosso.
 Em Portugal não ha necessidade de tantos cuidados para que
-ella de magnificos fructos.
+ella dê magnificos fructos.
 
 Para bem dirigirmos as fórmas e a poda do pecegueiro,
 devemos ter muito em consideração as suas tendencias naturaes
@@ -12693,10 +12761,10 @@ da sua extensão. Em segundo logar deveremos tambem ter
 em vista que n'esta arvore os ramos que uma vez fructificaram
 ou deram flôr nunca mais a tornam a dar, por isso pela
 maior parte devem ser supprimidos. A seiva do pecegueiro
-entra n'uma circulação activissima muito cêdo; logo que o inverno
+entra n'uma circulação activissima muito cedo; logo que o inverno
 abranda os seus rigores, os gomos folheares ou fructiferos
 começam a desenvolver-se e a arvore entra em actividade
-seivosa muito cêdo.
+seivosa muito cedo.
 
 311
 
@@ -12841,7 +12909,7 @@ h; os lateraes a e b cada um poderá produzir tres ramos como
 se vê da fig. 88.
 
 Ao terceiro anno está a arvore armada com dez ramos de
-esquelelo; d'ahi por diante tracta-se apenas da sua conservação;
+esqueleto; d'ahi por diante tracta-se apenas da sua conservação;
 todos estes ramos se deverão achar guarnecidos de fiadores
 em toda a sua extensão.
 
@@ -12883,7 +12951,7 @@ do modo que c c fique a 30 centimetros, pouco mais ou
 menos, d'altura sobre o ramo a.
 
 Na primavera do anno seguinte estes tres ramos devem
-ser podados n'um comprimento proporcional a força que tiverem;
+ser podados n'um comprimento proporcional á força que tiverem;
 vão-se abaixando gradualmente, até que no fim de
 dous ou tres annos chegam á inclinação representada em a
 b c c, que é proximamente de 15 graus; junto ao ponto em que
@@ -12919,7 +12987,7 @@ como se vê da mesma fig. nos pontos b e b', desenvolvem-se
 dous rebentos, que se inclinam tambem para o interior;
 os ramos superiores formam-se pelo mesmo modo; quanto aos
 ramos inferiores c, d, e, escolhem-se nos pontos convenientes
-os ramos fructiferos que convier applicar aquelle fim, os
+os ramos fructiferos que convier applicar áquelle fim, os
 quaes se transformam facilmente em ramos lenhosos para formarem
 aquella parte do esqueleto; para isto podam-se junto
 de uma gemma folhear, bem distincta, e favorece-se a sua
@@ -12962,7 +13030,7 @@ por longo tempo os ramos fructiferos; n'estas de que agora
 tractamos o nosso fim é conseguir annualmente a producção de
 raminhos novos, pouco vigorosos e que possam fructificar, situados
 em posição que não se afrontem mutuamente, e que
-possam bem nutrir os fructos que produzem. Vamos ver como
+possam bem nutrir os fructos que produzem. Vamos vêr como
 se póde chegar a este resultado.
 
 Os ramos novos do pecegueiro apresentam-se guarnecidos
@@ -12985,10 +13053,10 @@ um pouco á sua altura.
 
 No inverno seguinte os raminhos que assim foram tractados
 apresentam-se ordinariamente guarnecidos de botões floriferos;
-apenas junto a base apresentam dous ou tres olhos folheares;
+apenas junto á base apresentam dous ou tres olhos folheares;
 os que não foram expontados, ou foram muito favorecidos
 pela seiva, ás vezes só apresentam botões floriferos
-do meio para cima; masse a exponta em verde foi bem feita
+do meio para cima; mas se a exponta em verde foi bem feita
 o ramo apresenta a apparencia que se vê da fig. 91; poda-se
 mais ou menos rigorosamente, segundo o seu vigor: aos mais
 fortes deixam-se oito ou nove botões; aos mais fracos apenas
@@ -13019,7 +13087,7 @@ a (fig. 91), deixando-lhe apenas na base um ramo folhear e o
 ramalhete de maio, se o tiver. Este novo ramo tem de soffrer
 exactamente o tractamento já indicado; em junho já elle deverá
 ter sido expontado, e no inverno poda-se a seis ou oito
-olhos. Na primavera seguinte desabrocha as flôres e desenvolve
+olhos. Na primavera seguinte desabrocha as flores e desenvolve
 um ou mais ramos folheares na base e talvez alguns
 ramalhetes. Nos annos seguintes prosegue-se no tractamento
 de egual modo.
@@ -13039,7 +13107,11 @@ Quando em logar d'estes lançamentos apparecem raminhos
 curtos e grossos, não se lhes toca, deverão produzir ramalhetes
 que fructificam por si.
 
+-
+
 DAMASQUEIRO
+
+-
 
 O damasqueiro (Armeniaca vulgaris) prospera admiravelmente
 em Portugal, especialmente nas provincias do sul; no
@@ -13076,7 +13148,7 @@ se pretende, mas porque concorre sempre á melhoria dos fructos.
 
 Tambem se enxerta o damasqueiro, com vantagem, sobre
 a ameixieira e sobre a amendoeira; nos terrenos e climas
-expostos a secoas muito prolongadas, é conveniente adoptar
+expostos a seccas muito prolongadas, é conveniente adoptar
 a enxertia sobre amendoeira, que resiste melhor a esta calamidade.
 
 324
@@ -13114,12 +13186,16 @@ que se obtém com grande facilidade, decepando-se o tronco
 junto do solo e aproveitando-se um dos rebentos que nascem
 sobre o collo da raiz.
 
+-
+
 AMEIXIEIRA
+
+-
 
 A cultura da ameixieira (prunus domestica) tem já notavel
 importancia em Portugal, os seus fructos são muito procurados
 e obtém bom preço, não só para consummo em fresco,
-mas para exportação em sêcco, e preparados em compota.
+mas para exportação em secco, e preparados em compota.
 
 VARIEDADES
 
@@ -13170,7 +13246,7 @@ pouco desenvolvimento, mas ainda assim vive e fructifica.
 Nos climas frios, onde são frequentes as geadas da primavera,
 a sua fructificação é muito contingente, porque sendo
 a sua vegetação muito temporã, os novos rebentos e as
-flôres estão sujeitos a serem destruidos, por isso não póde ser
+flores estão sujeitos a serem destruidos, por isso não póde ser
 cultivada com proveito senão na região da vinha, mais ao norte
 exige terrenos muito abrigados, ou abrigos artificiaes.
 
@@ -13220,7 +13296,11 @@ uma temperatura superior a 110 graus, isto para se evaporar
 algum excesso de humidade que ainda contenham, mas
 de modo que não fiquem torrados.
 
+-
+
 CEREJEIRA
+
+-
 
 As differentes variedades de cerejeiras que se conhecem
 derivam das duas especies botanicas p. cerasus e p. avium;
@@ -13249,7 +13329,7 @@ Reine hortense (ginjeira).
 Belle choisy (ginjeira).
 
 Esta arvore exige terreno profundo, não muito argiloso,
-e exposição ao norte; nas localidades onde começam cêdo os
+e exposição ao norte; nas localidades onde começam cedo os
 calores da primavera vive mal; por isso em Portugal dá-se
 muito melhor ao norte do Tejo do que ao sul.
 
@@ -13270,7 +13350,11 @@ formar a copa naturalmente, havendo sómente o cuidado
 de se lhe cortarem os ramos seccos e os que vierem
 mal nascidos.
 
+-
+
 AVELLEIRA
+
+-
 
 A avelleira (coryllus avellana) pertence á familia das amentaceas;
 vive perfeitamente em Portugal, mas dá-se melhor
@@ -13288,7 +13372,11 @@ os caules não sejam em grande numero. Depois de formada
 a arvore, devem suprimir-se todos os annos os novidios que
 forem rebentando junto ao collo da raiz.
 
+-
+
 NOGUEIRA
+
+-
 
 A nogueira (juglans regia) é uma das arvores mais preciosas
 que se conhecem; o seu fructo tem um largo consummo,
@@ -13299,7 +13387,7 @@ na tinturaria. Na Belgica e em alguns departamentos
 de França, não ha uma casa de campo que não tenha ao menos
 uma nogueira á porta; em Portugal esta arvore está muito
 longe de gosar a consideração que merece. O nosso solo e
-clima presta-se optimamente a sua cultura; se houvesse mais
+clima presta-se optimamente á sua cultura; se houvesse mais
 alguma illustração nas povoações ruraes, certamente poderia
 a riqueza publica augmentar consideravelmente pelo incremento
 que poderia tomar a exploração d'esta valiosa arvore.
@@ -13412,7 +13500,11 @@ por isso não se lhe devem fazer grandes amputações; a sua
 educação na edade nova consiste em formar-se-lhe o tronco
 direito e forte; depois deixa-se-lhe formar a copa naturalmente.
 
+-
+
 CASTANHEIRO
+
+-
 
 O castanheiro (fagus castanea) é uma arvore de primeira
 grandeza, indigena das regiões temperadas da Europa; pertence,
@@ -13535,7 +13627,7 @@ ao contacto do solo humido e com as chuvas ou orvalhos
 da noite. Quando os ouriços começam a abrir e caem
 os fructos, convem varejal-os moderadamente; expõem-se ao
 sol por algum tempo, para se evaporar a humidade que tiverem
-em excesso, e guardam-se em local bem sêcco e arejado.
+em excesso, e guardam-se em local bem secco e arejado.
 
 Fig. 95
 
@@ -13589,7 +13681,9 @@ fracas ou tortas, que servem para estacas ou para lenha.
 
 AZINHEIRA
 
-A azinheira (Querqus ilex) nasce e desenvolve-se espontaneamente
+-
+
+A azinheira (Quercus ilex) nasce e desenvolve-se espontaneamente
 em quasi todo o nosso paiz, especialmente nas provincias
 do sul; fórma extensos montados de grande valor, não
 só pela sua madeira, mas principalmente pelo fructo, que
@@ -13652,7 +13746,7 @@ se deve misturar uma pequena porção de cinzas, nas terras
 altas e seccas convem fazer a sementeira no fim do outono,
 lavra-se e limpa-se o terreno, abrem-se regos parallelos, ao
 arado á distancia de doze metros uns dos outros lança-se a
-semente nos regos a distancie de 60 ou 70 centimetros, que
+semente nos regos a distancia de 60 ou 70 centimetros, que
 fique á profundidade de 8 a 10 centimetros; feita a sementeira
 é preciso que haja o cuidado em que não seja destruida
 pelos porcos ou outros animaes; nascidas as arvores é necessario
@@ -13670,7 +13764,7 @@ que se apresentam mal dirigidos, perturbando o equilibrio da
 arvore e que embaraçam a entrada do ar e da luz no seu interior,
 tambem se deverão cortar os ramos muito erectos ou
 aprumados que são sempre infructiferos, mas isto de modo
-que a arvore apresente uma copa arredondada e farta. Ás
+que a arvore apresente uma copa arredondada e farta. A's
 vezes por mal entendida especulação infligem-se-lhe cortes
 barbaros e exaggerados, com o fim de se fazer mais dinheiro
 em lenha e para se desassombrar o terreno a fim de se favorecerem
@@ -13691,11 +13785,15 @@ dizer-se, encabeça-se o montado, e mette-se-lhe o numero
 de cabeças em que foi avaliado, ordinariamente por todo o
 mez de dezembro termina o engordo.
 
+-
+
 SOBREIRO
 
-O sobreiro (Querqus suber) pertence como a azinheira á
+-
+
+O sobreiro (Quercus suber) pertence como a azinheira á
 familia das amentaceas, e como todas as especies da mesma
-familia apresenta as flôres unisexuas.
+familia apresenta as flores unisexuas.
 
 Esta arvore tem hoje para Portugal uma importancia excepcional,
 o sobreiro tem fundado a fortuna de muitas familias
@@ -13804,7 +13902,7 @@ transplantação do que aquellas que já tem um certo desenvolvimento
 e se acham bem providas de raizes; por isso não
 convem transplantal-as senão quando os troncos apresentam
 na base o diametro, ao menos, de cinco centimetros. Quando
-se arrancam é necessario poupar lhes quanto possivel as raizes
+se arrancam é necessario poupar-lhes quanto possivel as raizes
 miudas; se o espigão é grande, convem cortar-lh'o. É
 tambem indispensavel extrahir-lhe a cortiça em toda a extensão
 do tronco, que fica mettida na terra. Todos estes serviços
@@ -13825,7 +13923,7 @@ as ramificações de modo que fique com certa regularidade
 e symetria.
 
 Se no primeiro anno da plantação o tempo corre excessivamente
-sêcco é indispensavel no estio beneficial-as com algumas
+secco é indispensavel no estio beneficial-as com algumas
 regas.
 
 EXPLORAÇÃO DOS MONTADOS DE SOBRO
@@ -13871,7 +13969,11 @@ morte.
 
 347
 
+-
+
 ALFARROBEIRA
+
+-
 
 A alfarrobeira (ceratonia siliqua L.) tem uma grande importancia
 para o nosso paiz; constitue uma das maiores riquezas
@@ -13899,7 +14001,7 @@ Mulata - Vagem grande, carnoza, mais escura que a antecedente,
 mais recurvada, muito dôce; tambem entra na alimentação
 humana.
 
-Galhoza - Vagem mais pequena e curta, miolo mais sêcco
+Galhoza - Vagem mais pequena e curta, miolo mais secco
 e duro.
 
 De burro - Vagem comprida, mas estreita, pouco miolo
@@ -13969,7 +14071,7 @@ em breve germina e se desenvolve.
 É sabido que as sementes que passam nos excretos de
 gado alimentado com alfarroba germinam com a maior facilidade;
 alguns practicos aconselham que para se obter semente
-util se de alfarroba aos porcos e se escolham depois nas fezes;
+util se dê alfarroba aos porcos e se escolham depois nas fezes;
 é muito mais simples usar a receita que acima indicamos.
 
 Obtida por qualquer d'estes meios a semente, a sementeira
@@ -14050,12 +14152,12 @@ regulares, poderá avaliar-se em 75 até 100 kilogrammas.
 O seu fructo tem hoje grande procura para exportação e
 tem um consummo illimitado, regulando o preço por 300 reis
 cada 15 kilogrammas. Assim, uma arvore regular rende annualmente
-1$500 a 2000 reis, podendo dizer-se que é rendimento
+1$500 a 2$000 reis, podendo dizer-se que é rendimento
 liquido, pois que não exige despeza alguma de cultura.
 
 Todos os annos vem aos portos do Algarve alguns navios
 carregar alfarrobas com destino á Inglaterra; applica-se
-principalmente a alimentação dos gados; é altamente nutritiva
+principalmente á alimentação dos gados; é altamente nutritiva
 e propria ao engordo, especialmente do gado bovino. Os
 inglezes reduzem-a a farinha, e para melhor a conservar fazem
 d'ella uns pães ou tijolos durissimos, comprimidos á machina,
@@ -14068,7 +14170,11 @@ colhe da arvore, sem preparo algum, de modo que as sementes
 que constituem a parte mais nutritiva do fructo são desperdiçadas
 e passam inteiras nas fezes dos animaes.
 
+-
+
 AMOREIRA
+
+-
 
 A amoreira pertence ao genero botanico Morus; comprehende
 differentes especies; alguns auctores enumeram seis,
@@ -14251,7 +14357,7 @@ ou muito pequena e grosseira, deverão ser enxertadas,
 applica-se-lhe a enxertia d'escudo na base do tronco, d'olho
 vivo, e corta-se o tronco a 15 centimetros d'altura; a parte
 que fica superior ao enxerto serve para atrahir a seiva para
-elle e serve-lhe tambam de tutor; quando o enxerto está bem
+elle e serve-lhe tambem de tutor; quando o enxerto está bem
 pegado e desenvolvido, corta-se o tronco logo acima d'elle,
 resguardando-se a ferida com emplastro. Os enxertos devem
 ser tomados de arvores escolhidas e que não tenham sido
@@ -14276,7 +14382,7 @@ beneficiar a terra com a acção dos agentes atmosphericos;
 devem seguir-se as indicações feitas a pag. 87 e 88. Logo em
 seguida á plantação cortam-se os troncos acima dos ramos
 que teem de formar as arrancas principaes; se queremos formar
-arvores de copa alta, o tronco deverá ter 1,50 até 1,75
+arvores de copa alta, o tronco deverá ter 1m,50 até 1m,75
 d'altura; as de copa mediana cortam-se a 1 metro; se se pretende
 crear arvores de copa baixa, o tronco ficará apenas de
 50 centimetros.
@@ -14398,7 +14504,11 @@ isto para se favorecer a parte inferior, deixando algumas
 folhas do meio para baixo e para se tornarem mais robustos
 os olhos que hão de fornecer os ramos do anno seguinte.
 
+-
+
 NESPEREIRA
+
+-
 
 A nespereira (Mespilus Germanica L.) Segundo os snrs.
 Dubreuil e P. Joigneaux, é um arbusto natural das regiões do
@@ -14453,10 +14563,14 @@ podas, toma naturalmente uma forma regular e symetrica.
 
 Só se devem colher os fructos depois de completamente
 maduros, e ainda depois d'isto convem deixal-os estar dois ou
-tres dias sobre palhas ou cobertos com la para adquirirem um
+tres dias sobre palhas ou cobertos com lã para adquirirem um
 sabor mais agradavel.
 
+-
+
 GROZELHEIRA
+
+-
 
 Este arbusto (ribes rubrum L.) cresce espontaneo nas regiões
 do centro e norte da Europa, os seus fructos são muito
@@ -14510,16 +14624,20 @@ posto isto quem quizer applicar-lhe uma cultura esmerada
 tem de dirigir-se em conformidade dos preceitos indicados para
 o pecegueiro.
 
+-
+
 FRAMBOEZEIRO
 
-Silva framboeza, ou Çarça idéa (Rubus idoeus L.) arbusto
+-
+
+Silva framboeza, ou Çarça idéa (Rubus idaeus L.) arbusto
 do mesmo genero que a silva ordinaria (R. fructicosus) que
 apparece espontanea pelos mattos e vallados em Portugal, o
 seu fructo é muito maior que as amoras ordinarias, de um aroma
 delicioso e sabor agradavel.
 
 O framboezeiro cresce espontaneo em toda a Europa, prefere
-os climas, frios nas regiões meridionaes só póde prosperar
+os climas frios nas regiões meridionaes, só póde prosperar
 nos logares elevados, onde a altitude compense a latitude
 que lhe convem, prefere terra siliciosa ainda que seja
 um tanto pedregosa, mas fresca, e de origem granitica; comtudo
@@ -14573,7 +14691,11 @@ Depois de fructificarem são cortados rentes com o solo, mas
 a esse tempo já ha novos lançamentos creados no mesmo anno
 que se sujeitam ao mesmo tractamento.
 
+-
+
 MELÃO
+
+-
 
 O meloeiro (cucumis melo L.) é uma planta annual da familia
 das cocurbitaceas, natural nas regiões tropicaes da Asia,
@@ -14759,7 +14881,11 @@ desça a um grau que não prejudique a sementeira. Sobre
 estas camas adapta-se uma cobertura qualquer, que se levanta
 quando convém.
 
+-
+
 MELANCIA
+
+-
 
 A melancieira (cucurbita citrullus) pertence como o melão
 á familia das cocurbitaceas; a sua cultura tem importancia
@@ -14824,7 +14950,11 @@ Nos climas frios para se obterem melancias de soffrivel
 qualidade é indispensavel semeal-as em camas quentes, e
 transplantal-as para sitios muito abrigados.
 
+-
+
 MORANGUEIRO
+
+-
 
 O morangueiro (fragaria L.) é uma planta vivaz, da familia
 das rozaceas, propria dos climas temperados e quentes
@@ -14912,7 +15042,7 @@ por isso é necessario renoval-as a tempo.
 Obtem-se boa semente escolhendo os melhores fructos bem
 maduros, esmagam-se com os dedos dentro d'um vazo com
 agua, separam-se os grãos da polpa, lavam-se, seccam-se á
-sombra e guardam-se em logar sêcco.
+sombra e guardam-se em logar secco.
 
 376
 
@@ -14932,7 +15062,7 @@ No mez de outubro ou novembro faz-se a plantação; póde
 ser feita em terreno exclusivamente destinado a esta cultura
 ou de permeio com algumas hortaliças; n'este caso deve-se
 dar preferencia ás que forem mais temporãs, porque sendo
-arrancadas cêdo deixam prosperar melhor o morangueiro durante
+arrancadas cedo deixam prosperar melhor o morangueiro durante
 a sua fructificação. A distancia das plantas entre si não
 deverá ser menor de 35 centimetros e mais ainda para as
 castas que tendem a deitar muitos e longos braços.
@@ -14944,14 +15074,14 @@ rega-se abundantemente. As chuvas uma vez que não sejam
 muito abundantes não dispensam as regas. Quando o morangueiro
 começa a florir é necessario dirigir as regas com cuidado
 de modo que a agua inunde bem o terreno e as raizes,
-mas não molhe as flôres; por isso o uso do regador deve ser
+mas não molhe as flores; por isso o uso do regador deve ser
 banido, dirige-se a agua por pequenas regueiras entre as
-plantas; as flôres que forem molhadas abortam quasi sempre,
+plantas; as flores que forem molhadas abortam quasi sempre,
 é por esta causa que muitos morangueiros que apresentam ás
 vezes uma bella floração vem a produzir bem poucos fructos.
 
 Quasi todos os morangueiros começam a bracejar logo que
-as hastes que hão-de dar as flôres téem adquirido um certo
+as hastes que hão-de dar as flores téem adquirido um certo
 desenvolvimento; convém ir cortando estes braços para não
 desviarem a seiva dos orgãos da fructificação; obtem-se assim
 melhores fructos.
@@ -14960,13 +15090,13 @@ O morangueiro silvestre e o de todos os mezes produz
 logo no primeiro anno boa quantidade de fructos; geralmente
 as outras castas só dão uma colheita abundante ao segundo
 anno; tambem aquelles vivem menos tempo, ao terceiro anno
-já pouco produzem; as outras produzem sofrivelmente ainda
+já pouco produzem; as outras produzem soffrivelmente ainda
 ao quarto anno.
 
 Esta planta requer sachas e regas amiudadas, e sobretudo
 que as regas sejam feitas com os cuidados já indicados; as
 chuvas causam-lhe grave damno na época da floração, por
-occasionarem muitas vezes o aborto das flôres e d'ahi a esterilidade.
+occasionarem muitas vezes o aborto das flores e d'ahi a esterilidade.
 
 377
 
@@ -14986,7 +15116,7 @@ castas apropriadas, e empregando um artificio muito simples
 que dá em resultado retardar a sua fructificacão até ao fim
 do outono.
 
-Cortam-se as flôres e as extremidades das hastes logo no
+Cortam-se as flores e as extremidades das hastes logo no
 principio da floração, mais tarde apparecem outras, d'este
 modo se retarda o apparecimento dos fructos.
 
@@ -15023,7 +15153,11 @@ Do mesmo modo se podem obter morangos durante o inverno,
 collocando os vazos em estufas temperadas, das que
 se usam para a cultura dos ananazes, que adeante se descrevem.
 
+-
+
 ANANAZ
+
+-
 
 Ananassa sativa Lindl. Planta vivaz da familia das bromeliaceas,
 originaria das regiões tropicaes da America. Para
@@ -15070,7 +15204,7 @@ centro uma plate-banda de 80 centimetros de altura por 2
 metros de largura, aos lados duas plate-bandas da mesma altura
 e 80 centimetros de largura, como se vê da fig. 97. Estabelecem-se
 ahi as camas quentes, lança-se no fundo das
-plate-bandas uma camada de areia grossa, por cima d'esta outro
+plate-bandas uma camada de areia grossa, por cima d'esta outra
 camada espessa de excretos de cavallo misturados com algumas
 folhas seccas e areia, superiormente uma camada de
 entrecasco de carvalho, ou aparas miudas de cortiça, introduzem-se
@@ -15104,7 +15238,7 @@ e conservar o calor necessario, já n'este caso ha mais
 difficuldade na applicação de rescaldos e renovação das camas,
 por isso é conveniente fazer circular por baixo do leito de terra
 um ou mais tubos conductores de ar quente, para isso do
-lado de fóra da estufa faz-se um fornilho de tijolo, do qual
+lado de fóra da estufa faz-se um fornilho de tijôlo, do qual
 parte o encanamento para o interior, circulando pela parte inferior
 das plate-bandas.
 
@@ -15172,7 +15306,7 @@ Fig. 98
 383
 
 No transporte dos fructos devem usar-se cestas de fundo
-largo e pouca altura, guarnecidas de feno sêcco ou fetos, de
+largo e pouca altura, guarnecidas de feno secco ou fetos, de
 modo que não fiquem muito accumulados, para que não façam
 grande pressão uns sobre os outros. Não se deverão
 guardar no fructeiro sem que antes estejam por quatro ou
@@ -15195,16 +15329,16 @@ excitadores. Para se conseguir o melhor resultado possivel
 convém que o fructeiro satisfaça as seguintes condições:
 
 Deverá ser fresco e pouco sujeito a alternativas de temperatura,
-obscuro e sêcco quanto possivel, e o ar que contenha
+obscuro e secco quanto possivel, e o ar que contenha
 raras vezes renovado e pouco carregado de oxygenio.
 
 Para se obterem estas condições póde adoptar-se o fructeiro
 indicado por Mr. Dubreuil, que vamos descrever:
 
 Em terreno secco, um pouco elevado, com exposição ao
-norte, escava-se o solo á profundidade de 0,70; no perimetro
-da excavação levantam-se dous muros parallelos de 0,33
-de espessura, deixando-se entre elles um espaço vasio de 0,50;
+norte, escava-se o solo á profundidade de 0m,70; no perimetro
+da excavação levantam-se dous muros parallelos de 0m,33
+de espessura, deixando-se entre elles um espaço vasio de 0m,50;
 convém fazel-os de barro misturado com alguma cal e palhas
 miudas, tudo bem amassado, não só porque esta construcção
 é mais barata, mas porque é menos conductora de calorico
@@ -15227,7 +15361,7 @@ O intervallo entre as duas paredes deverá ser cheio de palhas,
 serradura de madeira ou qualquer substancia má conductora
 do calor; o tecto é feito de ripas ou de canas, collocadas
 sobre barrotes, e sobre ellas deve-se collocar uma camada
-de musgos seccos, fetos ou feno, de 0,30 de espessura.
+de musgos seccos, fetos ou feno, de 0m,30 de espessura.
 
 O pavimento deverá ser asphaltado, e as paredes deverão
 ser forradas interiormente de madeira.
@@ -15313,7 +15447,7 @@ a 200 boas maçãs ou peras; assim, uma pilha de 15 caixas,
 que occupam um espaço limitadissimo, póde conter uma provisão
 de dous a tres mil fructos, que se conservam perfeitamente
 até proximo da novidade do anno seguinte. A boa conservação
-d'elles é devida á estagnação do ar dentro das caias,
+d'elles é devida á estagnação do ar dentro das caixas,
 á absorpção da humidade pela serradura de madeira e
 ás propriedades anti-putridas do pó do carvão.
 
@@ -15417,7 +15551,7 @@ local onde não haja grandes variações de temperatura.
 O apparelho para a producção e introducção do acido carbonico,
 fig. 100, consiste n'uma tina de madeira, A, forrada
 de chumbo, na qual se introduz acido sulphurico pela abertura
-à, que depois se fecha; o tubo de chumbo b deixa correr o
+a', que depois se fecha; o tubo de chumbo b deixa correr o
 acido pela torneira b para a tina inferior B, esta communica
 com a tina superior A, por meio do tubo a a, que está sempre
 aberto e estabelece a egualdade de pressão entre os dois
@@ -15447,7 +15581,7 @@ em acido sulfurico, ahi deixa alguma humidade que poderia
 conter, e entra para dentro da caixa de fructos E. Esta
 caixa está em communicação por meio do tubo f com o aspirador
 F que está cheio d'agua. Abrindo-se a torneira do aspirador
-vae sahindo a agua, que n'elle se coutém, e assim se
+vae sahindo a agua, que n'elle se contém, e assim se
 determina a aspiração do ar contido na caixa E, em logar
 do ar que vae sahindo, vae entrando pelo tubo d d o acido
 carbonico que o fica substituindo. Ultimada a operação fecham-se
@@ -15511,7 +15645,11 @@ entre os dedos sem se despedaçarem estão no caso de se
 guardar, não se deverão deixar seccar de mais porque perdem
 muito de valor.
 
+-
+
 COMMERCIO DE FRUCTOS
+
+-
 
 A producção de fructos de meza constitue em Portugal,
 desde muitos annos, um importantissimo ramo de riqueza; só
@@ -15533,7 +15671,7 @@ cultura e transporte.
 Os negociantes exportadores procuram com empenho quanta
 uva apparece, propria para embarque, e pagam-a a 800 e
 1$000 reis cada 15 kilogrammas; a laranja obtém um preço
-de 1$600 a 2000 reis cada caixa de 45 kilogrammas; a tangerina
+de 1$600 a 2$000 reis cada caixa de 45 kilogrammas; a tangerina
 e o limão obtéem preços muito mais elevados; cada
 cento de boas maçãs ou peras vende-se de 2$000 a 4$000
 reis; guardando-se para se apresentarem no mercado um pouco
@@ -15572,8 +15710,12 @@ quasi todos os navios ahi retéem, ou se ficam muito proximas
 do local da machina e das fornalhas, difficilmente chegarão ao
 seu destino em bom estado.
 
+-
+
 CUSTO E RENDIMENTO DAS PRINCIPAES
 CULTURAS FRUCTIFERAS
+
+-
 
 São tão variadas as condições de terreno e cultura das arvores
 e arbustos fructiferos em geral, que se torna difficilimo
@@ -15600,7 +15742,7 @@ cavas, podas, expontas e vindimas; em globo não deverão
 exceder a 100$000 reis.
 
 Suppondo que o custo de um hectar de terreno fosse de
-5005000 reis e a despeza de creação da vinha fosse de reis
+500$000 reis e a despeza de creação da vinha fosse de reis
 300$000, teremos que, com este capital, se póde obter annualmente
 um rendimento de 300$000 reis.
 
@@ -15615,7 +15757,7 @@ a rega, por isso a sua cultura é muito mais barata.
 
 Um hectar de terreno póde comportar 200 laranjeiras regulares;
 calculando o seu producto medio annual em 2$500
-reis, teremos um producto bruto de 5005000 reis, mas attendendo-se
+reis, teremos um producto bruto de 500$000 reis, mas attendendo-se
 a que esta arvore leva seis annos pelo menos a
 dar fructo, e que só depois de doze annos é que poderá dar
 aquelle producto annual; calculando-se a despeza e trabalho
@@ -15647,7 +15789,7 @@ mais rendosas, mas é certo que o seu producto liquido
 desenvolve-se aqui em terrenos de mediocre qualidade
 e de pouco valor, é por isso muito apreciada, mas considerando-se
 que a produccão média de cada arvore regular orça
-por duas arrobas de figo sêcco que valem no mercado 1$300
+por duas arrobas de figo secco que valem no mercado 1$300
 réis, calculando-se que um hectar de terreno não poderá conter
 mais de cem arvores, teremos um rendimento bruto por
 hectar de 130$000 réis, deduzindo-se 20 % para despezas de
@@ -15678,9 +15820,9 @@ Folhas . . . 17
 
 Gemmas, olhos e botões . . . 18
 
-Flôr, calice e corolla . . . 21
+Flor, calice e corolla . . . 21
 
-Orgãos masculinos e femininos da flôr . . . 22
+Orgãos masculinos e femininos da flor . . . 22
 
 Fructo e semente . . . 23
 
@@ -15920,7 +16062,7 @@ Bailly, Naudin, Neumann,
 Pepin, etc. 1 gros. vol. contenant
 876 pages . . . 1$400
 
-Avec gravures, 2 vol . . . 2$800
+Avec gravures, 2 vol. . . . 2$800
 
 LUNEL
 
