@@ -211,21 +211,21 @@ dividido em cinco partes que hoje offereço aos homens
 de consciencia e superiores que entre nós ensinam ou praticam
 a nobre e liberal profissão da medicina.
 
-Na 1.ª parte damos a traducção da carta do dr. Guilherme
+Na 1.a parte damos a traducção da carta do dr. Guilherme
 Macleod ao professor J.Y. Simpson, presidente do real collegio
 de medicos de Edinburgo, sobre as resoluções d'aquelle
 collegio contra a pratica da homœopathia.
 
-Na 2.ª - A traducção da resolução do real collegio de medicos
+Na 2.a - A traducção da resolução do real collegio de medicos
 que deu origem áquella carta.
 
-Na 3.ª - A traducção do cap. 4.º da pathologia do dr. Alison
+Na 3.a - A traducção do cap. 4.o da pathologia do dr. Alison
 a que o dr. Macleod se refere na citada carta.
 
-Na 4.ª - A definição e explicação de todos os termos technicos
+Na 4.a - A definição e explicação de todos os termos technicos
 que se encontram n'este volume.
 
-Na 5.ª - A exposição dos sete systemas em que actualmente
+Na 5.a - A exposição dos sete systemas em que actualmente
 se acha dividida a medicina.
 
 Havia eu escripto uma sexta parte comparando os differentes
@@ -716,7 +716,7 @@ não me parece que possa haver ponte que as ligue entre si.
 
 COMPARAÇÃO DAS THERAPEUTICAS PREDOMINANTES
 
-1.ª
+1.a
 
 PRINCIPIOS DA PRATICA RACIONAL
 OU SYSTEMATICA, ISTO É,
@@ -741,7 +741,7 @@ dá uniformemente logar
 desagradaveis, a que se
 dá o nome de symptomas.
 
-2.ª
+2.a
 
 PRINCIPIOS DA PRATICA EMPIRICA
 OU DE TENTAVIVA, ISTO E,
@@ -832,12 +832,12 @@ simultaneamente.
 
 3. A descoberta supra tem
 sido e é retardada pelos seguintes
-motivos: 1.º, a tendencia
+motivos: 1.o, a tendencia
 geral das molestias
 para um abatimento espontaneo,
 que muitas vezes é
 considerado como effeito do
-remedio; 2.º, a natural o
+remedio; 2.o, a natural o
 desconhecida influencia de
 outras circumstancias do estado
 do doente, como do regimen
@@ -845,13 +845,13 @@ antiphlogistico, quando
 se empregam os evacuantes,
 ou da mudança de scena
 durante o effeito dos tonicos;
-3.º, a extrema diversidade das
+3.o, a extrema diversidade das
 acções morbidas em si mesmas,
 aindaque pertencendo á
 mesma classe, e portanto a
 correspondente duvida quanto
 ao resultado, independentemente
-dos remedios; 4.º, diversidade
+dos remedios; 4.o, diversidade
 das constituições,
 que causam importantes modificações
 no resultado do tratamento.
@@ -896,12 +896,12 @@ N. B. Ás primeiras (tres
 clausulas que acima se mencionam
 foram transcriptas da
 obra do dr. Alison Outlines of
-Pathology, cap. 4.º
+Pathology, cap. 4.o
 
 26
 
 III. Resultados e phenomenos recebidos em ambas as praticas
-e referencias aos principios da pratica n.º 1.
+e referencias aos principios da pratica n.o 1.
 
 Vamos agora á corrupção. Com o plano da batalha aberto
 diante de nós, parece-me estar auctorisado a pedir-vos que
@@ -912,7 +912,7 @@ tão distinctas questões de importancia relativa, não póde com
 decencia ser julgada summariamente ou posta de parte pelo
 simples emprego do termo technico = Homœopathia =.
 
-1.º Em primeiro logar porque eu não posso admittir certeza
+1.o Em primeiro logar porque eu não posso admittir certeza
 nas conclusões do systema de tentativas, ou aceitar como
 infallivel a sua materia medica. Pergunto pois, como
 preliminar: qual é o medico pensador dos nossos dias que
@@ -985,7 +985,7 @@ fizeram o medico.
 
 28
 
-2.º Inclino-me a opinião de que o erro de que nos accusam
+2.o Inclino-me a opinião de que o erro de que nos accusam
 não está na mera abnegação da tentativa pratica. Geralmente
 fallando o scepticismo tem um certo ar de respeitabilidade,
 se não de moda, e poucas vezes deixa de merecer
@@ -1526,7 +1526,7 @@ Ao professor J. Y. Simpson.
 William Macleod.
 
 N. B. Segundo nos affirma o dr. Macleod na carta que
-d'elle recebemos, datada do 1.º de fevereiro do corrente anno,
+d'elle recebemos, datada do 1.o de fevereiro do corrente anno,
 nenhuma resposta tinha tido a carta, cuja traducção precede.
 
 [1] O chloroformio foi descoberto em 1831 por mr. Soubeiran, e a
@@ -1551,7 +1551,7 @@ dirigida a mesma pelo presidente. Propozeram-se as
 resoluções seguintes, que, sendo apoiadas, foram unanimemente
 approvadas.
 
-1.ª Que o real collegio de medicos de Edinburgo, ha já
+1.a Que o real collegio de medicos de Edinburgo, ha já
 alguns annos passados exprimiu a sua opinião a respeito da
 homœopathia como a respeito d'aquelles que a praticavam,
 negando-se peremptoriamente a admittir na sua corporação
@@ -1560,7 +1560,7 @@ que não é possivel que nenhum dos membros do collegio
 possa ignorar qual é o modo como são considerados pelo collegio
 todos aquelles que praticam a homœopathia.
 
-2.ª O collegio sente, que, não obstante a sua tão decidida
+2.a O collegio sente, que, não obstante a sua tão decidida
 e manifesta opinião, mais de um dos seus membros, que tinham
 sido admittidos com outro caracter, ponham hoje em
 risco a reputação do collegio tendo-se tornado medicos homœopathas;
@@ -1571,7 +1571,7 @@ os repudia, e da qual não podem derivar, pela simples denominação
 de membro do collegio, mais do que uma falsa posição
 e um credito espurio.
 
-3.ª O collegio julga-se tanto mais obrigado a manifestar
+3.a O collegio julga-se tanto mais obrigado a manifestar
 assim publicamente a sua opinião, quanto que considera, que
 aquelles dos seus membros que se tornarem homœopathas,
 devem, como qualquer outro medico, que siga a homœopathia,
@@ -1584,7 +1584,7 @@ sua propria dignidade e da dignidade da profissão.
 
 42
 
-4.ª Postoque o collegio não tenha até agora adoptado medidas
+4.a Postoque o collegio não tenha até agora adoptado medidas
 para expellir do seu seio aquelles dos seus membros,
 que se tornaram homœopathas, depois da sua admissão no
 mesmo collegio, reserva todavia o poder que tem, logoque o
@@ -1610,24 +1610,24 @@ vencer essas difficuldades. Diversas causas se podem apresentar,
 que mui frequentemente nos fazem errar na apreciação
 do poder ou efficacia dos remedios sobre as molestias.
 
-1.ª A tendencia natural a um abatimento espontaneo em
+1.a A tendencia natural a um abatimento espontaneo em
 muitas especies de doenças, á qual é subserviente a acção de
 quasi todos os remedios, e que mui frequente, mas erradamente,
 é considerado o effeito do remedio de que se fez uso.
 
-2.ª A acção de outras circumstancias não observada no estado
+2.a A acção de outras circumstancias não observada no estado
 peculiar dos doentes, alem da acção do remedio, cujo valor,
 força ou effeito, queremos estabelecer; v. g., do regimen
 antiphlogistico, quando se faz uso dos evacuantes, ou a mudança
 da estação ou da situação, quando se empregam os tonicos.
 
-3.ª A extrema diversidade de casos 1 a que o mesmo nome
+3.a A extrema diversidade de casos 1 a que o mesmo nome
 e a mesma descripção pathologica é correctamente applicada,
 qualquer que seja a sua extensão, intensidade ou malignidade;
 e portanto tambem quanto ao resultado que se póde esperar,
 mesmo no caso de se não haver feito uso de remedios.
 
-4.ª A diversidade das constituições, em que a mesma acção
+4.a A diversidade das constituições, em que a mesma acção
 morbosa se póde excitar, e portanto os differentes resultados,
 qualquer que seja a pratica que se tenha seguido.
 
@@ -1673,7 +1673,7 @@ segurança como á utilidade dos remedios, e que têem sido adoptados
 com mais ou menos feliz exito em todos os tempos,
 são os seguintes:
 
-1.º Multiplicar quanto seja possivel as observações dos casos
+1.o Multiplicar quanto seja possivel as observações dos casos
 individuaes, a que o mesmo remedio tenha sido applicado,
 notando com a maior attenção todas as differentes circumstancias
 d'esses casos, com o fim de obtermos a evidencia
@@ -1705,14 +1705,14 @@ de evidencia para os fins praticos é realmente necessaria.
 
 45
 
-2.º Nós portanto espreitâmos o progresso dos symptomas
+2.o Nós portanto espreitâmos o progresso dos symptomas
 depois da applicação do remedio, e observâmos se n'este caso
 individual ha alterações taes, que, comparadas com o progresso
 usual da molestia, nos dêem motivo para acreditar,
 que temos promovido o processo natural para o restabelecimento
 da saude.
 
-3.º Mas ainda sem nos esquecermos do que já temos estabelecido,
+3.o Mas ainda sem nos esquecermos do que já temos estabelecido,
 quanto á grande variedade, tanto na extensão como
 na intensidade e progresso natural dos differentes casos, que
 na nosologia se referem ao mesmo logar, podemos facilmente
@@ -1730,7 +1730,7 @@ mudanças, que na actualidade vão tendo logar no corpo vivo,
 são taés que seja rasoavel julgar que o remedio em questão
 póde directa ou indirectamente modifica-la ou domina-la.
 
-4.º Isto força-nos a indagar tambem a verdadeira natureza
+4.o Isto força-nos a indagar tambem a verdadeira natureza
 da mudança, que o remedio póde produzir no corpo (fallo
 quanto ao seu modo de operar), o que necessariamente exige
 que analysemos aquillo a que se dá o nome de acção physiologica,
@@ -1786,7 +1786,7 @@ PARTE IV
 DEFINIÇÃO E EXPLICAÇÃO DOS TERMOS TECHNICOS EMPREGADOS
 N'ESTE VOLUME
 
-N.º 1. Medicina. - Sciencia e arte que tem por fim a
+N.o 1. Medicina. - Sciencia e arte que tem por fim a
 conservação da saude e a cura das molestias.
 
 A constante cultura da medicina, especialmente desde o
@@ -1830,7 +1830,7 @@ destinada a ser a continuação da de Daniel Leclere, diz:
 «medicina vere nihil aliud est quam medicamenti et morbi
 comparatio.»
 
-N.º 2. Physiologia. - Do grego physis, natureza, e logos,
+N.o 2. Physiologia. - Do grego physis, natureza, e logos,
 discurso, tratado; sciencia que tem por objecto o conhecimento
 dos phenomenos proprios aos corpos vivos, e portanto
 divide-se em physiologia vegetal e animal, segundo se
@@ -1866,7 +1866,7 @@ e a morte.
 
 49
 
-N.º 3. Vida, força vital, principio vital. - Penetrar o véu,
+N.o 3. Vida, força vital, principio vital. - Penetrar o véu,
 que cobre o machinismo complicado dos movimentos que
 constituem a vida, tem sido, é, e continuará a ser o estudo
 dos physicos e dos physiologistas. Para explicar estes phenomenos
@@ -1998,7 +1998,7 @@ rapporte que des récits imaginaires. Aucun d'eux jusqu'à
 présent, n'a deviné le sens de deux mots énigmatiques inscrits
 sur les récifs de ce mystérieux rivage: la vie.»
 
-N.º 4. Anatomia. - Sciencia, que se occupa do exame de
+N.o 4. Anatomia. - Sciencia, que se occupa do exame de
 todas as partes que compõem os corpos organisados. Do grego
 anatemno, cortar, dissecar; nome bem apropriado, porque
 a anatomia procede dividindo e dissecando o corpo que estuda.
@@ -2068,53 +2068,53 @@ intento.
 
 53
 
-N.º 5. Phytotomia. - Do grego phyton, planta, e tomé,
+N.o 5. Phytotomia. - Do grego phyton, planta, e tomé,
 dissecção; a parte da anatomia geral ou da anatomia descriptiva
 que se occupa dos vegetaes.
 
-N.º 6. Zootomia. - Do grego zoon, animal, e tomé, dissecção;
+N.o 6. Zootomia. - Do grego zoon, animal, e tomé, dissecção;
 o ramo da anatomia geral ou da anatomia descriptiva,
 que se occupa dos animaes.
 
-N.º 7. Anthropotomia. - Do grego anthropos, homem, e
+N.o 7. Anthropotomia. - Do grego anthropos, homem, e
 tomé, dissecção; a parte da zootomia, que trata da estructura
 do corpo humano.
 
-N.º 8. Esqueletologia. - Do grego skeletos, seccado; o
+N.o 8. Esqueletologia. - Do grego skeletos, seccado; o
 ramo da anthropotomia, que se occupa das partes solidas.
 
-N.º 9. Osteologia. - Do grego osteon, osso, e logos, discurso;
+N.o 9. Osteologia. - Do grego osteon, osso, e logos, discurso;
 a parte da esqueletologia, que trata dos ossos.
 
-N.º 10. Syndesmologia. - Do grego syndesmos; o ramo
+N.o 10. Syndesmologia. - Do grego syndesmos; o ramo
 da esqueletologia, que trata dos ligamentos.
 
-N.º 11. Sarcologia. - Do grego sarx, carne; parte da
+N.o 11. Sarcologia. - Do grego sarx, carne; parte da
 anthropotomia, que se occupa das partes molles.
 
-N.º 12. Myologia. - Do grego myo, ou myon; parte da
+N.o 12. Myologia. - Do grego myo, ou myon; parte da
 sarcologia, que trata dos musculos.
 
-N.º 13. Nevrologia. - Do grego nervon; ramo da sarcologia,
+N.o 13. Nevrologia. - Do grego nervon; ramo da sarcologia,
 que trata dos nervos.
 
-N.º 14. Angiologia ou Angiographia. - Do grego angeion,
+N.o 14. Angiologia ou Angiographia. - Do grego angeion,
 vaso, e logos, ou grapho, fallar, descrever; a parte da sarcologia,
 que se occupa dos vasos do corpo humano. Comprehende
 a arteriologia, a phlebologia e a angiohydrologia.
 
 54
 
-N.º 15. Adenologia. - Do grego aden, glandula; ramo da
+N.o 15. Adenologia. - Do grego aden, glandula; ramo da
 sarcologia, que trata das glandulas.
 
-N.º 16. Splanchnologia. - Do grego splagkhnon; o ramo
+N.o 16. Splanchnologia. - Do grego splagkhnon; o ramo
 da sarcologia, que trata das visceras.
 
-N.º 17. Dermatologia. - Do grego derma; a parte da sarcologia,
+N.o 17. Dermatologia. - Do grego derma; a parte da sarcologia,
 que trata da pelle.
 
-N.º 18. Hygiene. - Do grego hygiésis, saude; a parte da
+N.o 18. Hygiene. - Do grego hygiésis, saude; a parte da
 medicina, que tem por fim a conservação da saude, que ensina
 a regular a vida do homem de maneira a assegurar o
 exercicio regular de todas as suas funcções, e o desenvolvimento
@@ -2122,12 +2122,12 @@ completo de todas as suas faculdades. O famoso Haller,
 que morreu em 1777, e com tão perfeito conhecimento,
 que continuou a estudar o seu pulso até á ultima pulsação,
 fazendo com a cabeça signal no momento em que se tornou
-insensivel, dividia a hygiene em tres partes: 1.ª, o objecto
+insensivel, dividia a hygiene em tres partes: 1.a, o objecto
 ou o conhecimento do homem são, nas suas relações e nas
 suas differenças, isto é, na sociedade e individualmente;
-2.ª, a materia da hygiene, ou o conhecimento das cousas de
+2.a, a materia da hygiene, ou o conhecimento das cousas de
 que o homem usa ou gosa, e da sua influencia sobre a nossa
-constituição e sobre os nossos orgãos: 3.ª, os meios ou regras
+constituição e sobre os nossos orgãos: 3.a, os meios ou regras
 da hygiene, que determina a medida a que se deve restringir
 o uso das cousas para conservação do homem, considerado
 em relação á sociedade, ou em relação a si mesmo.
@@ -2146,7 +2146,7 @@ influencia.
 
 55
 
-N.º 19. Nonnaturalia. - O grande e miseravel Brown,
+N.o 19. Nonnaturalia. - O grande e miseravel Brown,
 que fez reviver o principio do vitalismo, inteiramente banido
 pelas theorias mechanicas de Hoffman, diz: «The six
 nonnaturals are such as neither naturally constitutive nor
@@ -2166,7 +2166,7 @@ natureza; mas pelo uso ou abuso que d'elles fizermos, voluntaria
 ou independentemente da nossa vontade, podem
 preservar ou destruir a nossa saude 1.
 
-N.º 20. Pathologia. - Do grego pathos, affecção, e logos,
+N.o 20. Pathologia. - Do grego pathos, affecção, e logos,
 discurso; é a parte da medicina, que comprehende tudo
 aquillo que tem connexão com as doenças.
 
@@ -2213,7 +2213,7 @@ et dont les excès produisent un éffet tout contraire.
 
 56
 
-N.º 21. Nosographia. - Do grego nosos, doença, e grapho,
+N.o 21. Nosographia. - Do grego nosos, doença, e grapho,
 descrevo; tem por objecto a descripção das doenças,
 nome modernamente empregado em logar de nosologia, e
 com a maior propriedade, porque nosologia, das radicaes nosos
@@ -2223,7 +2223,7 @@ designar uma affecção geral, e nosologia, uma doença particular.
 A nosographia occupa-se da symptomatologia, da semeiotica,
 do diagnostico e do prognostico.
 
-N.º 22. Etiologia. - Do grego aitia, causa, e logos, tratado;
+N.o 22. Etiologia. - Do grego aitia, causa, e logos, tratado;
 parte da pathologia que se occupa das causas das doenças,
 e de conhecer a sua formação e desenvolvimento; comprehende
 a etiologia propriamente dita, que trata da causa
@@ -2250,42 +2250,42 @@ um certo estado do corpo e um agente activo, que a excite.
 
 Este certo estado ou condição do corpo é a susceptibilidade,
 ou a faculdade de receber a impressão do agente, ou
-causa activa. Ha portanto a considerar: 1.º, as causas predisponentes;
-2.º, as causas excitantes. Nas primeiras temos:
-1.º, o temperamento e constituição; 2.º, a idiosyncracia; 3.º, a
-idade ou periodo da vida; 4.º, o sexo; 5.º, a estructura das
-partes do corpo; 6.º, a quantidade dos fluidos circulantes;
-7.º, a quantidade e qualidade dos mesmos fluidos.
+causa activa. Ha portanto a considerar: 1.o, as causas predisponentes;
+2.o, as causas excitantes. Nas primeiras temos:
+1.o, o temperamento e constituição; 2.o, a idiosyncracia; 3.o, a
+idade ou periodo da vida; 4.o, o sexo; 5.o, a estructura das
+partes do corpo; 6.o, a quantidade dos fluidos circulantes;
+7.o, a quantidade e qualidade dos mesmos fluidos.
 
 As segundas, ou causas excitantes das doenças, são os
 agentes, que exercem a sua influencia no corpo pelo seu contacto
 immediato, ou pelo nosso espirito, causando impressão
 nas fibras sensitivas a ponto de desarranjar a sua acção salutar.
 
-Estas causas são muito numerosas: 1.º, o estado variavel
+Estas causas são muito numerosas: 1.o, o estado variavel
 da atmosphera, seu peso, densidade, temperatura, humidade
-e seccura; 2.º, a presença de particulas heterogeneas no ar,
+e seccura; 2.o, a presença de particulas heterogeneas no ar,
 solidos imperceptiveis, poeira, corpos gazosos, exhalações
 das manufacturas de chumbo, cobre, arsenico; as exhalações
 nocivas de vegetaes e animaes vivos ou em estado de putrefacção,
 as secreções e excreções dos animaes, os miasmas
 das lagoas e pantanos, os que exhalam os doentes atacados
 de typho, da tosse convulsa, da febre escarlatina, das bexigas,
-do sarampo, da dysenteria, etc.; 3.º, as paixões, especialmente
-a colera, alegria, medo e a tristeza: 4.º, a ingestão
-[1] pela qualidade ou quantidade; 5.º, movimento ou repouso
-em excesso ou insufficiente; 6.º, somno ou vigilia em
-excesso ou insufficiente: 7.º, as excreções ou as retenções,
+do sarampo, da dysenteria, etc.; 3.o, as paixões, especialmente
+a colera, alegria, medo e a tristeza: 4.o, a ingestão
+[1] pela qualidade ou quantidade; 5.o, movimento ou repouso
+em excesso ou insufficiente; 6.o, somno ou vigilia em
+excesso ou insufficiente: 7.o, as excreções ou as retenções,
 o suor, a saliva, a bilis, os succos pancreaticos, os succos intestinaes,
 a urina, o semen, as fezes quando deixam de ser
 eliminadas a tempo, ou quando são de uma natureza acrimoniosa;
-8.º, lesões, concussões, compressões, fracturas, etc.;
-9.º, algumas circumstancias naturaes ao corpo, lombrigas,
-dentição, descida dos testiculos, prenhez; 10.º, alguns venenos
+8.o, lesões, concussões, compressões, fracturas, etc.;
+9.o, algumas circumstancias naturaes ao corpo, lombrigas,
+dentição, descida dos testiculos, prenhez; 10.o, alguns venenos
 gerados no corpo, syphilis, differentes erupções de pelle;
-11.º, sympathia, a maravilhosa propriedade das fibras sensiveis
+11.o, sympathia, a maravilhosa propriedade das fibras sensiveis
 e irritaveis, pela qual existe uma certa connexão, que
-se sustenta entre duas partes, que estão separadas; 12.º, certas
+se sustenta entre duas partes, que estão separadas; 12.o, certas
 doenças, que excitam outras.
 
 [1] Do latim ingestus.
@@ -2297,7 +2297,7 @@ para evitarmos as molestias, mas de nada nos podem servir
 para conhecermos a natureza da doença, cuja causa proxima
 resulta da acção combinada com alguma das causas remotas.
 
-N.º 23. Pathogenia. - Do grego pathos, doença, e genomai,
+N.o 23. Pathogenia. - Do grego pathos, doença, e genomai,
 nasço; parte da etiologia, que tem por fim o conhecimento
 da formação e do desenvolvimento das molestias. Um
 grande numero de theorias, mais ou menos scientificas ou ridiculas,
@@ -2310,10 +2310,10 @@ Sydenham? do furor do archeo de Van-Helmont, etc.? As
 doutrinas, que hoje parece reunirem maior numero de suffragios,
 são as do humorismo e solidismo.
 
-N.º 24. Symptomatologia. - Do grego symptoma, e logos;
+N.o 24. Symptomatologia. - Do grego symptoma, e logos;
 a parte da medicina, que trata dos symptomas.
 
-N.º 25. Symptoma. - Do grego symptoma, formado de
+N.o 25. Symptoma. - Do grego symptoma, formado de
 syn, com, e de pipto, cair; dá-se na medicina o nome de
 symptoma a toda a modificação, que sobrevem na constituição
 ou nas funcções dos nossos orgãos, e que se acha ligada
@@ -2326,8 +2326,8 @@ que podem ser conhecidas as molestias.
 São portanto os symptomas os phenomenos das doenças, e
 cada symptoma é uma mudança de acção, ou uma acção morbifera,
 ou lesão visivel de uma parte do corpo. Podem-se
-coordenar os symptomas em tres divisões: 1.ª, funcções deterioradas;
-2.ª, mudança nas qualidades visiveis; 3.ª, sensações
+coordenar os symptomas em tres divisões: 1.a, funcções deterioradas;
+2.a, mudança nas qualidades visiveis; 3.a, sensações
 penosas, desagradaveis.
 
 Na primeira divisão se comprehendem as funcções animaes
@@ -2336,79 +2336,79 @@ as funcções naturaes e as funcções sexuaes.
 
 59
 
-No primeiro ramo das funcções animaes temos: 1.º, a perda
-da voz; 2.º, fallar incoherentemente; 3.º, o delirio; 4.º, a memoria
-deteriorada; 5.º, a illusão; 6.º, juizo viciado; 7.º, extravagancias
-mentaes; 8.º, inspiração; 9.º, fanatismo; 10.º, sentimentalismo;
-11.º, diminuição na sensibilidade das faculdades
-intellectuaes; 12.º, distracção; 13.º, phantasia errante;
-14.º, consciencia exagerada, affectada; 15.º, desordenada
-energia das paixões; 16.º, torpor, dormencia, diminuição na
-sensibilidade da pelle; 17.º, sensibilidade exagerada; 18.º, aniquilação
-de sentimento; 19.º, falta de gosto; 20.º, gosto depravado;
-21.º, diminuição no olfato; 22.º, olfato exagerado;
-23.º, diminuição da vista; 24.º, vista deteriorada; 25.º, perda
-de vista; 26.º, diminuição da audição; 27.º, destruição da
-audição; 28.º, audição falsa; 29.º, movimento dos musculos
+No primeiro ramo das funcções animaes temos: 1.o, a perda
+da voz; 2.o, fallar incoherentemente; 3.o, o delirio; 4.o, a memoria
+deteriorada; 5.o, a illusão; 6.o, juizo viciado; 7.o, extravagancias
+mentaes; 8.o, inspiração; 9.o, fanatismo; 10.o, sentimentalismo;
+11.o, diminuição na sensibilidade das faculdades
+intellectuaes; 12.o, distracção; 13.o, phantasia errante;
+14.o, consciencia exagerada, affectada; 15.o, desordenada
+energia das paixões; 16.o, torpor, dormencia, diminuição na
+sensibilidade da pelle; 17.o, sensibilidade exagerada; 18.o, aniquilação
+de sentimento; 19.o, falta de gosto; 20.o, gosto depravado;
+21.o, diminuição no olfato; 22.o, olfato exagerado;
+23.o, diminuição da vista; 24.o, vista deteriorada; 25.o, perda
+de vista; 26.o, diminuição da audição; 27.o, destruição da
+audição; 28.o, audição falsa; 29.o, movimento dos musculos
 não natural.
 
-No segundo ramo dos symptomas animaes temos: 1.º, rouquidão;
-2.º, defeito nas articulações; 3.º, insomnia; 4.º, somno
+No segundo ramo dos symptomas animaes temos: 1.o, rouquidão;
+2.o, defeito nas articulações; 3.o, insomnia; 4.o, somno
 não natural.
 
-Nas funcções vitaes: 1.º, frequencia de pulso; 2.º, pulsação
-demorada; 3.º, pulso forte; 4.º, pulso fraco; 5.º, pulso
-duro; 6.º, pulso frouxo; 7.º, pulso contrahido; 8.º, pulso irregular;
-9.º, pulso intermittente; 10.º, pulso repercussivo;
-11.º, ausencia de pulso; 12.º, a suspensão da acção do coração
-por algum tempo; 13.º, a tosse; 14.º, difficuldade na
-respiração; 15.º, suspiros; 16.º, soluços.
+Nas funcções vitaes: 1.o, frequencia de pulso; 2.o, pulsação
+demorada; 3.o, pulso forte; 4.o, pulso fraco; 5.o, pulso
+duro; 6.o, pulso frouxo; 7.o, pulso contrahido; 8.o, pulso irregular;
+9.o, pulso intermittente; 10.o, pulso repercussivo;
+11.o, ausencia de pulso; 12.o, a suspensão da acção do coração
+por algum tempo; 13.o, a tosse; 14.o, difficuldade na
+respiração; 15.o, suspiros; 16.o, soluços.
 
-Nas funcções naturaes: 1.º, falta de appetite; 2.º, appetite
-voraz; 3.º, enjôos de estomago; 4.º, appetite depravado;
-5.º, sede; 6.º, falta de sede; 7.º, difficuldade de engulir;
-8.º, relaxação de ventre; 9.º, prisão de ventre; 10.º, fezes
-não naturaes; 11.º, augmento de transpiração; 12.º, expectoração;
-13.º, augmento da salivação; 14.º, urina não natural.
+Nas funcções naturaes: 1.o, falta de appetite; 2.o, appetite
+voraz; 3.o, enjôos de estomago; 4.o, appetite depravado;
+5.o, sede; 6.o, falta de sede; 7.o, difficuldade de engulir;
+8.o, relaxação de ventre; 9.o, prisão de ventre; 10.o, fezes
+não naturaes; 11.o, augmento de transpiração; 12.o, expectoração;
+13.o, augmento da salivação; 14.o, urina não natural.
 
-Nas funcções sexuaes temos: 1.º, semen deteriorado;
-2.º, derramamento de semen; 3.º, impedimento na emissão
-do semen; 4.º, falta de erecção; 5.º, priapismo; 6.º, impotencia;
-7.º, descargas da urethra; 8.º, descargas da vagina
-não naturaes; 9.º, suspensão da menstruação; 10.º, menstruação
+Nas funcções sexuaes temos: 1.o, semen deteriorado;
+2.o, derramamento de semen; 3.o, impedimento na emissão
+do semen; 4.o, falta de erecção; 5.o, priapismo; 6.o, impotencia;
+7.o, descargas da urethra; 8.o, descargas da vagina
+não naturaes; 9.o, suspensão da menstruação; 10.o, menstruação
 difficil.
 
 Na segunda divisão ou na mudança das qualidades visiveis,
-temos: 1.º, a pallidez da pelle; 2.º, vermelhidão preternatural;
-3.º, a lividez; 4.º, a amarellidão; 5.º, a intumescencia;
-6.º, ruido causado pela pressão; 7.º, fluctuação; 8.º, ranger
-dos ossos; 9.º, ranger dos dentes; 10.º, um som quando se
-toca no corpo; 11.º, excesso de cruor no sangue; 12.º, excesso
-de soro no sangue; 13.º, côr demasiado escura do sangue;
-14.º, côr de sangue demasiado florente; 15.º, uma capa ou
-superficie albuminosa no cruor do sangue; 16.º, soro amarello;
-17.º, dilatação da pupilla; 18.º, contracção da pupilla;
-19.º, apparencia marasmodica do corpo; 20.º, apparencia
-marasmodica de uma parte do corpo; 21.º, augmento do
+temos: 1.o, a pallidez da pelle; 2.o, vermelhidão preternatural;
+3.o, a lividez; 4.o, a amarellidão; 5.o, a intumescencia;
+6.o, ruido causado pela pressão; 7.o, fluctuação; 8.o, ranger
+dos ossos; 9.o, ranger dos dentes; 10.o, um som quando se
+toca no corpo; 11.o, excesso de cruor no sangue; 12.o, excesso
+de soro no sangue; 13.o, côr demasiado escura do sangue;
+14.o, côr de sangue demasiado florente; 15.o, uma capa ou
+superficie albuminosa no cruor do sangue; 16.o, soro amarello;
+17.o, dilatação da pupilla; 18.o, contracção da pupilla;
+19.o, apparencia marasmodica do corpo; 20.o, apparencia
+marasmodica de uma parte do corpo; 21.o, augmento do
 corpo ou de uma parte do corpo.
 
 60
 
 Na terceira divisão ou nas sensações penosas, desagradaveis:
-1.º, dor; 2.º, um sentimento que nos inquieta; 3.º, anxiedade;
-4.º, frio; 5.º, calefrios; 6.º, estremecimentos; 7.º, calor;
-8.º, vertigens.
+1.o, dor; 2.o, um sentimento que nos inquieta; 3.o, anxiedade;
+4.o, frio; 5.o, calefrios; 6.o, estremecimentos; 7.o, calor;
+8.o, vertigens.
 
 Conforme a origem, o tempo em que apparecem, a situação
 e a natureza dos symptomas e outras circumstancias, alguns
-auctores fazem as seguintes distincções: 1.º, verdadeiros
-symptomas da molestia; 2.º, symptomas dos symptomas;
-3.º, epigenomicos, ou symptomas supervenientes.
+auctores fazem as seguintes distincções: 1.o, verdadeiros
+symptomas da molestia; 2.o, symptomas dos symptomas;
+3.o, epigenomicos, ou symptomas supervenientes.
 
-Distinguem-se ainda os symptomas em: 1.º, precedentes;
-2.º, concomitantes; 3.º, consequentes; 4.º, proprios; 5.º,
-communs; 6.º, caracteristicos; 7.º, primarios; 8.º, secundarios;
-9.º, terciarios. Ora, sendo da reunião em grupos das
+Distinguem-se ainda os symptomas em: 1.o, precedentes;
+2.o, concomitantes; 3.o, consequentes; 4.o, proprios; 5.o,
+communs; 6.o, caracteristicos; 7.o, primarios; 8.o, secundarios;
+9.o, terciarios. Ora, sendo da reunião em grupos das
 doenças, que apresentam symptomas similhantes, que os nosologistas
 formam os seus systemas, dividindo-os em classes,
 ordens, generos, especies e variedades, facilmente podemos
@@ -2416,7 +2416,7 @@ avaliar, depois da enumeração que temos feito, quaes são as
 difficuldades, com que têem a lutar para alcançar um resultado
 rasoavel.
 
-N.º 26. Semeiologia ou semeiotica. - Do grego semeon,
+N.o 26. Semeiologia ou semeiotica. - Do grego semeon,
 signal: o ramo da pathologia, que tem por fim o conhecimento
 dos signaes das doenças. Considera portanto a natureza
 dos symptomas, o seu grau de violencia, a sua accessão,
@@ -2428,7 +2428,7 @@ individuo, sua constituição e habitos, o conhecimento da vida
 passada como o estado actual, formam parte da semeiotica,
 que por isso se divide em diagnose e prognose.
 
-N.º 27. Diagnose ou Diagnosis. - Do grego dia, por meio,
+N.o 27. Diagnose ou Diagnosis. - Do grego dia, por meio,
 e gnosis, conhecimento; a parte da semeiotica, que ensina a
 conhecer as doenças, e a distingui-las entre si pelos signaes,
 que apresentam. Estes signaes são de quatro especies: signaes
@@ -2441,18 +2441,18 @@ apparecem, e outras deixam de se apresentar.
 
 61
 
-N.º 28. Diagnostico. - O juizo, que o medico fórma da
+N.o 28. Diagnostico. - O juizo, que o medico fórma da
 doença de que se encarrega.
 
-N.º 29. Prognose ou Prognosis. - Do grego pro, antes,
+N.o 29. Prognose ou Prognosis. - Do grego pro, antes,
 e, ghinosco, conhecer; o ramo da semeiotica, que ensina a
 predizer o fim que terá a doença pelos signaes, que se manifestam.
 
-N.º 30. Prognostico. - O juizo, que o medico faz das mudanças,
+N.o 30. Prognostico. - O juizo, que o medico faz das mudanças,
 que devem sobrevir no decurso da molestia, e sobre
 a sua duração e fim.
 
-N.º 31. Therapeutica. - Do grego therapeuo, servir, curar;
+N.o 31. Therapeutica. - Do grego therapeuo, servir, curar;
 é a parte da pathologia, que se occupa do tratamento
 das doenças, e que estabelece os preceitos sobre a escolha
 dos meios de curar, e dos remedios. O seu fim é eliminar as
@@ -2488,21 +2488,21 @@ sem medicos.
 62
 
 As forças da natureza no restabelecimento da saude, que
-se conhecem, são: 1.º, augmento da energia vital; 2.º, diminuição
-da força vital; 3.º, força expulsiva; 4.º, força absorvente;
-5.º, força regeneradora; 6.º, força suppurativa; 7.º, um
+se conhecem, são: 1.o, augmento da energia vital; 2.o, diminuição
+da força vital; 3.o, força expulsiva; 4.o, força absorvente;
+5.o, força regeneradora; 6.o, força suppurativa; 7.o, um
 desejo ou appetite peculiar.
 
 Os meios de que a sciencia se serve para coadjuvar as forças
 da natureza são: a hygiene, a medicina propriamente dita,
 e a cirurgia.
 
-N.º 32. Vitalismo. - Systema de physiologia, que attribue
+N.o 32. Vitalismo. - Systema de physiologia, que attribue
 todas as acções organicas a um principio vital em opposição
 aquelles, que os explicam pelas leis da chimica, da physica
 e da dynamica.
 
-N.º 33. Apparelho. - Na physiologia dá-se o nome de apparelho
+N.o 33. Apparelho. - Na physiologia dá-se o nome de apparelho
 ao conjunto dos orgãos, que concorrem para o exercicio
 de uma mesma funcção. Apparelho digestivo, apparelho
 respiratorio, etc., etc. Um systema de orgãos comprehende
@@ -2510,14 +2510,14 @@ todos os orgãos, que são formados de um tecido similhante;
 um apparelho comprehende muitas vezes orgãos de
 natureza muito diversa.
 
-N.º 34. Bisturi. - A cidade de Pistori na Italia, celebre
+N.o 34. Bisturi. - A cidade de Pistori na Italia, celebre
 em outro tempo pela sua cutelaria, deu o nome ao pequeno
 instrumento de cirurgia que serve para fazer incisões, composto
 de uma lamina e um cabo similhante a um canivete ou
 faca pequena; dá-se-lhe o nome de bisturi recto, convexo ou
 curvo, segundo a folha é curva, convexa ou recta.
 
-N.º 35. Chimiatria. - Das palavras chimica, e iatreia, cura;
+N.o 35. Chimiatria. - Das palavras chimica, e iatreia, cura;
 systema de medicina muito acreditado na idade media,
 sobretudo em Allemanha por Paracelso e Van Helmont, e
 Francisco De la Boe, que pretendia explicar todos os phenomenos
@@ -2526,21 +2526,21 @@ tratar todas as doenças por processos chimicos.
 
 63
 
-N.º 36. Cruor. - Significa propriamente sangue fóra dos
+N.o 36. Cruor. - Significa propriamente sangue fóra dos
 vasos. Emmedicina emprega-se para designar a parte colorante
 do sangue; outras vezes o sangue extravasado em consequencia
 de contusão ou ferida, e tambem o mesmo grumo do sangue.
 
-N.º 37. Escabiosa. - De scabies, ei, sarna; dá-se o nome
+N.o 37. Escabiosa. - De scabies, ei, sarna; dá-se o nome
 de escabiosas ás molestias de pelle, que a cobrem de erupções
 similhantes á sarna.
 
-N.º 38. Escalpello. - Veja-se Bisturi. Geralmente dá-se
+N.o 38. Escalpello. - Veja-se Bisturi. Geralmente dá-se
 o nome de escalpello ao instrumento, de que o cirurgião se
 serve na dissecção do corpo morto, e o de bisturi ao instrumento
 empregado em fazer incisões e córtes no corpo vivo.
 
-N.º 39. Especifico. - Nome dado na medicina a todo o
+N.o 39. Especifico. - Nome dado na medicina a todo o
 medicamento, que exerce uma acção especial sobre um orgão,
 sobre uma doença particular, que obsta ao seu desenvolvimento,
 ou produz a cura. O quinino tem uma acção especifica
@@ -2550,24 +2550,24 @@ o iode contra as affecções escrophulosas, a digitalis obrando
 sobre a circulação do sangue, a scilla sobre a secreção urinaria,
 a belladona sobre a pupilla, etc., etc.
 
-N.º 40. Fermento humoral. - É o nome que os medicos
+N.o 40. Fermento humoral. - É o nome que os medicos
 humoristas davam ao principio material, que, segundo a sua
 doutrina, se desenvolvia na economia, alterava os liquidos
 do corpo, e era a causa de muitas doenças.
 
-N.º 41. Funcção. - Em physiologia as funcções são os
+N.o 41. Funcção. - Em physiologia as funcções são os
 actos, que resultam da actividade dos orgãos dos vegetaes e
 animaes, como a digestão, a circulação, a respiração, a absorpção,
 as secreções, a geração, etc., etc.
 
-N.º 42. Funcções de nutrição
+N.o 42. Funcções de nutrição
 
-N.º 43. Funcções de relação
+N.o 43. Funcções de relação
 
 Veja-se o artigo Vida, força
 vital.
 
-N.º 44. Glandula. - Do latim glans, bolota, pela sua similhança
+N.o 44. Glandula. - Do latim glans, bolota, pela sua similhança
 com este fructo. Nome que exclusivamente se applica
 aos orgãos flaccidos granulosos, lobulares, ou parenchymatosos,
 compostos de vasos, de nervos, e de um tecido particular,
@@ -2586,20 +2586,20 @@ nos quaes os fluidos secretados se juntam e se demoram
 mais ou menos, soffrendo uma ligeira modificação, como
 a vesicula do fel para a bilis, e a bexiga para a urina.
 
-N.º 45. Humorismo. - Systema de medicina, que data dos
+N.o 45. Humorismo. - Systema de medicina, que data dos
 tempos mais remotos, e em que se consideram como causa
 das doenças a alteração primitiva dos humores. Galeno foi
 quem o reduziu a corpo de doutrina, que prevaleceu até ao
-17.º seculo.
+17.o seculo.
 
-N.º 46. Idiosyncracia. - Do grego idios, proprio, particular,
+N.o 46. Idiosyncracia. - Do grego idios, proprio, particular,
 e krasis, temperamento. Disposição particular de um
 individuo, que faz com que uma causa qualquer produza
 n'elle um effeito differente d'aquelle, que produz nos outros
 individuos. As repugnancias, os appetites são individuaes,
 são idiosyncracias.
 
-N.º 47. Ligamentos. - Em anatomia dá-se o nome de ligamentos
+N.o 47. Ligamentos. - Em anatomia dá-se o nome de ligamentos
 aos feixes fibrosos de um tecido branco prateado,
 pouco extensivel, e difficil de quebrar. Os ligamentos adherem,
 ao menos pelas suas extremidades, aos ossos, ou ás cartilagens,
@@ -2612,13 +2612,13 @@ osso para obliterar uma abertura, ou converter em orificio
 uma chanfradura; mixtos quando servem á inserção dos
 musculos preenchendo um espaço entre os ossos.
 
-N.º 48. Materia medica. - Sob este nome reune a medicina
+N.o 48. Materia medica. - Sob este nome reune a medicina
 todas as substancias, que o medico emprega no tratamento
 das doenças.
 
 65
 
-N.º 49. Moxa. - É opinião seguida, que vem do vocabulo
+N.o 49. Moxa. - É opinião seguida, que vem do vocabulo
 portuguez mexa, e que foram os portuguezes, que o introduziram
 na Europa. Especie de cauterio usado na China e
 no Japão, applicado por meio de algodão em rama, de que se
@@ -2626,13 +2626,13 @@ fórma um cylindro, em que se introduz uma mexa de algodão
 embebido em uma solução de chlorato de potassa. Colloca-se
 sobre a parte, que se quer queimar, e applica-se-lhe o fogo.
 
-N.º 50. Musculos. - Do latim musculus, orgãos fibrosos,
+N.o 50. Musculos. - Do latim musculus, orgãos fibrosos,
 que, sob a influencia da vontade, ou de certas irritações estranhas,
 se encolhem na direcção das suas fibras, e produzem
 os movimentos diversos dos seres animados. A parte da
 anatomia, que trata dos musculos, chama-se myologia.
 
-N.º 51. Ontologia. Do grego on-ont, os, ser, e logos,
+N.o 51. Ontologia. Do grego on-ont, os, ser, e logos,
 discurso. Sciencia do ente em geral. Wolf foi o primeiro que
 empregou o vocabulo ontologia, designando por elle uma
 sciencia sobre si, que tinha por fim o estudo da essencia do
@@ -2644,33 +2644,33 @@ tambem as differentes especies de seres, o espaço e o tempo,
 o finito e o infinito. É pouco mais ou menos aquillo a que
 hoje se dá o nome de metaphysica geral.
 
-N.º 52. Orgão. - Do grego organon, instrumento. Parte
+N.o 52. Orgão. - Do grego organon, instrumento. Parte
 de um ser organisado destinada a preencher uma funcção.
 
-N.º 53. Succo pancreatico. - Liquido secretado no pancreas,
+N.o 53. Succo pancreatico. - Liquido secretado no pancreas,
 analogo á saliva, que, lançado com a bilis no duodeno,
 concorre para se fazer a digestão.
 
-N.º 54. Pancreas. - Orgão lobuloso de côr amarellada
+N.o 54. Pancreas. - Orgão lobuloso de côr amarellada
 situado no epigastrio, debaixo do estomago, na espessura do
 mesocolon.
 
-N.º 55. Epigastrio. - Parte média da região superior do
+N.o 55. Epigastrio. - Parte média da região superior do
 abdomen situada entre os dois hypocondrios.
 
 66
 
-N.º 56. Mesocolon. - Tunica ou membrana, que envolve
+N.o 56. Mesocolon. - Tunica ou membrana, que envolve
 os intestinos.
 
-N.º 57. Pericardio. - De peri, em torno, e kardia, coração.
+N.o 57. Pericardio. - De peri, em torno, e kardia, coração.
 Especie de saco membranoso, que envolve o coração,
 e os troncos arteriaes e venosos, que saem ou entram no
 coração.
 
-N.º 58. Pericardites. - Inflammação de pericardio.
+N.o 58. Pericardites. - Inflammação de pericardio.
 
-N.º 59. Periosteo. - Do grego peri, em volta, e osteon,
+N.o 59. Periosteo. - Do grego peri, em volta, e osteon,
 osso. Membrana fibrosa, branca, resistente, que fórma um
 involucro aos ossos e os reveste por todos os lados, excepto
 na parte, em que são cobertos por cartilagens. O periosteo
@@ -2678,7 +2678,7 @@ contribue para o augmento dos ossos, fornecendo-lhes pela
 sua parte interna uma transudação albuminosa, que passa
 depois ao estado cartilaginoso, acabando por se ossificar.
 
-N.º 60. Pharmacologia. Do grego pharmacon, medicamento,
+N.o 60. Pharmacologia. Do grego pharmacon, medicamento,
 e logos, discurso. Descripção dos medicamentos,
 estudo da materia medica. Esta parte da sciencia tem por
 fim o apresentar ao facultativo pratico os medicamentos considerados
@@ -2688,7 +2688,7 @@ de que se usa. É tão necessaria ao medico como ao boticario;
 e sob o nome de materia medica, é o objecto de um ensino
 especial nas escolas de medicina.
 
-N.º 61. Solidismo. - A doutrina opposta ao humorismo.
+N.o 61. Solidismo. - A doutrina opposta ao humorismo.
 Themison foi o seu mais ardente defensor, logo depois d'elle
 seus discipulos; e nos tempos modernos tem sido reproduzida
 esta doutrina sob muitas fórmas diversas por Bressot,
@@ -2698,7 +2698,7 @@ que só os solidos são dotados de propriedades vitaes,
 que só elles podem receber a impressão das causas mortiferas,
 e que só n'elles podem ter logar os phenomenos pathologicos.
 
-N.º 62. Synocha. - Do grego synokhe, continuo. Denominação,
+N.o 62. Synocha. - Do grego synokhe, continuo. Denominação,
 sob a qual antigamente se comprehendiam todas as
 febres, que duravam certo tempo sem intermissão, e mesmo
 sem remissão natural. A febre inflammatoria dos auctores
@@ -2706,22 +2706,22 @@ modernos é a febre synocha dos antigos.
 
 67
 
-N.º 63. Viscera. - Do latim viscera, nome generico a todos
+N.o 63. Viscera. - Do latim viscera, nome generico a todos
 os orgãos collocados em qualquer das tres splanchnicas,
 - a cabeça, o peito, e o abdomen, e cuja acção é mais ou
 menos essencial para que a vida se conserve.
 
-N.º 64. Duodeno. - A primeira parte do intestino delgado,
+N.o 64. Duodeno. - A primeira parte do intestino delgado,
 que communica com o estomago pelo pyloro, e que
 assim se chama por ter o comprimento de quasi doze dedos
 travessos.
 
-N.º 65. Pyloro. - Do grego pylouros, porteiro. Orificio
+N.o 65. Pyloro. - Do grego pylouros, porteiro. Orificio
 inferior do estomago, situado no epygastrio, abaixo do figado,
 defronte e por cima do pancreas, perto do collo da vesicula
 biliar.
 
-N.º 66. Systema. - Um systema nada mais é do que a disposição
+N.o 66. Systema. - Um systema nada mais é do que a disposição
 das differentes partes de uma arte ou sciencia em
 uma ordem em que mutuamente se sustentam; onde as ultimas
 se explicam pelas primeiras, e em que se dá o nome de
@@ -2751,7 +2751,7 @@ o systema chrono-thermal.
 
 68
 
-N.º 67. Absorpção. - Do latim, ab, e sorvere. É o phenomeno
+N.o 67. Absorpção. - Do latim, ab, e sorvere. É o phenomeno
 pelo qual um corpo se penetra de outro corpo solido,
 liquido ou gazoso, que toca a sua superficie. Em physica
 a absorpção tem logar, sem que os corpos, que mutuamente
@@ -2766,18 +2766,18 @@ fluido conhecido pelo nome de lympha, que depois transmittem
 os vasos absorventes no mesenterio, o phenomeno da
 absorpção havia sido considerado o resultado de uma propriedade
 vital particular; mas em 1824 Magendi, no seu Précis
-élémentaire de Physiologie, 2.ª edição, 2.º volume, paginas
+élémentaire de Physiologie, 2.a edição, 2.o volume, paginas
 269 a paginas 272, demonstra até á evidencia, que a absorpção
 é um simples phenomeno de embebição.
 
-N.º 68. Alterantes. - Antigamente dividiam-se os remedios
+N.o 68. Alterantes. - Antigamente dividiam-se os remedios
 em duas grandes classes: aquelles que pela sua acção
 produzem evacuações, chamavam-se evacuantes; e os que
 modificavam os solidos e os fluidos, sem determinar evacuações,
 tinham o nome de alterantes. Esta classe comprehende
 a maior parte dos agentes therapeuticos.
 
-N.º 69. Archeo. - Do grego archion, vocabulo muito obscuro,
+N.o 69. Archeo. - Do grego archion, vocabulo muito obscuro,
 e empregado pelos antigos chimicos em differentes
 accepções, já significando um certo espirito universal diffundido
 por toda a creação, a causa activa de todos os phenomenos
@@ -2800,7 +2800,7 @@ Van-Helmont havia tantos archeos quantos orgãos.
 
 69
 
-N.º 70. Peristaltico. - Do grego peri, em volta, e stello,
+N.o 70. Peristaltico. - Do grego peri, em volta, e stello,
 apertar. Movimento similhante ao dos vermes, pelo qual os
 intestinos se contrahem, e concorrem para a digestão e defecação;
 e que consiste em uma ondulação apparentemente irregular,
@@ -2810,18 +2810,18 @@ que a materia chymosa se adianta no canal alimentar, e
 obrigam os alimentos a passar á porção seguinte do intestino
 até á expulsão do seu residuo.
 
-N.º 71. Jugulante. - Do verbo latino, jugulo, degolar, cortar
+N.o 71. Jugulante. - Do verbo latino, jugulo, degolar, cortar
 a cabeça. Emprega-se este vocabulo para designar as emissões
 sanguineas.
 
-N.º 72. Splanchnicas. - Do grego splangkhnon, viscera.
+N.o 72. Splanchnicas. - Do grego splangkhnon, viscera.
 Dá-se o nome de cavidades splanchnicas ás tres grandes cavidades
 do corpo humano: o craneo, o peito, e o abdomen.
 Chamam-se nervos splanchnicos dois nervos que pertencem
 ao nervo grande sympathico, e tem o nome de grande splanchnico
 e pequeno splanchnico.
 
-N.º 73. Grande sympathico. - Tres são os nervos a que se
+N.o 73. Grande sympathico. - Tres são os nervos a que se
 dá o nome de sympathicos em consequencia da sua importancia
 nos phenomenos sympathicos. Grande sympathico, a que
 Chaussier deu o nome de trisplanchnico, porque as suas ramificações
@@ -2868,13 +2868,13 @@ do homem escrutinador. Este typo é a febre intermittente.»
 Tratando da saude e da doença chega o dr. Dickson ás seguintes
 conclusões:
 
-1.ª «O phenomeno da saude perfeita consiste em uma serie
+1.a «O phenomeno da saude perfeita consiste em uma serie
 regular de movimentos e de acontecimentos, cada um dos
 quaes comprehende um periodo de tempo especial.»
 
 72
 
-2.ª «A doença, em todas as suas modificações, é em primeiro
+2.a «A doença, em todas as suas modificações, é em primeiro
 logar uma simples exageração, ou diminuição da
 somma de todos aquelles movimentos e acontecimentos; e
 sendo universalmente alternativa com um periodo de saude
@@ -2885,7 +2885,7 @@ pulmonar, e decomposição do joelho, a que se dá o nome de
 tumor branco, são meros desenvolvimentos em andamento
 da tisica do dente, da tisica do bofe, da tisica do joelho.»
 
-3.ª «A tendencia á desorganisação, usualmente chamada
+3.a «A tendencia á desorganisação, usualmente chamada
 aguda ou inflammatoria, differe da chronica ou escrophulosa
 meramente na quantidade do movimento e temperatura; a
 primeira, sendo notavelmente mais caracterisada pelo excesso
@@ -3185,15 +3185,15 @@ impossivel. Entre os obstaculos que se oppõem á
 sua realisação apresenta o auctor, a que acima nos referimos,
 os seguintes:
 
-1.º Noção vaga e mesmo falsa dos medicamentos em geral.
+1.o Noção vaga e mesmo falsa dos medicamentos em geral.
 
-2.º Ignorancia, pela mesma causa, da correlação dos medicamentos
+2.o Ignorancia, pela mesma causa, da correlação dos medicamentos
 com as molestias.
 
-3.º Ignorancia, pela mesma rasão, das leis da correlação
+3.o Ignorancia, pela mesma rasão, das leis da correlação
 dos medicamentos entre si.
 
-4.º Subordinação, cega, fatal, e absoluta da therapeutica
+4.o Subordinação, cega, fatal, e absoluta da therapeutica
 ás especulações abstractas da pathologia geral.
 
 Ora, não será a ultima por si só bastante para destruir pela
@@ -3316,7 +3316,7 @@ estabelecido na rua de Great Ormond.
 
 82
 
-Na pagina 452 da Illustrated London News do 1.º de maio
+Na pagina 452 da Illustrated London News do 1.o de maio
 corrente se lê que «a homœopathia n'estes ultimos sessenta
 annos tem ganho muito terreno em todos os paizes civilisados
 do mundo; que a homœopathia é hoje reconhecida a
@@ -3543,7 +3543,7 @@ se obstinava em negar as propriedades que Raspail attribue
 á camphora, rendendo homenagem á sua theoria sobre as
 causas verminosas, admittia em seus formularios uma medicação
 anthelminthica. L'idée, diz Bouchardat no seu Formulario
-de 1851, pag. 396, columna 2.ª, l'idée que plusieurs
+de 1851, pag. 396, columna 2.a, l'idée que plusieurs
 des maladies qui affligent l'homme, sont determinées par
 l'existence d'êtres parasites, commence à prendre quelque
 consistance. Bouchardat é membro da academia, aggregado
@@ -3579,23 +3579,23 @@ em presença da lei.»
 Somos de opinião que a humanidade em geral é devedora
 a Raspail de grandes beneficios:
 
-1.º Porque supprimiu todos os meios jugulantes, flagelladores
+1.o Porque supprimiu todos os meios jugulantes, flagelladores
 e martyrisantes.
 
-2.º Porque supprimiu a polypharmacia representada n'essa
+2.o Porque supprimiu a polypharmacia representada n'essa
 alluvião indigesta de drogas medicinaes inuteis ou perniciosas
 á saude e á bolsa do cidadão; já apurando de entre ellas
 as unicas indispensaveis por sua utilidade bem reconhecida e
 provada, já inventando novos meios mais efficazes e proficuos.
 
-3.º Porque restabeleceu a idéa de uma das causas das
+3.o Porque restabeleceu a idéa de uma das causas das
 doenças, ignorada ou esquecida, causa que abrange o maior
 numero dos males physicos que affligem a humanidade.
 
-4.º Porque ensinou a toda a gente a passar sem medico e
+4.o Porque ensinou a toda a gente a passar sem medico e
 sem pharmaceutico.
 
-5.º Porque em logar de enfraquecer o doente para que o
+5.o Porque em logar de enfraquecer o doente para que o
 medicamento possa produzir effeito, busca conservar as forças
 do enfermo para que a natureza vença a enfermidade,
 do que resulta sempre em logar de uma convalescença muitas
@@ -3639,7 +3639,7 @@ bebida, banho e fomentação.
 [1] A Gazette hebdomadaire de médecine de Paris do dia 25 de setembro
 contém um documento interessante, que é a traducção da carta
 que o dr. Samartaides escreveu ao redactor do jornal a Abelha medica
-de Athenas no 1.º de maio de 1857, annunciando-lhe o haver
+de Athenas no 1.o de maio de 1857, annunciando-lhe o haver
 descoberto o tumulo do divino Hyppocrates na Thessalia entre Larissa
 e a antiga Gyston, hoje Tyrnabe.
 
@@ -3824,17 +3824,17 @@ Na prefação diz o auctor, que para se realisar mais facilmente
 o fim a que se propõe, o vulgarisar em terra e a bordo
 dos nossos navios a inapreciavel pratica da effusão, e da ablução
 fria, lhe parece conveniente no opusculo que publíca:
-1.º, decepar os prejuizos populares, mostrando que o uso
+1.o, decepar os prejuizos populares, mostrando que o uso
 externo da agua fria nas febres não é uma pratica nova, que
 antes é tão antiga como a medicina, e que tem sido mais ou
 menos adoptada em quasi todos os tempos, e em quasi todos
-os paizes; 2.º, dar uma idéa precisa do methodo da effusão;
-3.º, supprir a falta de conhecimentos da maior parte
+os paizes; 2.o, dar uma idéa precisa do methodo da effusão;
+3.o, supprir a falta de conhecimentos da maior parte
 dos cirurgiões da marinha, expondo os caracteres do typho;
-4.º, transcrever historias de doentes do typho tratados
-pela effusão fria; 5.º, dar a theoria do typho segundo os novos
+4.o, transcrever historias de doentes do typho tratados
+pela effusão fria; 5.o, dar a theoria do typho segundo os novos
 e verosimeis principios da zoonomia, e mostrar como
-obra a effusão, e a ablução fria; 6.º, e ultimamente transcrever
+obra a effusão, e a ablução fria; 6.o, e ultimamente transcrever
 a mencionada carta ao dr. Currie. (É a carta que o dr. Gomes
 escreveu ao dr. Currie, annunciando-lhe os felizes resultados
 que tinha tirado da applicação da agua fria no tratamento
@@ -3993,9 +3993,9 @@ Mesmer em 1775, até ao dr. John Mill, de Londres, em abril
 de 1857, e até aos ultimos numeros do Journal du magnétisme
 redigé par une société de magnetiseurs et de médecins,
 sous la diréction de mr. le baron du Potet: que já está no
-17.º volume, e The Zoist, a Journal of cerebral physiology
+17.o volume, e The Zoist, a Journal of cerebral physiology
 and mesmerism and their application to human welfare, que
-já está no 14.º volume.
+já está no 14.o volume.
 
 99
 
@@ -4460,9 +4460,9 @@ persuadidos que o dr. Esdaile foi destinado pela Providencia
 para ser o bemfeitor da humanidade e a honra da sua
 profissão. Somos, sr. editor, com toda a consideração, vossos
 attentos veneradores = M. Corfield, major do regimento
-n.º 20 = H. W. Denys, ajudante do regimento n.º 20 = T. Roll,
-tenente do regimento n.º 40 = J. G. Briggs, tenente do regimento
-n.º 64.
+n.o 20 = H. W. Denys, ajudante do regimento n.o 20 = T. Roll,
+tenente do regimento n.o 40 = J. G. Briggs, tenente do regimento
+n.o 64.
 
 Entre muitos factos, que apresenta o barão du Potet, escolhemos
 o seguinte por occupar menos espaço.
@@ -4785,7 +4785,7 @@ lhe são necessarios cauterios, que ainda passará dois mezes
 sem sentimento nas pernas, e que dentro de sete ou oito mezes
 se poderia servir d'ellas.
 
-No 1.º de outubro os factos seguintes foram registados:
+No 1.o de outubro os factos seguintes foram registados:
 cessação total dos ataques de epilepsia, e dos desmaios; desapparição
 da baba espumosa, cura completa da bexiga, amplitude
 no orgão da voz, que havia muito tempo tinha perdido
@@ -4843,7 +4843,7 @@ emoção e de reconhecimento pelos dons da Divindade.
 
 No dia 12 de novembro no somno magnetico a doente annuncia
 os factos seguintes: que o movimento do braço direito
-será completo no dia 1.º de dezembro como o da perna,
+será completo no dia 1.o de dezembro como o da perna,
 poderá pegar em um livro e virar as folhas. Cinco dias depois
 poderá levar comer á bôca sem ajuda. Nos primeiros
 dias, de dezembro a sensibilidade tornará ao lado esquerdo,
@@ -4853,7 +4853,7 @@ Continúa a haver agua na espinha dorsal, os cauterios são indispensaveis,
 e grande tem sido a tardança em os applicar.
 Para o fim do mez de dezembro pode-la-hão tirar da cama,
 e senta-la em uma cadeira de braços, mas as primeiras vezes
-ha de ali estar incommodada. No 1.º de abril andará no seu
+ha de ali estar incommodada. No 1.o de abril andará no seu
 quarto, mas muito pouco. No mez de maio poderá passeiar
 no jardim, dando-lhe alguem o braço. No mez de janeiro a
 magnetisação deve ser só um dia sim outro não; as sangrias
@@ -5097,7 +5097,7 @@ P. Então vêdes o interior do vosso corpo?
 
 R. Perfeitamente.
 
-No 1.º de janeiro de 1852 escreveu a doente a carta seguinte
+No 1.o de janeiro de 1852 escreveu a doente a carta seguinte
 ao general e a m.me Cubiers: «Quando todos se apressam,
 no principio do anno, a levar os seus votos ao céu pelas
 pessoas que lhes são caras, poderia eu ficar silenciosa, eu
@@ -5138,7 +5138,7 @@ das outras, e de duas horas e um quarto duas d'ellas.
 Os dois cauterios applicados ao longo da columna vertebral,
 nos ultimos oito dias, têem purgado muito.
 
-Desde o 1.º de janeiro voltou á doente toda a lucidez. Vé
+Desde o 1.o de janeiro voltou á doente toda a lucidez. Vé
 ao longe, especialmente seus irmãos e sua irmã, cuja posição
 indica, bem como o que estão fazendo. Se não apparecer
 algum incidente inesperado nada terei a dizer-vos até ao mez
@@ -5332,7 +5332,7 @@ o ver os meus compatriotas, a quem tão sinceramente
 tenho sempre amado e servido, livres do que entre nós se
 chama medicina legal.
 
-1.ª Não posso ver sem horror, que ao estudante que acaba
+1.a Não posso ver sem horror, que ao estudante que acaba
 o curso da medicina e recebe o diploma de medico ou de cirurgião
 seja permittido, sem a menor responsabilidade, empregar
 nas dóses que lhe parece mais de cem activissimos
@@ -5361,7 +5361,7 @@ em pouco tempo.
 
 128
 
-2.ª Graves padecimentos tenho soffrido, dos quaes só me
+2.a Graves padecimentos tenho soffrido, dos quaes só me
 restabeleci depois que abandonei o tratamento allopathico ou
 que o evitei.
 
@@ -5463,7 +5463,7 @@ ao meio dia e á noite; não posso afiançar que escapará;
 mas se isso se conseguir ficará em grande abatimento por
 muito tempo; se quer ser tratado pela agua fria em tres dias
 voltará a cavallo para Lisboa. Sr. Bernardino, lhe disse eu,
-v. s.ª é homem de bem e meu amigo. Dá-me v. s.ª a sua palavra
+v. s.a é homem de bem e meu amigo. Dá-me v. s.a a sua palavra
 de honra, não de que assim acontecerá, mas de que a
 sua convicção é que assim deve acontecer? Sim, senhor, dou.
 Não hesitei um momento. Tinha ficado n'aquella das minhas
@@ -5680,7 +5680,7 @@ completamente ao quinto banho.
 Certifico pela minha honra a verdade e exactidão dos quatro
 factos cuja relação precede.
 
-3.ª Porque a allopathia pelo estado de anarchia em que
+3.a Porque a allopathia pelo estado de anarchia em que
 se acha não póde deixar de ser considerada prejudicial á sociedade.
 Porque não é uma sciencia, mas um mixto informe
 de idéas inexactas, de observações pueris, de meios illusorios,
@@ -6000,7 +6000,7 @@ da arte; empirismo em toda a parte: eis-aqui o estado da
 medicina.»
 
 Mr. Valleix, medico de um hospice de piete, na pag. 11
-do 1.º vol. da sua Guide du médecin praticien, diz: - «Quanto
+do 1.o vol. da sua Guide du médecin praticien, diz: - «Quanto
 não custa ver tantos estudos e vigilias empregadas pela mocidade,
 cheia de ardor, para conseguir resultados tão mesquinhos;
 quantos erros por algumas poucas verdades.»
